@@ -534,4 +534,30 @@ AS
 SELECT * EXCLUDE (year, make, model)
 FROM tb_101.raw_pos.truck;
 
+use role accountadmin;
+-- Git連携のため、API統合を作成する
+CREATE OR REPLACE API INTEGRATION git_api_integration
+  API_PROVIDER = git_https_api
+  API_ALLOWED_PREFIXES = ('https://github.com/sfc-gh-skawakami/horizon_handson.git')
+  ENABLED = TRUE;
+
+-- GIT統合の作成
+use role sysadmin;
+CREATE OR REPLACE GIT REPOSITORY TB_101.public.GIT_INTEGRATION_FOR_HANDSON
+  API_INTEGRATION = git_api_integration
+  ORIGIN = 'https://github.com/sfc-gh-skawakami/horizon_handson.git';
+
+-- Notebookの作成
+CREATE OR REPLACE NOTEBOOK tb_101.public.horizon_handson
+    FROM @TB_101.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/
+    MAIN_FILE = 'Horizon Catalog Handson.ipynb'
+    QUERY_WAREHOUSE = COMPUTE_WH
+    WAREHOUSE = SYSTEM$STREAMLIT_NOTEBOOK_WH;
+
+CREATE OR REPLACE NOTEBOOK tb_101.public.qucik_start_example
+    FROM @TB_101.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/
+    MAIN_FILE = 'QUICK_STARTZ_EXAMPLE.ipynb'
+    QUERY_WAREHOUSE = COMPUTE_WH
+    WAREHOUSE = SYSTEM$STREAMLIT_NOTEBOOK_WH;
+
 SELECT 'SETUP COMPLETED' as result;
