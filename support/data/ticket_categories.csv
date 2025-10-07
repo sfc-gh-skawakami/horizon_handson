@@ -1,0 +1,9 @@
+category_id,category_name,description,sla_hours
+1,Technical Issue,Software bugs and technical problems,24
+2,Bug Report,Reported software defects,48
+3,Feature Request,Requests for new functionality,168
+4,Account Issue,User account and access problems,8
+5,Billing Question,Billing and payment inquiries,24
+6,General Inquiry,General questions and information requests,48
+7,Security Concern,Security-related issues and vulnerabilities,4
+8,Performance Issue,System performance and optimization,12

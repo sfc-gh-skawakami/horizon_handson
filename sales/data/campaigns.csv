@@ -1,0 +1,21 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,status,target_audience,expected_leads
+1,Webinar Campaign 1,Email,2023-01-19,2023-07-20,34256,Completed,Bronze,742
+2,Webinar Campaign 2,Trade Show,2023-03-05,2023-11-05,8905,Active,Silver,288
+3,Trade Show Campaign 3,Trade Show,2023-01-20,2023-05-26,90181,Cancelled,Silver,509
+4,Trade Show Campaign 4,Content Marketing,2024-08-13,2023-01-05,25926,Cancelled,Gold,334
+5,Social Media Campaign 5,Social Media,2024-11-29,2023-09-03,17156,Cancelled,Bronze,417
+6,Referral Campaign 6,Content Marketing,2024-03-16,2024-08-12,65217,Active,Platinum,130
+7,Trade Show Campaign 7,Content Marketing,2024-08-28,2024-03-27,52400,Completed,Bronze,96
+8,Webinar Campaign 8,Social Media,2024-07-18,2024-12-20,35512,Active,Platinum,334
+9,Paid Search Campaign 9,Webinar,2024-08-31,2023-04-29,51566,Completed,Gold,768
+10,Webinar Campaign 10,Webinar,2023-02-22,2024-04-08,75010,Completed,Silver,523
+11,Paid Search Campaign 11,Content Marketing,2024-12-23,2024-04-12,78000,Completed,Gold,913
+12,Referral Campaign 12,Referral,2023-02-10,2024-08-22,46347,Cancelled,Gold,117
+13,Social Media Campaign 13,Trade Show,2024-10-01,2023-08-18,90909,Cancelled,Platinum,955
+14,Webinar Campaign 14,Paid Search,2023-04-15,2023-04-12,78579,Paused,Platinum,969
+15,Trade Show Campaign 15,Paid Search,2023-09-22,2024-12-29,23131,Cancelled,Bronze,823
+16,Email Campaign 16,Referral,2023-03-22,2024-04-03,94192,Cancelled,Bronze,444
+17,Paid Search Campaign 17,Trade Show,2024-12-28,2024-01-22,77512,Active,Bronze,748
+18,Trade Show Campaign 18,Referral,2023-07-14,2024-04-12,19621,Paused,Platinum,211
+19,Paid Search Campaign 19,Email,2024-11-27,2024-10-01,39522,Completed,Bronze,941
+20,Webinar Campaign 20,Content Marketing,2024-09-06,2024-01-06,31071,Completed,Gold,830

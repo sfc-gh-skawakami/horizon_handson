@@ -1,0 +1,11 @@
+territory_id,territory_name,region,states
+1,West Coast,North America,"CA, WA, OR, NV"
+2,East Coast,North America,"NY, NJ, CT, MA"
+3,Midwest,North America,"IL, OH, MI, WI"
+4,Southeast,North America,"FL, GA, NC, SC"
+5,Southwest,North America,"TX, AZ, NM, CO"
+6,United Kingdom,Europe,"England, Scotland, Wales"
+7,Germany,Europe,All German States
+8,Japan,Asia Pacific,All Prefectures
+9,Australia,Asia Pacific,All States
+10,Canada,North America,All Provinces

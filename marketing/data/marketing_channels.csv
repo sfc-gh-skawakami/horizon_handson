@@ -1,0 +1,11 @@
+channel_id,channel_name,channel_type,cost_per_lead,avg_conversion_rate
+1,Email Marketing,Email,25.5,0.12
+2,Facebook Ads,Social Media,45.75,0.08
+3,Google Ads,Paid Search,65.25,0.15
+4,LinkedIn Ads,Social Media,85.0,0.1
+5,Content Marketing,Content Marketing,15.3,0.05
+6,SEO,SEO,8.75,0.03
+7,Display Advertising,Display,35.4,0.06
+8,Webinars,Events,55.6,0.2
+9,Direct Mail,Direct Mail,75.8,0.18
+10,Influencer Marketing,Influencer,95.25,0.12

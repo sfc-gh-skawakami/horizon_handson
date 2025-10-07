@@ -1,0 +1,8 @@
+status_id,status_name,description,is_active,is_resolved
+1,Open,Newly created ticket,True,False
+2,In Progress,Agent is working on the ticket,True,False
+3,Pending Customer,Waiting for customer response,True,False
+4,Pending Vendor,Waiting for vendor or third-party response,True,False
+5,Resolved,Issue has been resolved,False,True
+6,Closed,Ticket is closed,False,True
+7,Cancelled,Ticket was cancelled,False,False

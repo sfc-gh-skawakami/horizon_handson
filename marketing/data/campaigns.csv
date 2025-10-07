@@ -1,0 +1,51 @@
+campaign_id,campaign_name,campaign_type,channel_id,audience_id,start_date,end_date,budget,status,objective,target_leads,expected_roi,created_by,last_modified
+1,Content Marketing Campaign 1,Display,4,2,2024-04-11,2024-04-17,198061,Planning,Upsell,812,3.57,Brandon Hall,2024-03-15
+2,Webinars Campaign 2,Direct Mail,4,4,2024-02-14,2024-09-30,159472,Paused,Awareness,1407,3.94,Christopher Bernard,2023-09-03
+3,SEO Campaign 3,Influencer,5,7,2023-03-09,2023-05-12,16390,Completed,Upsell,1122,4.91,Juan Calderon,2024-03-27
+4,Social Media Campaign 4,Email,4,7,2024-09-21,2024-11-18,80861,Planning,Lead Generation,927,2.83,Roy Martin,2023-09-17
+5,Social Media Campaign 5,Influencer,3,5,2024-05-04,2024-10-20,196136,Active,Lead Generation,3886,2.83,Margaret Hawkins DDS,2024-09-07
+6,Email Campaign 6,SEO,7,3,2024-07-20,2024-08-26,22350,Active,Upsell,2677,2.24,Dr. Marvin Thomas Jr.,2024-06-27
+7,Direct Mail Campaign 7,Influencer,7,3,2024-01-29,2024-10-06,62493,Active,Upsell,4142,1.82,Brian Burton,2024-08-01
+8,Direct Mail Campaign 8,Influencer,8,5,2023-11-05,2023-12-01,70906,Cancelled,Awareness,1038,3.89,Debra Davidson,2023-03-23
+9,Content Marketing Campaign 9,Webinars,3,5,2023-11-14,2024-05-19,32894,Paused,Upsell,1729,2.03,Kimberly Osborne,2024-01-23
+10,Email Campaign 10,Social Media,6,7,2023-01-01,2023-08-25,85612,Active,Awareness,2073,4.57,Angelica Tucker,2023-02-20
+11,Paid Search Campaign 11,Events,9,2,2024-07-09,2024-11-20,74483,Cancelled,Upsell,3566,4.88,Nicole Vaughn,2024-06-04
+12,SEO Campaign 12,Events,9,4,2023-10-19,2024-08-08,36720,Active,Lead Generation,624,2.68,Crystal Robinson,2023-02-21
+13,Email Campaign 13,SEO,2,5,2024-04-05,2024-06-05,67391,Paused,Retention,1855,3.39,Sonya Johnston,2023-06-27
+14,Social Media Campaign 14,Social Media,7,3,2023-12-12,2024-05-16,116038,Completed,Retention,543,3.86,Mrs. Jennifer Morgan,2024-09-21
+15,Events Campaign 15,Paid Search,7,2,2023-07-01,2023-10-13,78018,Completed,Lead Generation,717,3.05,Krista Williams,2024-12-30
+16,Display Campaign 16,Paid Search,7,4,2024-09-02,2024-12-27,131185,Active,Retention,580,2.08,James House,2024-07-27
+17,Webinars Campaign 17,Events,3,2,2023-07-28,2024-07-25,82780,Active,Awareness,4844,4.08,Erik Williams,2023-12-15
+18,Email Campaign 18,Webinars,2,7,2024-11-02,2024-12-03,53712,Planning,Upsell,656,3.86,Bryan Zamora,2023-06-29
+19,Direct Mail Campaign 19,Influencer,10,5,2024-03-09,2024-09-08,87934,Paused,Lead Generation,2673,2.34,Michael Evans,2023-08-19
+20,Events Campaign 20,Influencer,10,1,2024-07-02,2024-07-15,24204,Cancelled,Lead Generation,4244,2.43,Shirley Suarez,2023-09-27
+21,Content Marketing Campaign 21,Influencer,9,1,2023-04-26,2024-09-19,180076,Cancelled,Conversion,948,4.79,Brian Rodriguez,2024-02-08
+22,SEO Campaign 22,Display,5,5,2023-07-18,2024-06-03,133065,Paused,Awareness,856,3.72,Amanda Cook,2023-04-06
+23,Events Campaign 23,Webinars,7,5,2024-12-16,2024-12-18,7534,Planning,Awareness,1321,3.41,Lauren Hernandez,2023-04-04
+24,Email Campaign 24,SEO,4,6,2023-08-14,2024-11-09,70412,Planning,Conversion,4686,4.59,Marc Moore,2024-11-09
+25,Paid Search Campaign 25,Direct Mail,1,2,2024-09-23,2024-12-28,198085,Paused,Retention,2132,2.43,Ashley Brennan,2024-09-18
+26,Events Campaign 26,SEO,5,7,2023-06-12,2024-09-17,64662,Active,Awareness,1682,2.89,Benjamin Ayala,2023-09-14
+27,Webinars Campaign 27,SEO,1,1,2024-01-07,2024-09-06,73475,Active,Upsell,2274,1.63,Haley Hartman,2023-11-15
+28,Influencer Campaign 28,Display,5,1,2024-12-19,2024-12-20,190803,Completed,Awareness,4359,4.74,Michelle Harmon,2024-05-04
+29,SEO Campaign 29,Influencer,6,6,2023-09-23,2023-10-25,37669,Paused,Upsell,2633,3.83,Michael Spencer,2023-05-21
+30,Paid Search Campaign 30,Influencer,10,3,2024-04-30,2024-07-31,111450,Cancelled,Awareness,2589,2.5,Kevin Pena,2023-12-06
+31,Events Campaign 31,Paid Search,2,3,2023-11-19,2024-02-14,140122,Cancelled,Conversion,865,4.36,Megan Walker,2023-05-26
+32,Events Campaign 32,Influencer,2,4,2023-01-18,2023-07-11,113643,Cancelled,Lead Generation,3245,3.23,Matthew Smith,2024-07-02
+33,Direct Mail Campaign 33,Display,3,7,2024-07-16,2024-08-02,187429,Cancelled,Retention,511,3.45,Barbara Anderson,2023-12-06
+34,SEO Campaign 34,Events,10,7,2024-01-23,2024-08-01,193553,Cancelled,Retention,4588,3.06,Scott Cole,2024-07-02
+35,Webinars Campaign 35,Events,4,3,2024-09-05,2024-10-07,120309,Planning,Conversion,2020,2.45,Joshua Taylor,2023-06-18
+36,Social Media Campaign 36,Direct Mail,7,3,2024-05-21,2024-10-26,147242,Completed,Retention,610,2.22,Taylor Silva,2024-05-22
+37,Direct Mail Campaign 37,Events,1,3,2024-09-17,2024-12-06,83279,Completed,Retention,4509,4.12,Lindsey Walker,2023-06-10
+38,SEO Campaign 38,Direct Mail,3,7,2023-11-15,2023-11-26,127523,Active,Upsell,4475,1.59,Justin Johnson,2024-04-14
+39,Email Campaign 39,Content Marketing,7,3,2023-04-10,2024-01-26,60485,Completed,Conversion,2864,4.16,Paul Decker,2023-07-04
+40,Webinars Campaign 40,Email,6,2,2023-03-01,2023-03-14,175431,Planning,Awareness,354,4.82,Alex Hernandez,2023-04-03
+41,Display Campaign 41,Events,5,7,2024-05-03,2024-09-16,101703,Active,Upsell,1038,4.22,Eric Lane,2024-11-09
+42,Direct Mail Campaign 42,Direct Mail,4,1,2024-02-25,2024-12-02,160214,Active,Awareness,2570,4.48,Barbara Riggs,2024-07-25
+43,SEO Campaign 43,Social Media,9,6,2023-09-11,2024-04-02,94451,Planning,Retention,4115,1.87,Madison Poole,2024-05-31
+44,Content Marketing Campaign 44,Influencer,9,7,2023-11-14,2024-09-12,131745,Completed,Retention,4953,2.44,Sandra Miller,2024-10-05
+45,Influencer Campaign 45,Direct Mail,6,1,2023-06-28,2024-03-10,134579,Paused,Lead Generation,4094,2.24,Gina Beard,2024-05-26
+46,Display Campaign 46,Social Media,4,6,2023-07-21,2023-07-26,111542,Completed,Upsell,2068,3.92,Katherine Mcguire,2023-03-09
+47,Content Marketing Campaign 47,Influencer,6,4,2023-06-11,2024-07-08,150089,Cancelled,Conversion,3585,4.99,Heather Chavez,2023-08-12
+48,SEO Campaign 48,Social Media,9,7,2023-06-18,2024-07-27,185922,Active,Lead Generation,1872,4.09,Kevin Wolf,2024-03-11
+49,Content Marketing Campaign 49,Display,6,2,2024-12-16,2024-12-28,84237,Planning,Upsell,1136,2.46,Kristen Terry,2023-04-03
+50,Email Campaign 50,Influencer,5,4,2024-09-25,2024-11-11,130492,Completed,Conversion,1610,4.88,Scott Wilson,2023-02-17

@@ -1,0 +1,51 @@
+agent_id,name,email,phone,team_id,hire_date,role,specialization,is_active,max_concurrent_tickets,languages,certifications
+1,David Gonzalez,anthonycole@example.net,(228)222-8657x19592,4,2022-11-06,Tier 1,Mobile,True,19,Spanish,ITIL
+2,Alvin Arnold,vle@example.net,513-932-1308x121,2,2022-02-14,Manager,Billing,True,9,"Spanish, English, Mandarin",Azure
+3,Anthony Huang,jshort@example.com,+1-956-673-3209x51292,6,2021-10-15,Manager,Mobile,True,6,"Spanish, Mandarin, Mandarin","Azure, ITIL"
+4,Melissa Ellis DDS,paula78@example.net,502-257-8842,5,2021-09-23,Escalation,Billing,True,9,"French, Mandarin",
+5,Brandy Lee,gregory99@example.com,+1-546-204-9942x1512,5,2023-08-14,Tier 1,Technical,False,9,Spanish,
+6,Andrew Chavez,blakekelly@example.org,001-411-914-2286x124,5,2021-02-18,Escalation,Enterprise,True,7,"French, German","Google Cloud, Azure, Google Cloud"
+7,Megan Wilson,samantha79@example.com,+1-855-867-1451,2,2021-05-09,Tier 1,Billing,True,10,French,"Salesforce, AWS"
+8,Miguel Foster,twilkinson@example.net,001-966-548-1603x114,3,2023-11-04,Tier 3,Mobile,True,7,"Spanish, English, Spanish","ITIL, AWS, AWS"
+9,Steven Contreras,megan28@example.com,(516)715-0194x15152,1,2022-10-18,Manager,API,False,19,French,"Google Cloud, Azure, ITIL"
+10,Erin Smith,tammylopez@example.net,(817)507-5051,6,2024-08-04,Tier 2,Enterprise,True,15,"Mandarin, German","Salesforce, ITIL"
+11,Allen Reyes,kayla16@example.org,377.822.8683,1,2024-09-28,Tier 3,Billing,True,8,"Spanish, Spanish, French",ITIL
+12,Anthony Patterson,debra42@example.com,(719)287-3318,6,2024-01-21,Escalation,API,False,13,"Mandarin, Mandarin","AWS, AWS, Salesforce"
+13,Julia Conway,tammydunn@example.com,497-862-0467,6,2021-05-17,Manager,General Support,True,10,English,Salesforce
+14,Raymond Rogers,reynoldsgina@example.net,8643045494,1,2024-11-25,Tier 3,Billing,True,5,Spanish,"Azure, AWS, ITIL"
+15,Tiffany Perry,lorrainecampbell@example.com,(849)456-8756,2,2021-07-25,Tier 3,Enterprise,True,9,"English, English","Google Cloud, ITIL, Google Cloud"
+16,Jason Pacheco,davisvanessa@example.org,(613)281-0250,2,2021-08-12,Manager,Billing,True,16,Spanish,"Azure, ITIL, Google Cloud"
+17,Jeanette Moore,alison18@example.com,+1-472-777-2711x6057,3,2022-02-06,Manager,Billing,True,12,"Spanish, English",
+18,Ashley Anderson,hessjesse@example.org,(345)803-8265,1,2023-04-29,Tier 3,API,True,12,French,ITIL
+19,Jonathan Johnson,daniel57@example.com,712-463-1999x38374,3,2022-04-17,Tier 2,Billing,True,7,"French, English",ITIL
+20,Stephanie Adams,ssmith@example.com,470-602-6314x2033,2,2023-07-02,Tier 1,Technical,True,15,"English, German","ITIL, Azure, AWS"
+21,Christian Hall,mcgrathsonya@example.com,(936)680-5675x57483,1,2023-07-21,Tier 3,API,True,8,"English, English",
+22,Lisa Galloway,jenniferchen@example.org,001-675-322-7669x099,6,2024-03-19,Tier 2,Technical,True,8,French,ITIL
+23,Derek Rodriguez,carrilloangela@example.com,(300)660-7844x187,5,2022-12-12,Tier 1,Billing,True,16,"German, French, Mandarin",
+24,Derrick Payne,kmcgee@example.com,+1-809-855-9879x17046,5,2022-07-14,Escalation,API,False,9,German,"Salesforce, ITIL"
+25,Margaret Wade,duranlisa@example.org,+1-817-717-6171x511,4,2023-05-24,Tier 3,API,True,13,Mandarin,
+26,Jennifer Hodge,heathermartinez@example.com,+1-968-716-2837x92490,1,2021-08-04,Tier 2,API,True,19,French,AWS
+27,Tami Cooper,suttonjames@example.com,305-312-8066x10851,6,2021-10-03,Manager,Technical,True,14,Mandarin,"AWS, ITIL, Salesforce"
+28,Alexandria Hernandez,connermonica@example.com,(841)949-2040,3,2023-11-22,Manager,General Support,True,7,"Mandarin, English",
+29,Joseph Krueger,elizabeth21@example.com,001-502-848-7565x4521,5,2022-12-02,Escalation,Mobile,True,19,"Spanish, Mandarin, French",AWS
+30,Courtney Fisher,wardchristopher@example.com,+1-702-950-0080x138,3,2021-03-31,Tier 1,Enterprise,True,12,"Spanish, Mandarin, English","ITIL, Azure, Google Cloud"
+31,Karen Simpson,brittanyjohnson@example.com,+1-637-930-6566x2170,4,2024-06-04,Tier 3,API,True,19,German,Google Cloud
+32,Harold Bentley,gcardenas@example.org,+1-801-216-8441x477,6,2024-01-20,Specialist,General Support,True,9,"French, French, German","Google Cloud, AWS, Salesforce"
+33,Chad Garner,jrivera@example.com,377-355-0587x123,6,2022-04-25,Tier 3,Mobile,True,7,"Mandarin, English","AWS, AWS"
+34,Brian Alvarez,martinezteresa@example.com,937-562-5221x1392,6,2024-09-16,Tier 1,Enterprise,True,16,German,
+35,Katrina Martinez,briannapham@example.org,4316863755,1,2023-03-07,Escalation,General Support,True,15,"Mandarin, Mandarin","Azure, ITIL"
+36,Monica Guerrero,jonathan39@example.org,588.612.2349x206,4,2022-06-27,Manager,Mobile,True,18,English,
+37,George Potts,kristen96@example.net,001-612-644-3732x019,3,2024-10-02,Tier 2,Billing,True,13,"French, French, German",AWS
+38,James Olson,diana92@example.com,948.786.8272x38153,5,2023-12-04,Escalation,Enterprise,True,11,Mandarin,AWS
+39,Brandi Clark,christinahall@example.org,+1-952-865-7146x58703,4,2024-03-11,Tier 1,Technical,True,8,Spanish,
+40,Desiree Sharp,williamsrandall@example.org,829-543-9063,1,2024-04-18,Escalation,Enterprise,True,14,German,"Salesforce, AWS, Azure"
+41,Cynthia Simpson,jonesmelissa@example.com,001-499-637-6162,1,2024-08-19,Manager,Technical,False,18,"Mandarin, Mandarin","AWS, Azure, Salesforce"
+42,Jessica Campbell,fletcherrhonda@example.org,316.401.3086,1,2024-02-24,Tier 1,General Support,True,15,"Mandarin, English, French","AWS, Azure, Azure"
+43,Brian Miller,vanessahuynh@example.org,964.520.4403x805,1,2021-06-11,Manager,Mobile,True,8,"German, German","Azure, Google Cloud"
+44,Jose Brooks,amy50@example.com,+1-709-587-2848x89603,4,2024-02-19,Specialist,Technical,True,14,"German, English, English",
+45,Elizabeth Day,florestiffany@example.net,001-617-221-8606,4,2024-04-25,Tier 2,Billing,False,6,English,Azure
+46,Spencer Ray,kevinsmith@example.com,6444304547,3,2024-02-25,Tier 2,Technical,True,18,"German, German",
+47,Cathy Larson,johnclark@example.com,+1-742-373-4225x414,1,2023-04-19,Specialist,Billing,True,17,German,"AWS, ITIL, ITIL"
+48,Jennifer Fowler,younglatoya@example.net,(755)295-3723x3273,6,2023-03-15,Escalation,Billing,True,16,English,Azure
+49,Jackie Wells,whiteheadvictoria@example.org,(998)537-1210,6,2024-07-28,Escalation,API,True,18,English,
+50,April Mitchell,wparker@example.com,759-698-3773,4,2021-06-06,Manager,Mobile,True,7,Spanish,

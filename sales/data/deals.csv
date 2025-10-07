@@ -1,0 +1,856 @@
+deal_id,opportunity_id,customer_id,rep_id,product_id,deal_name,deal_value,close_date,contract_length_months,payment_terms,renewal_probability,customer_satisfaction,implementation_status,upsell_potential
+1,2,4315,33,7,"Deal with Patterson, Taylor and Rowe",308685,2025-09-24,23,Upfront,70,10,On Hold,18162
+2,10,662,1,1,"Deal with Morris, Shannon and Miller",211480,2024-01-04,32,Quarterly,65,4,On Hold,47484
+3,21,570,29,12,Deal with Vargas-Stewart,348965,2024-01-04,39,Net 30,92,10,In Progress,65652
+4,22,3916,9,9,"Deal with Dodson, Love and Hughes",214783,2025-08-29,22,Quarterly,61,4,Completed,12925
+5,26,189,44,7,"Deal with Carlson, Cook and Romero",352409,2025-02-27,37,Annual,88,9,Completed,18365
+6,27,4719,43,6,"Deal with Blanchard, Moore and Dougherty",409635,2024-06-10,48,Net 30,80,10,In Progress,95990
+7,31,1649,10,11,"Deal with Rosales, Drake and Kirby",182308,2023-12-10,48,Quarterly,66,7,In Progress,49328
+8,34,1922,35,3,Deal with Simmons Ltd,77137,2025-03-03,17,Net 60,84,7,Completed,13351
+9,37,4530,45,7,"Deal with Alvarez, Gregory and Salazar",444000,2023-11-23,45,Quarterly,95,6,Completed,53527
+10,40,4337,33,9,Deal with Bullock-Taylor,453420,2025-02-28,41,Quarterly,71,1,On Hold,99575
+11,41,4695,38,6,Deal with Boyd-Davis,37057,2024-11-04,39,Quarterly,77,2,Completed,34430
+12,47,1321,17,10,Deal with Peterson Inc,212167,2025-01-31,50,Net 30,60,5,Completed,50300
+13,48,3862,25,3,Deal with Barry and Sons,39419,2024-09-12,22,Net 30,90,5,On Hold,35060
+14,50,1987,39,4,"Deal with Page, Holmes and Clark",234904,2024-06-02,18,Upfront,86,6,On Hold,32152
+15,55,1124,17,2,"Deal with May, Savage and Hancock",342645,2024-11-20,13,Annual,78,9,In Progress,95854
+16,67,1913,15,9,"Deal with Adams, Wilson and Fuller",428639,2024-03-21,56,Net 60,86,1,Not Started,85725
+17,72,1818,38,11,Deal with Brown-Edwards,64614,2023-11-07,15,Net 30,90,10,Completed,10455
+18,76,507,8,9,Deal with Smith LLC,7584,2024-10-13,58,Upfront,87,5,On Hold,69094
+19,81,4716,3,2,"Deal with Porter, Chavez and Bird",363702,2023-11-02,21,Net 60,74,4,In Progress,63826
+20,88,445,27,12,Deal with Campos-Abbott,171596,2025-08-14,39,Net 30,65,1,Not Started,18311
+21,99,4490,12,12,Deal with Jones Inc,271602,2024-03-28,51,Annual,67,5,Completed,55950
+22,107,2749,22,11,Deal with Gilmore and Sons,246369,2024-12-15,27,Upfront,87,10,Completed,86712
+23,108,4670,18,3,Deal with Taylor PLC,73079,2024-09-19,16,Net 60,66,4,On Hold,73500
+24,123,4230,10,5,Deal with Lee-Ramsey,165489,2024-02-09,13,Quarterly,77,9,On Hold,96246
+25,126,4866,23,4,Deal with Ramos-Anderson,134487,2025-06-06,18,Net 60,86,3,Completed,7635
+26,137,3664,37,4,Deal with Bowers-Washington,222525,2024-12-19,38,Annual,70,9,On Hold,34837
+27,145,139,9,11,"Deal with Parker, Howard and Mitchell",288461,2024-05-31,49,Net 60,62,1,In Progress,22368
+28,148,1931,19,10,"Deal with Walker, Snyder and Rivera",418474,2024-09-22,16,Net 60,84,7,On Hold,46182
+29,150,3921,2,11,Deal with Stewart Group,269541,2023-07-09,26,Annual,85,6,In Progress,56394
+30,171,523,36,10,Deal with Roberts Inc,107189,2024-09-13,28,Net 30,88,2,Completed,38922
+31,175,337,3,5,Deal with Garcia-Smith,406984,2024-02-14,34,Net 60,90,1,Completed,90763
+32,179,802,17,8,"Deal with Perez, Rodriguez and Baker",190254,2024-11-27,39,Net 60,71,4,In Progress,64865
+33,181,4959,50,3,"Deal with Myers, Sloan and Smith",435594,2024-04-18,42,Upfront,60,10,On Hold,40654
+34,187,126,19,3,"Deal with Bell, Johnston and Collins",273873,2024-11-26,43,Net 60,84,2,On Hold,40894
+35,196,4819,39,9,"Deal with Santiago, Eaton and Jackson",102912,2023-08-09,29,Annual,72,2,Not Started,12556
+36,201,433,28,12,"Deal with Powell, Anderson and Glover",151582,2025-01-20,21,Upfront,68,7,Completed,61874
+37,219,747,14,2,Deal with Fernandez-Garcia,84341,2024-09-25,56,Annual,88,1,Completed,47353
+38,220,4591,9,3,Deal with Perez-Baker,380238,2025-05-30,54,Net 60,83,10,Not Started,99505
+39,223,4955,35,10,"Deal with Valentine, Maddox and Bailey",319929,2024-05-25,28,Upfront,62,6,Not Started,87405
+40,234,2090,24,4,"Deal with Lane, Williams and Simmons",369534,2024-08-25,42,Net 30,95,3,In Progress,96807
+41,235,2129,1,9,Deal with Christian-Russell,399359,2024-03-24,60,Net 30,60,5,On Hold,19300
+42,238,153,9,4,"Deal with Torres, Soto and Mitchell",462486,2024-11-14,36,Quarterly,94,10,In Progress,19481
+43,239,181,4,3,Deal with Aguilar Group,465400,2024-03-26,56,Upfront,94,10,Completed,74796
+44,244,124,19,10,Deal with Jensen-Johnson,226969,2024-03-28,41,Net 30,77,9,In Progress,59843
+45,245,1681,11,12,"Deal with Taylor, Mcfarland and Flores",104063,2024-08-11,44,Upfront,78,7,Completed,5088
+46,246,3070,35,8,"Deal with Vazquez, Daniel and Gonzales",468850,2023-06-10,25,Net 30,65,6,Completed,19653
+47,247,438,2,7,"Deal with Salinas, Santiago and Edwards",382287,2024-03-01,36,Upfront,95,8,In Progress,4914
+48,263,94,22,7,"Deal with Blackwell, Martin and Walker",325677,2025-08-11,13,Net 30,94,3,Not Started,2541
+49,284,601,26,6,Deal with Brandt PLC,339766,2024-03-21,59,Net 60,61,3,On Hold,2822
+50,291,2584,47,11,Deal with Johnson Ltd,22003,2024-02-19,31,Upfront,62,7,Completed,67018
+51,295,250,3,4,Deal with Liu-Lopez,196804,2023-09-10,23,Net 60,61,8,On Hold,41490
+52,296,4763,43,12,"Deal with Jenkins, Kaiser and Price",397035,2025-01-14,42,Net 30,62,1,In Progress,60427
+53,297,377,42,12,Deal with Padilla-Jensen,206600,2023-03-01,23,Net 60,64,5,On Hold,21091
+54,299,233,16,10,Deal with Moore-Burns,497682,2024-11-12,54,Quarterly,66,6,Completed,59814
+55,302,1533,6,7,Deal with Bright Group,225941,2023-10-09,57,Upfront,74,6,Completed,76077
+56,315,4917,5,12,"Deal with Harris, Brown and Osborne",441477,2024-04-07,60,Net 30,78,7,In Progress,59617
+57,321,1673,27,2,"Deal with Gonzalez, Garcia and Rodriguez",33437,2024-06-24,32,Net 30,88,5,Not Started,85569
+58,322,3127,18,7,"Deal with James, Brown and Schultz",233031,2023-07-21,17,Net 60,69,4,Not Started,3246
+59,333,4747,2,1,Deal with Martinez Inc,420110,2025-03-16,16,Upfront,81,2,Completed,6102
+60,334,2041,41,2,"Deal with Monroe, Murphy and Simpson",247729,2024-04-25,31,Quarterly,95,6,Not Started,27943
+61,337,1284,17,7,"Deal with Collins, Garcia and Jenkins",283761,2023-11-03,15,Net 60,63,4,On Hold,97985
+62,338,610,20,8,"Deal with Fernandez, Ross and Austin",29179,2024-06-01,35,Net 60,86,4,On Hold,18370
+63,339,714,19,3,Deal with Lara-Villa,330731,2024-12-06,48,Annual,81,2,Not Started,64399
+64,341,4416,39,3,Deal with Wong PLC,444178,2024-01-06,15,Upfront,81,2,On Hold,63691
+65,344,3595,33,4,Deal with Mclaughlin Inc,284175,2025-05-30,50,Upfront,89,6,Not Started,49052
+66,348,1718,22,6,Deal with Espinoza-Cunningham,106400,2024-01-10,35,Quarterly,87,2,Not Started,30027
+67,366,4908,34,7,"Deal with Sandoval, Leon and Reyes",431204,2024-11-04,47,Quarterly,65,5,Completed,85324
+68,368,2724,13,11,Deal with Jones LLC,455211,2023-12-09,37,Net 60,92,2,On Hold,38658
+69,370,1542,26,12,Deal with Lawson Group,392259,2025-01-03,60,Net 30,72,5,In Progress,9678
+70,381,1819,22,5,"Deal with Glenn, Farmer and Brown",220272,2025-05-30,28,Net 30,94,1,Completed,74277
+71,382,1257,22,11,Deal with Oconnor LLC,68753,2025-03-30,60,Net 30,79,8,In Progress,32630
+72,390,2671,47,1,"Deal with Smith, Sullivan and Ritter",356798,2025-01-27,24,Upfront,92,8,On Hold,42978
+73,396,3525,12,2,Deal with Weiss-Vargas,408215,2024-12-11,29,Net 60,60,4,Completed,24914
+74,401,4490,26,10,"Deal with George, Keller and Watts",3037,2024-02-08,51,Net 30,70,9,On Hold,43159
+75,402,2086,18,5,"Deal with Herrera, Myers and Mccoy",306141,2024-04-07,29,Upfront,61,3,Completed,8261
+76,404,2887,38,4,"Deal with Conway, Bell and Perez",104390,2024-04-23,22,Net 60,68,3,Not Started,6982
+77,405,339,28,10,Deal with Butler-Raymond,454343,2024-06-19,32,Net 30,91,2,Not Started,8464
+78,412,3709,41,8,Deal with Oliver-Carr,459700,2025-03-08,44,Net 30,82,1,In Progress,16901
+79,418,2547,18,10,Deal with Douglas Group,310082,2024-07-04,45,Net 60,80,5,On Hold,32087
+80,422,4131,47,6,"Deal with Sullivan, Roberts and Hill",167773,2025-01-03,41,Quarterly,93,5,In Progress,99303
+81,424,3048,19,4,"Deal with Stephenson, Coffey and Byrd",65100,2025-08-18,44,Net 30,84,1,In Progress,54992
+82,428,3023,42,4,Deal with Holland-Price,232605,2023-11-12,29,Net 60,79,2,Completed,24379
+83,430,1221,43,2,Deal with Beck PLC,478422,2023-09-19,50,Net 30,71,7,In Progress,25422
+84,431,4820,3,11,"Deal with Santos, Moore and Rosales",307064,2025-03-10,19,Quarterly,68,5,Completed,36832
+85,432,299,3,5,Deal with Lopez and Sons,404657,2024-02-01,24,Net 30,89,6,In Progress,11327
+86,433,2781,5,2,Deal with Garcia Inc,127142,2025-09-19,49,Upfront,83,1,Completed,51963
+87,437,4565,22,6,Deal with Lopez Group,117666,2024-03-04,55,Upfront,65,5,Not Started,87910
+88,439,4072,46,4,Deal with Holmes-Hoover,331122,2023-05-31,32,Quarterly,74,3,In Progress,78797
+89,445,4951,27,2,Deal with Austin LLC,485145,2023-10-21,31,Net 60,80,10,On Hold,69539
+90,447,1626,6,4,Deal with Boone-Morrison,478939,2024-12-02,42,Net 30,90,3,Completed,36703
+91,450,2316,15,9,Deal with Thompson Group,129149,2024-03-17,16,Net 60,83,8,In Progress,9481
+92,452,1216,19,1,"Deal with Morris, Walsh and Martin",493297,2023-07-26,16,Upfront,62,8,Not Started,11318
+93,459,3930,1,1,Deal with Hall and Sons,247448,2024-04-28,36,Upfront,87,10,Not Started,3590
+94,464,2259,14,10,Deal with Kirk Ltd,479411,2024-07-12,51,Net 30,77,6,In Progress,30036
+95,466,3201,27,7,Deal with Cohen-Wise,382731,2023-11-30,51,Net 60,93,5,Not Started,45939
+96,472,455,27,2,"Deal with Heath, Tucker and Henry",120774,2024-04-23,25,Net 60,69,4,In Progress,74898
+97,478,3079,7,12,"Deal with Jensen, Boyle and Walters",479461,2024-10-25,38,Annual,77,6,Not Started,46515
+98,482,2655,20,3,Deal with Fernandez LLC,452729,2025-04-11,19,Quarterly,86,7,Completed,13490
+99,489,1905,12,4,Deal with Bridges Inc,127836,2025-07-16,29,Net 30,73,8,In Progress,49733
+100,491,3612,8,3,"Deal with Wong, Bell and Smith",329220,2024-08-14,18,Net 60,93,10,Completed,79140
+101,502,4042,13,3,"Deal with Neal, Bell and Pugh",332141,2025-12-26,60,Net 60,84,1,Completed,54230
+102,503,2884,45,5,Deal with Simmons LLC,155070,2024-06-28,27,Annual,91,5,Completed,13492
+103,505,3102,36,9,Deal with Oneal-Murphy,319892,2025-04-17,29,Net 30,71,3,In Progress,16552
+104,513,1794,5,1,"Deal with Horton, Miller and Thompson",21575,2023-11-03,40,Quarterly,95,3,Completed,74495
+105,514,4219,31,8,"Deal with Baker, Holden and Hernandez",357490,2024-03-10,46,Quarterly,78,10,Completed,244
+106,519,2644,12,1,"Deal with Thomas, Smith and Jimenez",182506,2023-11-01,36,Annual,94,10,Completed,346
+107,526,1192,24,1,"Deal with Wilson, Benton and Lopez",193146,2023-10-13,26,Net 30,77,6,Completed,68556
+108,527,3118,40,7,Deal with Luna-Edwards,100431,2023-04-18,38,Quarterly,65,2,On Hold,13321
+109,538,3395,30,8,Deal with Patton Inc,179659,2024-02-19,35,Net 60,63,1,Not Started,94852
+110,542,1567,10,2,Deal with Parker-Wu,319718,2024-06-19,26,Annual,67,10,In Progress,14052
+111,544,2047,41,1,Deal with Fritz-Brandt,138721,2024-04-16,15,Quarterly,68,8,In Progress,22742
+112,558,191,12,7,"Deal with Barnes, Martin and White",364490,2024-02-18,53,Net 60,73,5,On Hold,72072
+113,562,4655,39,4,Deal with Moreno-Jimenez,212851,2025-02-20,14,Quarterly,77,3,In Progress,61693
+114,571,1790,14,3,"Deal with James, Carpenter and Spencer",304491,2025-07-06,60,Net 60,64,3,In Progress,56316
+115,582,3268,10,3,"Deal with Ward, Bradford and Hodge",68562,2025-11-03,57,Net 60,72,9,Not Started,94103
+116,586,314,43,8,Deal with Peters PLC,1402,2024-02-27,55,Net 60,92,6,Completed,94082
+117,591,2206,28,6,Deal with Prince Inc,376774,2023-11-27,57,Annual,81,10,In Progress,67928
+118,596,4060,23,9,Deal with Underwood-Price,219454,2023-10-31,27,Quarterly,81,9,Not Started,88606
+119,597,3034,46,9,Deal with Figueroa Group,107975,2023-05-23,45,Quarterly,66,4,Not Started,26343
+120,601,2777,31,4,Deal with Mitchell-Taylor,456687,2024-01-04,23,Net 60,71,4,Completed,89216
+121,607,95,34,9,Deal with Clayton Group,101661,2024-12-02,27,Net 60,72,8,Completed,41909
+122,625,338,40,4,"Deal with Hale, Lawson and Hunt",133431,2025-02-07,58,Net 30,94,8,In Progress,83137
+123,628,3247,41,2,Deal with Holloway-Mathews,438919,2024-11-06,20,Upfront,80,7,Not Started,64242
+124,631,3203,13,3,Deal with Fox PLC,443405,2023-10-23,42,Upfront,81,2,In Progress,2581
+125,633,2281,22,4,Deal with Johnson-Gilbert,100312,2023-10-30,55,Net 30,67,9,On Hold,81110
+126,635,2296,49,7,Deal with White PLC,238425,2025-10-21,46,Net 30,82,10,Completed,19283
+127,637,3699,14,7,Deal with Phillips PLC,275159,2024-02-18,49,Annual,85,9,Not Started,30036
+128,642,2671,31,10,Deal with Fields Ltd,180501,2023-06-10,15,Annual,77,6,On Hold,76486
+129,646,1473,8,12,"Deal with Payne, Harrison and Hansen",229872,2024-06-16,23,Annual,64,5,On Hold,78531
+130,655,3907,9,1,Deal with Brown-Young,304091,2023-07-27,52,Net 30,65,1,Completed,63589
+131,673,634,34,4,Deal with Simpson LLC,289011,2024-03-25,44,Quarterly,82,3,Not Started,60889
+132,675,918,2,4,Deal with Adams and Sons,185716,2025-02-08,18,Annual,64,7,On Hold,51386
+133,680,2842,8,9,Deal with Riley-Wilson,309553,2025-06-26,34,Annual,61,5,Completed,16910
+134,686,2,42,8,"Deal with Edwards, Boyle and Lawson",241344,2024-07-07,30,Net 60,85,9,Not Started,28119
+135,690,1199,48,7,Deal with Riley PLC,133903,2023-10-31,29,Net 30,86,4,Completed,72006
+136,699,4865,41,7,Deal with Schneider Ltd,123708,2025-06-08,47,Annual,87,5,Not Started,22922
+137,704,3490,21,10,Deal with Martinez Inc,252926,2025-03-10,45,Net 30,68,1,In Progress,94505
+138,710,355,33,1,Deal with Lee Inc,111602,2024-07-10,20,Annual,67,9,Not Started,9965
+139,714,1142,28,12,Deal with Butler LLC,149034,2025-01-07,30,Quarterly,93,6,Not Started,91264
+140,716,370,10,7,"Deal with Smith, Harris and Walker",197851,2025-02-20,39,Quarterly,64,6,Not Started,63781
+141,717,3243,13,12,Deal with Reed PLC,374296,2024-09-04,16,Upfront,68,3,On Hold,87798
+142,724,9,4,8,Deal with Oneal Ltd,225760,2024-08-01,27,Upfront,61,6,Not Started,52513
+143,739,3134,23,5,Deal with Christensen Inc,200470,2024-03-03,39,Annual,92,3,In Progress,51607
+144,740,4947,29,4,"Deal with Simmons, White and Hester",342064,2023-07-27,50,Annual,68,2,Not Started,75298
+145,744,3829,44,2,Deal with Shelton-Turner,37484,2023-09-04,52,Net 30,65,4,In Progress,70962
+146,752,4162,39,3,"Deal with Rodriguez, Garcia and Garza",424981,2024-12-12,13,Net 30,69,9,On Hold,55025
+147,764,4335,40,9,"Deal with French, Smith and Miller",53511,2024-07-31,31,Quarterly,66,10,Completed,61281
+148,770,3605,12,3,"Deal with Cain, Flynn and Reynolds",188336,2023-07-16,55,Annual,64,9,Not Started,66333
+149,773,3160,1,1,"Deal with Jackson, James and Ellis",261226,2024-10-26,35,Quarterly,65,4,Completed,62140
+150,780,1493,30,7,"Deal with Morton, Parks and Davidson",244951,2024-09-25,37,Annual,73,2,In Progress,89216
+151,788,2515,5,1,"Deal with Stuart, Perry and Brooks",100916,2023-09-28,51,Net 30,77,2,Not Started,30085
+152,789,2179,35,1,Deal with Evans Ltd,57420,2024-03-24,27,Net 30,60,10,In Progress,59058
+153,800,4978,11,10,Deal with Newton-Watkins,353831,2024-11-05,42,Net 60,89,7,In Progress,7811
+154,806,1382,49,10,"Deal with Gomez, Patrick and Carson",21157,2025-03-12,14,Net 30,68,10,Completed,38556
+155,808,1819,5,7,Deal with Campbell Inc,114203,2025-02-19,39,Annual,63,9,On Hold,61077
+156,809,1534,1,2,"Deal with Reed, Stark and Jones",429538,2024-10-04,44,Annual,70,3,Completed,72705
+157,810,86,1,2,Deal with Robinson-Miller,87980,2024-01-24,18,Quarterly,92,7,Completed,25848
+158,812,1406,15,1,Deal with Torres LLC,410765,2024-06-24,22,Net 30,80,10,Completed,50486
+159,818,507,5,11,"Deal with Riley, Hull and Robinson",301611,2023-08-27,22,Annual,63,8,Not Started,71982
+160,827,3637,24,5,Deal with Lucas-King,185460,2024-12-06,31,Net 30,74,4,On Hold,86377
+161,835,4813,26,2,Deal with Carpenter-Taylor,264436,2024-11-11,48,Net 30,78,3,In Progress,81151
+162,837,3327,42,8,Deal with Warren-Newman,221322,2024-08-16,15,Upfront,89,3,Not Started,60662
+163,842,3920,15,9,"Deal with Stanley, Torres and Dunn",273989,2023-09-18,14,Net 30,69,1,Not Started,44773
+164,851,564,5,6,Deal with Chang-Romero,424978,2024-05-28,56,Upfront,95,8,In Progress,51739
+165,855,592,40,4,Deal with Owens Ltd,279856,2024-05-25,53,Annual,89,4,On Hold,27333
+166,860,4010,15,3,Deal with Brock-Mcmillan,392414,2025-04-13,15,Quarterly,76,8,Not Started,43771
+167,866,3275,24,9,Deal with Scott Group,299883,2025-04-26,15,Net 60,69,4,In Progress,91600
+168,871,2336,2,12,"Deal with Lopez, Bush and Oneal",194329,2023-07-21,56,Net 30,63,10,Not Started,38773
+169,873,3730,13,1,Deal with Oliver-Jones,452985,2024-05-03,48,Annual,64,5,Completed,64283
+170,877,4781,26,12,"Deal with Brown, Salinas and White",244446,2024-02-12,48,Net 60,77,9,On Hold,96908
+171,878,3815,25,10,Deal with Holmes-Rivera,440013,2024-05-01,43,Quarterly,78,3,Not Started,99472
+172,887,1694,41,10,Deal with Duran PLC,480711,2024-03-25,42,Net 30,85,6,On Hold,85235
+173,896,500,40,12,"Deal with Morris, Cisneros and Young",325632,2024-09-12,45,Net 60,65,6,Not Started,44407
+174,906,1552,41,7,"Deal with Herring, Shepherd and Alvarado",285418,2024-10-06,30,Annual,75,7,Not Started,72152
+175,918,1844,20,10,Deal with Flores PLC,209702,2025-02-23,43,Upfront,72,5,On Hold,82890
+176,919,2532,14,9,Deal with Mcdaniel LLC,374532,2024-05-26,22,Upfront,94,2,Not Started,59168
+177,921,1322,39,10,Deal with Nelson and Sons,492434,2023-11-13,51,Annual,95,5,In Progress,86388
+178,923,1323,18,1,"Deal with Garcia, Wolf and Daniels",397317,2023-10-14,43,Upfront,70,2,On Hold,97671
+179,935,3260,47,5,"Deal with Glass, Valencia and Bishop",440398,2024-08-23,20,Annual,91,5,Not Started,61034
+180,941,4867,22,12,Deal with Bowers and Sons,279669,2024-04-25,52,Quarterly,80,9,Completed,27182
+181,951,3495,16,5,Deal with Wells-Wells,354317,2024-12-25,20,Annual,85,3,On Hold,72056
+182,953,1359,12,5,Deal with Turner-Arnold,289436,2023-11-15,46,Upfront,92,2,In Progress,96483
+183,958,3030,20,1,Deal with Jennings-Grant,223693,2023-10-05,22,Upfront,67,3,Completed,47552
+184,963,4149,20,2,"Deal with Sanders, Kelley and Tucker",72554,2024-01-23,46,Quarterly,64,8,Completed,37621
+185,977,1891,9,6,Deal with Lee-Rodriguez,284769,2024-02-12,58,Net 30,62,9,In Progress,38397
+186,979,186,32,11,Deal with Gutierrez Ltd,295615,2024-07-11,37,Net 60,62,6,On Hold,45273
+187,982,628,9,5,Deal with Rodriguez-West,414764,2024-07-18,21,Annual,69,4,Not Started,93401
+188,984,4956,27,2,Deal with Frost Group,487589,2025-09-23,58,Net 30,74,7,Completed,45549
+189,985,4821,15,6,"Deal with Hunter, Cohen and Mccoy",494965,2025-06-27,24,Quarterly,89,6,In Progress,689
+190,989,1017,22,1,Deal with West-Scott,451488,2025-04-11,19,Quarterly,69,3,Completed,73371
+191,994,94,50,2,"Deal with Banks, Black and Hughes",225268,2024-09-30,25,Net 30,78,1,Not Started,59695
+192,1021,4574,18,7,Deal with Thompson-Gonzalez,477672,2025-07-22,18,Quarterly,62,3,Not Started,46296
+193,1023,1910,26,12,Deal with Ward-Aguirre,44908,2024-02-12,18,Net 30,82,3,Completed,14373
+194,1032,2396,39,12,"Deal with Hammond, Bass and Hinton",206617,2024-08-02,53,Annual,95,3,Not Started,10185
+195,1054,294,25,4,Deal with Wright-Hull,38884,2025-03-17,40,Net 30,63,1,Not Started,36554
+196,1059,4025,11,3,"Deal with Taylor, Kim and Alexander",448825,2024-02-10,39,Net 60,63,7,Not Started,36070
+197,1072,1889,45,12,Deal with Murphy Group,429531,2024-10-17,48,Net 60,89,3,On Hold,32422
+198,1074,4766,42,6,Deal with Taylor-Lopez,23515,2025-05-06,12,Annual,66,2,On Hold,39440
+199,1108,4041,30,2,Deal with Miller-Harris,72712,2024-08-23,59,Net 30,82,9,In Progress,19226
+200,1116,4104,5,9,"Deal with Kelley, Estes and Reynolds",390505,2024-08-11,31,Upfront,83,1,Completed,76272
+201,1121,3956,23,5,"Deal with Hayes, Pittman and Rocha",466597,2025-05-18,46,Quarterly,64,8,Not Started,89311
+202,1128,1597,41,12,Deal with Mcclure-Chang,73186,2024-04-26,25,Quarterly,78,1,In Progress,38864
+203,1129,715,31,6,"Deal with Cox, Bass and Juarez",300026,2024-03-08,29,Quarterly,68,7,Not Started,24394
+204,1132,3098,14,7,Deal with Murray and Sons,397820,2024-03-08,15,Upfront,85,8,On Hold,7516
+205,1133,3156,15,9,"Deal with Young, Hill and Romero",334754,2024-08-28,27,Upfront,69,5,Completed,19818
+206,1144,822,37,12,Deal with Wilson PLC,138721,2024-09-13,59,Net 30,75,7,Not Started,61854
+207,1145,1450,7,4,Deal with Wiley-Johns,45557,2024-02-02,30,Net 30,83,5,Not Started,26262
+208,1147,4952,19,3,Deal with Fox-Smith,206132,2024-01-04,12,Quarterly,62,8,Completed,58584
+209,1150,151,29,5,"Deal with Calhoun, Hines and Lopez",95732,2024-04-24,50,Upfront,65,10,On Hold,46170
+210,1154,669,4,3,"Deal with Roth, Carpenter and Welch",388990,2024-10-04,26,Net 30,76,4,Not Started,17726
+211,1160,2243,49,10,"Deal with Cox, Lambert and Smith",449015,2025-01-05,30,Annual,75,8,Not Started,88192
+212,1162,3600,22,11,Deal with Perkins LLC,313272,2025-04-24,17,Annual,84,3,Not Started,6819
+213,1173,4636,38,10,Deal with Holt-Gray,232119,2023-12-20,18,Annual,74,10,Not Started,78625
+214,1177,821,34,11,"Deal with Chambers, Watts and Barnes",307753,2023-07-25,24,Net 60,67,3,Completed,10766
+215,1188,4445,9,2,Deal with Moody Group,399287,2025-11-09,55,Net 60,92,2,On Hold,16986
+216,1213,2823,26,10,"Deal with Wilkins, Morris and Miller",470587,2024-11-09,29,Upfront,89,2,In Progress,28723
+217,1214,1525,1,11,"Deal with Bates, Macdonald and Warren",471645,2025-07-04,25,Quarterly,88,7,On Hold,20289
+218,1216,2041,12,3,"Deal with Monroe, Knox and Clark",8896,2023-07-24,36,Annual,65,8,On Hold,99416
+219,1218,1643,14,10,"Deal with Trujillo, Smith and Rodriguez",22972,2024-10-13,18,Net 30,74,9,In Progress,31188
+220,1221,4460,44,8,Deal with Schaefer PLC,219313,2024-09-09,23,Net 60,71,9,Completed,28526
+221,1246,988,22,2,Deal with Harrison Group,230754,2024-01-15,45,Upfront,83,3,In Progress,82361
+222,1247,4952,11,12,Deal with Martin-Burnett,297710,2024-05-14,52,Annual,87,3,In Progress,28147
+223,1248,1699,9,9,Deal with Dickson-Shepard,202589,2023-07-02,46,Annual,80,10,Completed,24320
+224,1252,1773,44,6,"Deal with Howard, Chavez and Jackson",120344,2024-12-09,15,Upfront,85,9,Not Started,62144
+225,1264,2418,20,10,"Deal with Macias, Parker and Marquez",321360,2025-02-09,52,Annual,82,1,In Progress,89266
+226,1267,773,43,6,"Deal with Wolfe, Cooper and Robertson",284619,2023-12-24,24,Net 30,67,2,Completed,44911
+227,1271,3008,23,9,Deal with Lucero-Jones,360798,2024-03-27,41,Quarterly,93,8,On Hold,27836
+228,1274,1705,10,2,Deal with Aguilar PLC,15520,2024-07-01,42,Upfront,68,2,On Hold,14197
+229,1282,4,37,1,Deal with Glass Inc,427132,2025-01-05,41,Quarterly,66,1,On Hold,88880
+230,1284,2863,23,9,"Deal with Davis, Thomas and Lee",382754,2024-09-08,32,Net 60,77,5,Not Started,60633
+231,1291,441,15,9,Deal with Robinson-Campos,209138,2023-08-26,50,Quarterly,68,4,On Hold,1640
+232,1292,1909,23,2,"Deal with Haas, George and Evans",299887,2024-05-22,31,Net 30,72,4,Completed,11500
+233,1310,487,46,3,Deal with Young-May,233049,2023-09-13,39,Net 30,87,6,In Progress,15770
+234,1319,3287,41,12,Deal with Sandoval-Burke,433582,2025-03-08,38,Net 30,69,3,On Hold,94713
+235,1328,4391,13,2,Deal with Price PLC,153705,2024-11-05,25,Upfront,65,5,Completed,9920
+236,1331,2310,12,6,"Deal with Tate, Stanton and Sanchez",95064,2024-05-27,41,Upfront,65,4,On Hold,20760
+237,1332,3583,45,8,"Deal with Scott, Carney and Morton",286128,2025-01-30,23,Annual,62,9,Completed,59803
+238,1338,1059,36,4,"Deal with Harris, Golden and Adams",280138,2025-01-03,48,Net 30,72,6,In Progress,78915
+239,1339,4753,11,3,Deal with Myers-Edwards,190071,2024-04-16,17,Net 30,65,10,Completed,26149
+240,1342,4064,6,5,Deal with Cohen Group,159576,2025-01-03,23,Net 30,94,1,On Hold,29201
+241,1353,78,45,3,Deal with James Group,199382,2024-11-23,28,Net 60,68,2,Not Started,91191
+242,1374,4360,43,1,Deal with Flores Ltd,192456,2024-03-08,33,Quarterly,76,3,On Hold,61374
+243,1383,3440,27,1,Deal with Sloan and Sons,496105,2024-07-28,45,Quarterly,95,4,Completed,97162
+244,1388,3686,18,1,"Deal with Estrada, Eaton and Hernandez",23378,2025-08-07,46,Net 60,95,7,Completed,82623
+245,1390,2228,8,11,Deal with Moreno-Leon,165745,2023-11-24,35,Net 60,78,4,Completed,77604
+246,1405,202,25,7,Deal with Jones-Silva,481818,2025-01-18,55,Quarterly,82,7,Completed,97555
+247,1407,1267,20,5,Deal with Allen LLC,246583,2024-03-20,43,Net 60,63,8,Completed,29632
+248,1411,406,19,8,Deal with Yoder-Moore,205400,2024-01-14,33,Quarterly,95,5,Not Started,10895
+249,1417,4201,28,1,Deal with Carpenter Inc,197642,2023-10-11,44,Net 60,84,7,Completed,2378
+250,1423,2595,1,8,Deal with Schmidt-Baker,405401,2024-11-06,52,Net 60,66,6,In Progress,80469
+251,1424,1341,36,3,Deal with Crane-Kirk,100837,2024-01-27,20,Quarterly,75,7,Completed,4563
+252,1429,2261,33,1,Deal with Young LLC,435969,2023-10-14,49,Quarterly,74,8,Completed,18398
+253,1431,1616,19,3,"Deal with Green, Davis and Galvan",69900,2024-11-16,36,Upfront,64,10,Completed,47255
+254,1434,3464,50,7,Deal with Jefferson-Park,76814,2024-12-11,45,Net 30,84,9,In Progress,3850
+255,1440,3057,47,7,Deal with Mullins PLC,237650,2025-06-06,45,Net 60,86,2,Completed,66270
+256,1442,3686,40,12,"Deal with Turner, Cruz and Moore",222705,2023-12-31,42,Net 30,81,1,In Progress,77652
+257,1450,4632,15,7,Deal with Perez-Barnett,338326,2023-08-09,24,Quarterly,88,5,Completed,25907
+258,1454,74,11,10,"Deal with Calhoun, Harris and Joyce",184371,2024-01-02,39,Net 30,71,3,Completed,80222
+259,1455,2307,20,3,"Deal with York, Harris and James",292961,2025-04-15,21,Net 60,91,5,On Hold,58827
+260,1458,2336,16,4,Deal with Cook PLC,306707,2023-09-03,34,Annual,80,5,In Progress,71106
+261,1468,4345,9,3,"Deal with Hoffman, Romero and Rodgers",309167,2024-02-26,43,Net 30,88,4,Not Started,282
+262,1470,911,35,5,Deal with Cunningham LLC,484188,2024-04-13,15,Net 60,63,9,Completed,25964
+263,1477,4479,47,9,Deal with Rodriguez PLC,373599,2024-09-15,27,Net 60,80,9,Completed,40273
+264,1481,418,43,7,Deal with Greene Ltd,384970,2024-05-30,46,Quarterly,72,2,On Hold,26621
+265,1506,4107,12,10,"Deal with Smith, Miranda and Stewart",264714,2024-09-17,49,Net 30,81,9,In Progress,26433
+266,1508,3144,22,9,Deal with Davis-Sullivan,303385,2024-11-10,31,Net 30,68,2,Completed,82601
+267,1511,2839,46,6,Deal with Schultz and Sons,270385,2023-10-01,45,Upfront,89,1,In Progress,4369
+268,1514,2666,46,11,Deal with Short PLC,421392,2024-08-28,20,Annual,63,7,On Hold,7930
+269,1520,3712,38,2,"Deal with Clements, Horn and Reilly",482421,2025-06-10,43,Net 60,72,3,On Hold,11214
+270,1523,2611,1,8,Deal with Burke-Montoya,331507,2024-07-19,22,Quarterly,81,6,Not Started,42960
+271,1524,2710,25,7,Deal with Jones Inc,149880,2024-05-25,40,Annual,73,4,On Hold,57930
+272,1537,1273,16,5,Deal with Marshall Ltd,232075,2025-01-10,47,Net 60,72,8,On Hold,41787
+273,1541,194,33,4,Deal with Young PLC,214297,2025-07-28,49,Annual,92,1,On Hold,85059
+274,1561,2565,48,10,Deal with Thompson-Rodriguez,297357,2024-10-18,52,Annual,63,5,Not Started,17832
+275,1568,2920,28,7,"Deal with York, Wade and Stone",406588,2024-05-04,29,Net 60,75,7,Completed,95789
+276,1569,1293,36,7,Deal with Gonzalez-Moore,332542,2025-07-31,34,Upfront,81,4,On Hold,40859
+277,1586,2730,46,2,"Deal with Edwards, Johnson and Harris",430147,2023-08-19,18,Net 60,82,9,On Hold,28169
+278,1589,283,50,9,Deal with Carr Group,343526,2024-07-01,21,Net 30,87,3,On Hold,99742
+279,1594,2451,41,6,Deal with Valdez-Michael,89324,2024-06-20,22,Net 30,92,8,Not Started,99279
+280,1595,2080,47,5,Deal with Smith PLC,83662,2024-04-08,51,Upfront,75,1,On Hold,66791
+281,1599,699,24,1,Deal with Wood-Chan,448654,2023-10-25,34,Upfront,69,5,On Hold,22088
+282,1601,2268,8,10,"Deal with Kirby, Jackson and Holmes",122002,2024-01-20,13,Net 60,81,6,In Progress,26639
+283,1602,58,7,8,"Deal with Johnson, Willis and Mcintyre",303112,2025-02-07,30,Quarterly,69,7,On Hold,64739
+284,1605,552,13,8,"Deal with Reeves, Russell and Goodwin",287070,2024-11-17,14,Upfront,73,10,Completed,2828
+285,1607,2874,36,2,Deal with Ellis PLC,289695,2024-11-27,27,Net 30,76,9,Completed,42298
+286,1608,3325,29,4,Deal with Serrano Ltd,379828,2024-08-25,24,Upfront,65,4,On Hold,71607
+287,1611,467,37,8,Deal with Walker-Simpson,135448,2023-07-25,12,Annual,85,3,Not Started,92232
+288,1626,3897,39,2,"Deal with Cruz, Phillips and Page",469408,2025-02-11,35,Upfront,85,6,Completed,90403
+289,1629,4039,16,11,Deal with Perez-Mooney,119410,2024-10-09,18,Upfront,63,4,On Hold,10187
+290,1630,1102,27,11,Deal with Boone-Bruce,288694,2023-10-18,51,Upfront,60,2,In Progress,9898
+291,1632,131,12,5,"Deal with Anderson, Foster and Vasquez",283800,2025-02-15,38,Quarterly,90,9,Not Started,65359
+292,1637,4775,11,5,Deal with Allen-Valencia,492103,2023-12-17,53,Upfront,79,7,Not Started,43632
+293,1644,1335,20,5,Deal with Mitchell Inc,117220,2024-04-07,42,Annual,83,7,Completed,99886
+294,1646,1506,12,11,Deal with Bolton LLC,261284,2024-07-25,58,Annual,84,8,Not Started,12865
+295,1656,4105,3,3,Deal with Garcia-Weaver,82623,2023-09-20,18,Net 60,86,4,In Progress,26722
+296,1664,3405,26,1,Deal with Arnold Group,262817,2023-11-12,18,Net 30,65,7,Completed,42207
+297,1672,2054,19,3,"Deal with Anderson, Oneal and Bell",112201,2024-04-09,17,Net 30,69,9,Completed,8392
+298,1674,3169,17,3,Deal with Mcdonald-Archer,168911,2024-03-11,60,Upfront,67,10,Completed,93321
+299,1675,1309,21,8,"Deal with Huang, Gonzalez and Anderson",492218,2024-11-20,20,Net 30,89,1,In Progress,91434
+300,1689,1164,16,2,"Deal with Powers, Fields and Ochoa",194585,2024-10-10,40,Upfront,87,3,Completed,26710
+301,1690,855,31,9,"Deal with Hall, Smith and Roth",487153,2023-07-13,45,Upfront,73,1,In Progress,35803
+302,1698,4548,14,10,Deal with Wright-Green,154065,2025-06-24,29,Upfront,90,9,Completed,1698
+303,1700,2370,31,1,"Deal with Mclaughlin, King and Smith",329475,2024-04-14,32,Net 60,77,6,Completed,59473
+304,1704,399,36,6,Deal with Koch Ltd,106744,2025-01-16,34,Annual,76,7,In Progress,55887
+305,1706,3003,29,2,Deal with Lewis LLC,30098,2023-11-14,42,Net 30,73,2,Completed,10879
+306,1711,454,41,10,Deal with Hughes Inc,103028,2024-03-02,35,Net 30,92,8,On Hold,36373
+307,1713,4093,10,3,Deal with Ferguson Group,313496,2025-01-01,47,Quarterly,88,4,In Progress,38678
+308,1715,2702,22,4,Deal with Escobar-Malone,114421,2025-09-21,23,Upfront,74,1,On Hold,14755
+309,1717,4427,15,4,"Deal with Gonzales, Cooper and Beck",383190,2023-12-25,54,Net 60,69,4,Not Started,68855
+310,1729,3964,47,2,"Deal with Anderson, Petersen and Garcia",173643,2023-10-25,17,Net 60,61,6,Completed,6855
+311,1730,2211,20,9,"Deal with Sims, Williams and Edwards",69785,2024-09-28,54,Annual,87,5,On Hold,22316
+312,1747,2823,45,3,Deal with Garcia PLC,364313,2024-08-28,18,Quarterly,84,5,In Progress,8843
+313,1750,809,27,8,"Deal with Bauer, Morgan and Little",429377,2024-02-04,50,Annual,86,9,Not Started,43147
+314,1752,1917,9,12,Deal with Rogers-Chase,338741,2023-12-05,42,Quarterly,87,2,Completed,62396
+315,1764,2892,7,10,Deal with Leon LLC,112765,2023-08-22,38,Net 30,89,8,Not Started,87763
+316,1767,1579,18,10,"Deal with Martinez, Fleming and Moore",323502,2025-11-23,57,Upfront,64,7,In Progress,40526
+317,1771,3778,15,7,Deal with Wilson-Torres,192743,2024-02-18,48,Annual,90,2,Not Started,15002
+318,1774,4439,49,8,Deal with Brennan LLC,473384,2024-11-15,28,Quarterly,71,9,On Hold,42475
+319,1779,3037,31,1,"Deal with Walker, Greene and Koch",63262,2023-07-23,56,Annual,94,3,In Progress,96886
+320,1786,3867,1,6,Deal with Barker-Graham,373810,2023-12-08,18,Annual,61,10,Not Started,30466
+321,1794,4606,7,7,Deal with Rowe Inc,481696,2024-03-19,32,Upfront,81,5,On Hold,20867
+322,1798,1037,30,12,Deal with Miller-Walter,195401,2025-02-12,39,Net 60,87,9,Not Started,89480
+323,1802,2136,38,6,Deal with Watkins-Black,482676,2024-04-09,58,Upfront,94,9,On Hold,45351
+324,1819,4970,50,9,"Deal with Pearson, Taylor and Martinez",487297,2025-08-17,54,Upfront,95,5,Not Started,41361
+325,1825,492,31,3,Deal with Reyes-Elliott,343442,2025-10-17,21,Upfront,79,10,Completed,29275
+326,1829,1354,26,5,"Deal with Kelly, Espinoza and Gardner",66624,2025-07-16,49,Net 60,94,9,Completed,67616
+327,1835,2924,31,9,"Deal with Jensen, Shaffer and Flores",495032,2025-04-18,46,Quarterly,76,7,Completed,25702
+328,1861,167,8,4,Deal with Robertson and Sons,477739,2023-12-31,60,Upfront,85,8,Completed,49720
+329,1867,1212,24,11,Deal with Williams Group,204479,2025-09-27,14,Net 60,66,6,In Progress,74901
+330,1874,4001,23,11,Deal with Turner Group,313463,2023-11-27,48,Quarterly,85,7,Completed,44717
+331,1899,4961,47,2,"Deal with Small, Wilson and Rollins",450247,2024-12-23,39,Net 30,70,7,Completed,96443
+332,1905,645,5,7,Deal with Smith-Thompson,239536,2024-07-27,16,Annual,87,10,In Progress,57336
+333,1908,637,11,12,"Deal with Richards, Baxter and Mora",222707,2024-01-29,54,Net 30,61,5,Not Started,62002
+334,1920,217,9,7,"Deal with Hobbs, Miller and Larson",124255,2023-07-23,46,Annual,93,3,Not Started,49913
+335,1924,303,12,3,Deal with Best LLC,351983,2024-07-25,48,Net 30,92,9,On Hold,18429
+336,1936,4204,38,6,Deal with Brown Inc,412238,2024-06-03,51,Net 30,83,6,Completed,81504
+337,1938,885,47,10,Deal with Collins Ltd,426022,2023-12-12,46,Net 60,71,2,In Progress,2244
+338,1944,2229,46,9,"Deal with Ellis, Schultz and Warren",357710,2024-01-23,40,Upfront,68,3,Completed,13493
+339,1946,1205,5,8,Deal with Phelps-Gonzalez,402590,2024-07-13,34,Upfront,77,10,On Hold,25041
+340,1951,3897,37,2,Deal with Hill-Stewart,260542,2023-11-01,52,Net 60,84,2,Completed,53211
+341,1962,1205,47,3,Deal with Dixon PLC,13700,2024-06-09,59,Upfront,91,10,Not Started,85218
+342,1968,2088,48,12,Deal with Phillips-Patterson,459635,2024-12-27,53,Quarterly,84,6,In Progress,52096
+343,1973,3277,42,3,Deal with Nelson-Shannon,14573,2024-06-25,60,Annual,70,3,In Progress,9989
+344,1974,1302,26,8,Deal with Gonzalez and Sons,454108,2024-06-26,33,Quarterly,78,4,Completed,21714
+345,1979,3062,32,9,"Deal with Miller, Gardner and Ramsey",52320,2023-02-27,38,Net 30,63,7,Not Started,45047
+346,1988,1428,6,8,Deal with Little-Ramirez,458687,2023-05-18,60,Quarterly,82,2,Completed,74995
+347,1994,408,34,6,"Deal with Wood, Gilbert and Marquez",244073,2023-09-02,56,Quarterly,91,2,On Hold,82821
+348,1995,4521,17,4,Deal with Lowe Group,445509,2023-10-05,32,Net 30,65,9,On Hold,12220
+349,2004,177,44,11,Deal with Castro PLC,202680,2024-05-11,46,Net 30,86,3,On Hold,25402
+350,2021,725,20,6,Deal with Grant PLC,344971,2023-05-17,41,Net 30,65,2,Completed,93534
+351,2030,2258,45,8,"Deal with Hernandez, Adams and Hayes",103600,2025-03-04,48,Upfront,82,4,On Hold,10
+352,2045,2624,8,1,"Deal with White, Butler and Middleton",21761,2023-08-16,24,Quarterly,72,10,In Progress,80812
+353,2046,1326,6,4,Deal with Sullivan and Sons,371318,2024-11-20,22,Net 30,75,6,Completed,12471
+354,2048,895,26,1,Deal with Parker LLC,201501,2024-11-09,49,Net 60,69,4,In Progress,69859
+355,2059,3046,16,11,Deal with Gonzalez and Sons,199006,2025-07-13,13,Net 60,83,4,In Progress,63752
+356,2065,2387,46,5,"Deal with Johnson, Greene and Ramos",208747,2024-03-20,51,Annual,86,6,Not Started,45311
+357,2073,3256,42,4,"Deal with Wilkins, Brown and Parker",264871,2025-03-23,27,Quarterly,64,7,On Hold,11782
+358,2093,818,43,12,Deal with Parks-Gaines,339321,2024-06-09,28,Upfront,94,7,On Hold,85273
+359,2098,2302,15,2,Deal with Thompson-Valencia,269930,2025-04-24,49,Upfront,93,5,In Progress,72205
+360,2101,2376,50,9,"Deal with Shah, Bennett and Frank",474386,2025-01-09,42,Net 30,67,5,In Progress,22944
+361,2104,1091,50,7,"Deal with Jenkins, Scott and Jenkins",107171,2024-03-02,53,Annual,89,5,Not Started,72282
+362,2109,3100,7,6,Deal with Evans Ltd,397877,2024-12-24,47,Annual,81,7,Completed,11262
+363,2111,1038,46,4,Deal with Shelton-Harris,223931,2024-01-22,13,Net 60,76,2,On Hold,46823
+364,2116,3826,34,5,Deal with Carroll-Taylor,93532,2025-10-13,29,Upfront,86,3,Not Started,34321
+365,2121,4085,47,5,"Deal with Alvarez, Ward and Duncan",241451,2024-04-01,59,Annual,91,7,Completed,45157
+366,2124,1443,29,1,"Deal with Armstrong, Melton and Foster",204389,2023-04-26,12,Annual,61,6,On Hold,47506
+367,2125,1797,45,5,"Deal with Kaiser, Wood and Miles",78506,2025-06-13,32,Net 30,79,2,Not Started,56915
+368,2127,1212,28,7,Deal with Stewart PLC,175633,2024-07-10,40,Upfront,72,8,Not Started,70187
+369,2134,1505,28,5,"Deal with Murphy, Ford and Roberts",112373,2023-12-09,53,Quarterly,72,5,On Hold,45983
+370,2135,3256,47,11,Deal with Farrell-Riley,275002,2024-04-17,46,Upfront,80,6,In Progress,32627
+371,2138,2582,25,7,Deal with Duran Inc,483316,2024-01-04,33,Net 30,81,9,In Progress,97427
+372,2144,2028,36,3,Deal with Campos and Sons,36688,2024-01-24,52,Upfront,69,9,In Progress,21145
+373,2149,4667,2,4,Deal with Weaver Group,36629,2025-09-27,17,Annual,72,2,On Hold,90719
+374,2165,1548,35,9,"Deal with Gonzalez, Nelson and Giles",2301,2023-10-09,39,Annual,66,7,On Hold,53075
+375,2171,4398,25,12,Deal with Meyer Inc,170322,2023-11-18,29,Net 30,71,1,On Hold,92482
+376,2178,1423,48,3,Deal with Thompson-Gregory,12055,2024-02-28,52,Quarterly,65,6,Completed,39579
+377,2180,1389,25,9,Deal with Lopez and Sons,112575,2024-08-15,47,Upfront,87,1,Completed,32186
+378,2185,4642,25,6,Deal with Deleon-Shepard,439707,2024-09-03,49,Net 30,78,6,Completed,50988
+379,2192,787,24,7,"Deal with Gallagher, Glenn and Nelson",360324,2023-12-18,21,Net 30,92,4,Completed,20395
+380,2197,3930,21,11,Deal with Nelson-Wright,289816,2023-10-06,35,Upfront,90,7,Not Started,64285
+381,2209,383,18,6,"Deal with Pruitt, Deleon and Garcia",71912,2025-01-22,15,Net 30,78,5,Completed,48806
+382,2218,3456,35,5,Deal with Russell Ltd,145035,2023-11-23,40,Annual,73,6,Not Started,42816
+383,2219,1972,36,10,Deal with Burns Ltd,71689,2024-02-23,45,Quarterly,66,9,In Progress,21282
+384,2226,1372,25,12,"Deal with Carr, Horn and Harvey",334605,2025-06-09,55,Quarterly,81,9,In Progress,65081
+385,2227,3261,22,4,Deal with Smith-Martin,79161,2025-08-09,32,Upfront,67,7,In Progress,65311
+386,2248,1279,21,8,"Deal with Davis, Smith and Thomas",86775,2024-05-14,40,Net 30,62,9,In Progress,79583
+387,2253,1499,14,7,"Deal with Wilson, Dean and Williams",374801,2024-11-10,60,Net 30,85,1,Not Started,44639
+388,2254,4280,50,9,Deal with Grant Inc,369268,2023-11-27,16,Quarterly,75,5,Completed,15733
+389,2268,4233,32,5,"Deal with Zamora, Sloan and Williams",164380,2024-02-22,47,Net 30,63,3,In Progress,79141
+390,2289,2723,31,2,Deal with Williams-Knox,207065,2024-08-22,45,Upfront,69,1,Not Started,96801
+391,2293,4542,23,2,Deal with Anderson-Frye,98689,2024-08-02,43,Quarterly,86,6,Not Started,54656
+392,2298,2996,25,11,Deal with Brennan-Whitney,356745,2024-03-06,60,Quarterly,87,7,Not Started,70350
+393,2299,3276,50,3,"Deal with Collins, Mitchell and Smith",276297,2023-04-04,25,Net 60,70,9,In Progress,81773
+394,2303,2420,17,11,Deal with Briggs Ltd,218275,2024-12-10,15,Quarterly,72,1,On Hold,94488
+395,2304,564,4,6,Deal with Holmes Inc,314931,2024-06-03,17,Annual,64,1,Completed,35950
+396,2306,2691,46,3,Deal with Hart-Nunez,257137,2023-11-28,27,Quarterly,87,4,Completed,83261
+397,2307,2426,6,12,Deal with Martin-Butler,444929,2025-08-29,35,Net 60,62,3,Completed,73252
+398,2315,3864,45,10,Deal with Stark Group,173637,2023-09-09,16,Net 30,95,10,On Hold,98206
+399,2318,1294,39,7,Deal with Black Inc,293080,2024-08-13,23,Upfront,87,10,Not Started,15828
+400,2338,2201,28,1,Deal with Anderson-Floyd,413221,2024-04-12,36,Net 60,86,9,On Hold,76541
+401,2339,3862,4,11,Deal with Carr Group,117412,2024-06-18,21,Quarterly,81,7,In Progress,45354
+402,2341,1400,45,12,Deal with Freeman-Adams,443163,2025-04-16,13,Net 30,76,6,Completed,7488
+403,2347,960,10,5,Deal with Woods LLC,137992,2025-08-02,36,Upfront,81,5,On Hold,45530
+404,2352,727,3,9,Deal with Thomas-Garcia,362428,2024-12-10,21,Quarterly,76,5,Completed,28649
+405,2369,1790,43,4,Deal with Rogers PLC,152424,2025-04-11,30,Net 30,89,7,In Progress,39173
+406,2379,2931,23,11,Deal with Lee PLC,143504,2023-09-29,15,Quarterly,70,6,Not Started,10601
+407,2382,995,47,3,"Deal with Harris, Ryan and Washington",274142,2023-06-26,48,Annual,81,7,Completed,70104
+408,2390,2733,33,2,Deal with Rivera-Ellis,100952,2023-07-19,24,Upfront,91,4,Not Started,85599
+409,2401,2409,16,11,Deal with Hanna PLC,482842,2024-09-22,46,Net 30,88,4,Completed,48142
+410,2403,4303,37,10,"Deal with Walter, Miranda and Flores",20700,2024-12-20,45,Annual,88,1,In Progress,31704
+411,2406,963,20,5,Deal with Friedman PLC,254043,2023-05-11,46,Annual,86,6,On Hold,69624
+412,2408,425,41,2,"Deal with Lee, Adams and Ramirez",301310,2024-05-17,35,Net 60,67,1,In Progress,10515
+413,2414,2556,38,11,"Deal with Erickson, Lucas and Martinez",3927,2023-12-16,46,Net 30,68,4,Completed,43855
+414,2423,3563,3,10,Deal with Lawrence Inc,245075,2023-11-02,28,Net 60,68,2,Completed,57658
+415,2424,1768,32,12,Deal with Jones-Mclaughlin,130653,2024-03-29,48,Quarterly,68,7,Completed,42777
+416,2425,2190,38,1,"Deal with Jackson, Beard and Anderson",87226,2023-10-26,47,Net 30,78,4,On Hold,39945
+417,2439,1266,50,7,"Deal with Bennett, Smith and Combs",419745,2024-07-19,45,Quarterly,76,10,On Hold,97092
+418,2440,994,38,11,Deal with Martinez Group,202718,2023-09-12,33,Quarterly,93,7,On Hold,68552
+419,2441,1450,48,7,Deal with Gibson PLC,456327,2025-06-27,37,Net 60,81,4,On Hold,82789
+420,2447,1785,24,4,Deal with Chang and Sons,172126,2024-05-15,38,Net 60,67,8,In Progress,14767
+421,2458,2284,47,10,Deal with Chavez LLC,273606,2024-01-30,56,Quarterly,90,10,In Progress,15999
+422,2465,4867,21,10,Deal with Chavez and Sons,323759,2023-07-14,43,Annual,94,5,On Hold,88074
+423,2474,3182,2,12,Deal with Hurst-Wright,65818,2023-11-11,38,Net 30,61,10,On Hold,84053
+424,2479,2341,38,8,"Deal with Foster, Williamson and Tucker",72106,2024-03-25,26,Net 60,81,9,Not Started,57669
+425,2481,2909,3,9,Deal with Roberts-Gonzalez,447387,2024-01-01,32,Net 30,69,10,Not Started,31796
+426,2485,3411,5,1,"Deal with Garcia, Patel and Gibson",318139,2024-12-08,48,Net 60,94,8,Completed,33797
+427,2489,4330,46,4,Deal with Anderson Ltd,476964,2023-02-28,21,Net 60,94,5,On Hold,36719
+428,2506,2531,15,10,Deal with Jones-Leach,485052,2025-01-05,42,Net 60,94,10,In Progress,77641
+429,2507,2876,32,5,"Deal with Alvarez, Johnson and Conrad",452305,2024-04-30,30,Upfront,61,1,On Hold,97385
+430,2511,3687,20,3,"Deal with Johnson, Chen and Keith",121148,2025-04-17,56,Quarterly,85,8,On Hold,44759
+431,2517,3426,43,2,"Deal with Cochran, Chapman and Hooper",98924,2023-08-07,37,Net 60,78,1,Not Started,50977
+432,2532,2423,47,1,Deal with Jones-Shah,483211,2025-06-16,31,Net 30,86,8,On Hold,99731
+433,2542,2701,31,9,Deal with Mitchell-Williams,37872,2023-06-04,42,Upfront,72,9,Completed,99047
+434,2552,3461,42,11,"Deal with Payne, Wilkins and Miller",374045,2024-10-17,46,Quarterly,69,2,Not Started,83533
+435,2558,4357,9,6,Deal with Castro-Martinez,303906,2025-02-01,60,Upfront,90,5,In Progress,51091
+436,2561,184,23,10,Deal with Reynolds and Sons,216296,2024-10-02,33,Quarterly,94,5,Completed,4659
+437,2563,3784,27,10,Deal with Rivera-Evans,295818,2023-11-21,29,Quarterly,82,10,In Progress,50459
+438,2564,747,34,7,Deal with Duran-Bennett,210746,2023-06-07,18,Upfront,84,10,On Hold,75126
+439,2568,2573,37,8,Deal with Mckinney PLC,316524,2024-06-20,16,Quarterly,60,3,In Progress,83356
+440,2574,600,40,12,Deal with Oconnor-Sanders,280409,2024-03-23,38,Annual,92,7,Not Started,50752
+441,2576,34,30,6,"Deal with Young, Bender and Williams",289122,2024-01-05,14,Upfront,71,9,In Progress,53231
+442,2580,435,44,11,Deal with Adams-Schaefer,374951,2024-10-18,53,Upfront,84,4,On Hold,88029
+443,2606,2742,14,6,Deal with Keller Inc,329767,2025-01-27,48,Upfront,66,2,In Progress,69102
+444,2608,191,42,9,"Deal with Taylor, Flores and Nelson",340802,2023-08-15,29,Net 30,72,10,Not Started,94647
+445,2610,4475,23,11,Deal with Jones-Snyder,329522,2023-09-05,17,Annual,80,8,Completed,22051
+446,2630,3767,18,4,Deal with Yang Ltd,401357,2024-12-17,48,Quarterly,75,9,On Hold,98230
+447,2632,2982,29,5,"Deal with Holt, White and Fields",144342,2024-10-09,34,Net 30,77,3,On Hold,44614
+448,2646,3208,11,5,"Deal with Smith, White and Garner",456581,2024-03-30,39,Net 30,69,10,In Progress,70400
+449,2647,2598,31,7,Deal with Myers-Hill,394391,2025-02-09,14,Net 60,88,1,Not Started,37292
+450,2660,1587,26,2,Deal with Dawson-Thomas,37129,2025-04-26,59,Net 30,63,8,On Hold,60791
+451,2665,2038,13,5,Deal with Jenkins-Park,316918,2023-04-20,21,Quarterly,66,10,Not Started,52081
+452,2668,1377,24,5,"Deal with Pollard, Williams and Fuentes",306659,2023-09-13,31,Net 30,67,2,Completed,98348
+453,2674,3036,18,10,Deal with Krueger-Marquez,26883,2024-04-10,49,Annual,87,2,Completed,86899
+454,2675,1416,18,3,"Deal with Morrison, Martinez and Bradley",377057,2024-01-06,45,Annual,90,6,Completed,42468
+455,2683,3107,15,9,"Deal with Montgomery, Villarreal and Hatfield",398980,2024-06-12,30,Quarterly,67,8,Completed,77118
+456,2689,4862,27,10,"Deal with Robinson, Paul and Collins",44142,2025-01-11,14,Net 60,84,7,On Hold,42038
+457,2691,923,32,10,Deal with Matthews-Campbell,337661,2024-10-07,47,Quarterly,60,3,Completed,68292
+458,2698,4153,34,9,Deal with Harvey Ltd,400823,2025-04-27,13,Annual,72,7,In Progress,28180
+459,2702,4479,21,7,Deal with Meyer PLC,282433,2025-01-17,33,Net 60,90,8,In Progress,47082
+460,2703,2121,12,6,Deal with Brown-Murphy,494165,2025-06-15,25,Quarterly,87,5,On Hold,36375
+461,2707,3061,33,10,Deal with Gray Group,100816,2023-10-14,19,Net 30,66,7,Completed,5070
+462,2725,2823,33,12,"Deal with Bradshaw, Wallace and Mccormick",299022,2024-07-10,45,Net 30,85,1,Not Started,87904
+463,2731,1888,25,4,Deal with Foster-Meadows,485570,2024-01-12,52,Upfront,76,5,Completed,39325
+464,2752,4650,17,7,Deal with Allen LLC,332545,2023-12-02,35,Upfront,64,2,Not Started,82344
+465,2753,3549,12,6,Deal with Herring-Simpson,90254,2023-10-01,54,Net 30,83,9,Completed,90818
+466,2756,4696,13,4,"Deal with Pruitt, Cameron and White",77986,2024-11-28,50,Net 60,95,10,In Progress,85086
+467,2760,1158,39,11,"Deal with Johnson, Williamson and Carney",321056,2024-03-08,19,Net 60,66,3,In Progress,97715
+468,2763,289,38,11,Deal with Baker Group,91609,2023-08-20,14,Upfront,87,7,In Progress,51034
+469,2765,1495,9,8,Deal with Aguilar-Brown,76602,2024-02-23,43,Net 30,87,6,On Hold,50454
+470,2767,3362,20,11,"Deal with Vargas, Farrell and Lambert",32542,2023-06-09,12,Annual,88,2,Not Started,63656
+471,2768,633,23,12,Deal with Welch and Sons,130062,2025-03-03,47,Quarterly,90,1,In Progress,65841
+472,2787,1377,44,4,Deal with Hernandez-Byrd,426939,2024-03-22,23,Upfront,76,9,In Progress,22265
+473,2795,3346,20,11,Deal with Golden and Sons,274127,2023-12-27,41,Net 30,78,5,Not Started,19174
+474,2804,4514,47,7,Deal with Palmer Group,295134,2025-03-06,28,Quarterly,67,5,In Progress,71493
+475,2806,3713,38,3,Deal with Lynch-Smith,9826,2025-07-31,24,Annual,91,3,Not Started,26656
+476,2808,1993,34,6,Deal with Carlson PLC,212179,2023-09-21,59,Net 60,70,3,Not Started,55083
+477,2811,4137,39,8,"Deal with Gonzalez, Kim and Ross",200107,2025-01-04,20,Quarterly,86,5,On Hold,94552
+478,2817,1432,14,7,Deal with Garner PLC,413391,2024-04-01,55,Net 60,91,9,In Progress,65039
+479,2826,2600,47,11,Deal with Wright-Gonzalez,435092,2024-04-16,41,Annual,63,7,Not Started,68859
+480,2830,4533,48,9,Deal with Santos-Anderson,249658,2023-08-17,45,Net 60,84,7,Not Started,99260
+481,2831,857,35,12,"Deal with Clark, Spence and Summers",95648,2024-06-03,46,Upfront,77,9,In Progress,63258
+482,2833,365,31,3,"Deal with Wyatt, Murphy and Huerta",445348,2023-10-18,56,Net 60,74,6,On Hold,74727
+483,2844,2303,7,5,Deal with Scott Group,322797,2024-08-10,13,Net 30,82,1,In Progress,30451
+484,2852,3765,8,2,Deal with Underwood Group,89460,2024-04-28,52,Net 60,77,10,Completed,71092
+485,2856,1886,47,12,Deal with Sanders PLC,299186,2024-12-28,22,Net 30,70,6,On Hold,6910
+486,2866,4102,4,9,Deal with Lopez LLC,35076,2024-05-27,55,Net 60,63,4,On Hold,16011
+487,2867,3800,33,8,"Deal with Diaz, Taylor and Padilla",335982,2024-03-28,29,Net 60,83,9,In Progress,32546
+488,2869,712,49,11,"Deal with Barron, Hernandez and Parker",250747,2024-07-10,14,Quarterly,71,10,Completed,71425
+489,2870,2616,30,1,Deal with Cooper-Bernard,274016,2025-03-06,27,Net 30,80,8,In Progress,80364
+490,2889,1451,8,6,Deal with Richards and Sons,325582,2025-04-18,14,Annual,80,3,In Progress,78586
+491,2892,4520,39,7,Deal with Duncan-Barker,95879,2025-03-09,21,Quarterly,70,9,Not Started,67249
+492,2903,4980,39,11,Deal with Cox Group,167943,2024-04-27,36,Quarterly,93,4,Completed,44957
+493,2906,562,40,10,Deal with Juarez-Glover,418668,2023-05-24,17,Annual,82,1,Not Started,73623
+494,2915,925,41,3,"Deal with Brown, Hayden and Perry",181711,2024-07-27,13,Net 60,82,1,In Progress,23228
+495,2916,2401,23,1,Deal with Hall Group,341141,2024-07-02,25,Net 30,80,7,In Progress,58290
+496,2918,4057,45,2,Deal with Williams Group,59296,2024-01-20,40,Net 30,76,10,In Progress,31490
+497,2920,1654,12,3,"Deal with Harris, Daniel and White",271295,2024-05-28,12,Annual,65,9,In Progress,55782
+498,2923,3732,40,3,Deal with Tucker Ltd,2050,2024-03-21,22,Annual,61,5,Not Started,39255
+499,2940,1885,12,4,"Deal with Barrett, Forbes and Vance",172570,2023-05-01,46,Annual,91,4,Completed,92810
+500,2962,1107,32,7,Deal with Rios Inc,185955,2023-12-01,44,Net 60,87,10,Completed,80528
+501,2966,1966,31,1,Deal with Valentine Ltd,17321,2024-06-25,30,Net 60,89,7,Completed,5441
+502,2968,4360,22,7,Deal with Schultz-James,22873,2024-10-12,21,Net 30,84,1,On Hold,64443
+503,2969,4273,13,7,Deal with Cox-Bryant,432139,2023-04-10,27,Upfront,92,8,Not Started,90222
+504,2970,2170,22,1,Deal with Payne Ltd,219546,2025-04-03,58,Quarterly,89,4,Not Started,22014
+505,2973,4949,13,8,"Deal with Cook, Curtis and Jefferson",304452,2025-05-17,60,Net 30,95,4,Not Started,16385
+506,2993,3114,40,8,Deal with Vega and Sons,203689,2025-09-18,12,Annual,95,7,Not Started,45533
+507,2994,1975,44,6,"Deal with Payne, Tate and Simpson",477379,2023-03-02,45,Quarterly,75,6,Not Started,72315
+508,3001,3906,13,6,Deal with Johnston-Hall,105798,2024-06-18,17,Annual,91,4,In Progress,13986
+509,3008,3963,45,3,"Deal with Sanders, Henry and Anderson",88635,2025-01-27,43,Net 30,80,8,Completed,57454
+510,3021,4014,33,1,Deal with Ferrell and Sons,385664,2024-06-24,49,Annual,67,6,Not Started,41969
+511,3023,1400,19,12,Deal with Huff and Sons,18858,2023-12-07,37,Annual,80,10,Not Started,90240
+512,3025,4047,30,2,Deal with Hanson and Sons,216534,2023-11-26,39,Annual,79,10,Not Started,90732
+513,3026,2095,20,3,"Deal with Maynard, Friedman and Cannon",277321,2024-09-25,54,Net 30,60,6,Completed,14129
+514,3032,85,40,8,Deal with Ramirez Ltd,177346,2024-12-28,38,Upfront,78,3,Not Started,44332
+515,3050,4465,43,9,"Deal with May, Stevens and Smith",253600,2024-01-09,36,Upfront,85,10,On Hold,58300
+516,3051,297,26,6,"Deal with Jones, Ruiz and Brown",254658,2024-02-23,46,Annual,74,2,On Hold,48537
+517,3052,2868,9,10,Deal with Rodgers-Miller,36256,2024-08-10,35,Annual,91,4,Not Started,7855
+518,3055,4038,34,3,"Deal with Phillips, Frederick and Carroll",122891,2024-06-10,17,Net 30,63,8,Not Started,33409
+519,3059,828,21,4,Deal with Mcdonald Inc,374529,2024-08-17,49,Quarterly,79,8,Not Started,47303
+520,3060,1245,30,10,"Deal with Dean, Barber and Pearson",393499,2024-07-15,12,Upfront,70,8,On Hold,20690
+521,3070,4686,24,7,Deal with Williams and Sons,167929,2023-11-10,44,Quarterly,84,5,Completed,52975
+522,3073,2560,42,2,Deal with Saunders Group,81403,2025-03-03,16,Net 60,66,5,Completed,94487
+523,3106,3398,4,11,Deal with Doyle and Sons,428358,2023-09-29,46,Net 30,94,5,Not Started,53151
+524,3108,4704,42,7,"Deal with Johnson, Ortiz and Graham",277846,2024-05-05,60,Upfront,62,3,Completed,79901
+525,3116,4868,16,12,Deal with Burton-Turner,294092,2025-08-15,20,Annual,72,8,Not Started,57389
+526,3117,272,49,4,"Deal with Hopkins, Martinez and Stewart",336482,2024-05-05,26,Net 30,69,5,Not Started,45595
+527,3132,1296,2,11,Deal with Jackson Group,113319,2025-02-06,15,Net 60,77,5,Not Started,60473
+528,3135,1289,37,6,"Deal with Thornton, Brown and Perez",463220,2025-06-29,23,Net 30,83,8,In Progress,76827
+529,3141,2177,38,3,Deal with Woods LLC,296197,2024-01-09,14,Quarterly,76,4,Completed,17856
+530,3143,4560,45,5,Deal with Burke-Rich,304257,2025-06-06,32,Upfront,81,9,Not Started,29401
+531,3149,2314,38,1,Deal with Brown-Nguyen,208435,2025-02-17,27,Upfront,83,7,In Progress,11252
+532,3150,4926,39,7,Deal with Chavez-Simon,382158,2023-07-25,18,Upfront,78,5,In Progress,18604
+533,3152,213,40,7,Deal with Valentine-Willis,421737,2025-03-12,45,Upfront,64,5,Completed,16055
+534,3157,1933,25,4,"Deal with Morris, Mcmahon and Garcia",24201,2024-11-10,18,Quarterly,89,10,In Progress,72825
+535,3160,3349,19,11,Deal with Ferguson Group,466365,2023-10-16,30,Net 60,86,2,Not Started,78886
+536,3161,789,4,2,Deal with Porter-Roth,177165,2024-08-27,57,Annual,94,5,On Hold,53083
+537,3163,250,17,1,"Deal with Stevens, Escobar and Hicks",141002,2024-05-14,43,Quarterly,61,10,Completed,91684
+538,3167,703,35,9,"Deal with Kelley, Torres and Castro",64338,2024-04-11,50,Quarterly,87,6,Not Started,4029
+539,3169,7,2,9,Deal with Pearson-Smith,299073,2023-11-24,59,Net 60,70,5,On Hold,73216
+540,3174,3981,24,8,Deal with Jacobson Group,397877,2024-11-26,57,Net 30,77,9,Completed,85061
+541,3176,4541,12,9,Deal with Harper-Anderson,113002,2025-03-14,28,Net 60,61,9,Not Started,49906
+542,3181,1464,18,8,"Deal with Dominguez, Valencia and Valencia",392700,2024-06-16,13,Upfront,63,6,Completed,55485
+543,3186,1774,10,2,"Deal with Hunter, Sanchez and Williams",462956,2023-10-09,27,Net 60,83,5,On Hold,38621
+544,3193,3454,22,4,"Deal with Castillo, Padilla and Mitchell",108644,2024-08-19,24,Annual,87,8,On Hold,79325
+545,3203,2678,50,1,Deal with Gray-Smith,434220,2024-03-08,45,Net 30,89,8,Not Started,65598
+546,3206,806,1,1,Deal with Cook-Sullivan,364793,2024-04-14,43,Upfront,86,3,Not Started,624
+547,3210,417,17,7,Deal with Meza-Perry,495235,2024-08-25,31,Annual,84,4,On Hold,66490
+548,3216,3922,50,7,Deal with Garcia LLC,372081,2025-02-04,54,Quarterly,68,5,Not Started,36679
+549,3243,3421,39,10,Deal with Rowe Inc,88608,2025-01-08,49,Net 30,72,5,In Progress,28685
+550,3244,870,27,4,Deal with Kennedy LLC,53786,2025-01-24,54,Annual,78,3,In Progress,51794
+551,3248,4467,41,7,"Deal with Morales, Fletcher and Cobb",476201,2024-02-26,36,Upfront,78,2,On Hold,64920
+552,3261,581,42,5,"Deal with Garrison, Clark and Lewis",365319,2025-03-11,48,Annual,90,5,In Progress,30436
+553,3264,2935,7,10,Deal with Moody-Clark,161054,2024-07-20,22,Net 60,66,2,In Progress,89170
+554,3266,2323,31,7,Deal with Jones-Young,128341,2023-09-25,18,Quarterly,73,4,In Progress,93174
+555,3277,1222,32,1,"Deal with Juarez, Day and Landry",344491,2025-01-29,47,Upfront,64,4,In Progress,39897
+556,3284,3308,8,12,"Deal with Navarro, Frazier and Peterson",286583,2024-06-18,45,Annual,64,6,On Hold,67878
+557,3285,1754,16,2,Deal with Alvarado-Young,342159,2025-10-04,58,Net 30,65,10,On Hold,90533
+558,3286,768,28,3,Deal with Cruz Inc,459087,2024-02-29,12,Quarterly,81,9,In Progress,78925
+559,3287,3443,34,10,"Deal with Jordan, Velazquez and Wall",69770,2025-05-06,24,Upfront,82,10,In Progress,50989
+560,3295,506,45,11,Deal with Hester and Sons,489304,2024-01-14,59,Upfront,65,2,Completed,89299
+561,3302,779,10,9,"Deal with Watson, Young and Mcdowell",153535,2024-11-06,49,Net 30,60,3,Completed,22659
+562,3309,4598,41,7,Deal with Barnes-Hughes,384573,2023-06-17,40,Net 30,94,4,Not Started,49345
+563,3314,206,8,12,Deal with Brooks-Fritz,25498,2024-01-07,13,Quarterly,69,5,Completed,43249
+564,3315,202,1,9,Deal with Hardy Group,302881,2024-03-15,53,Net 30,74,1,Completed,76147
+565,3320,713,35,4,"Deal with Fowler, Garner and Willis",358621,2024-11-13,24,Quarterly,80,9,Completed,70551
+566,3322,1818,39,10,"Deal with Rivas, Thompson and Peterson",64240,2024-01-16,59,Net 60,88,6,Not Started,40041
+567,3333,3514,29,8,"Deal with Harris, Roberts and Rogers",348719,2024-07-23,58,Net 30,92,4,In Progress,80381
+568,3344,3965,25,9,Deal with Howell-Anderson,323849,2023-07-13,32,Net 30,66,1,In Progress,79068
+569,3345,4498,44,2,Deal with Simon LLC,11061,2024-03-16,39,Quarterly,68,5,In Progress,81952
+570,3357,4611,49,11,Deal with Dunn-Singleton,474482,2023-08-13,59,Upfront,66,10,In Progress,79846
+571,3361,1376,15,4,"Deal with Daniels, Miller and Gardner",131550,2024-09-14,39,Net 60,65,2,Completed,89240
+572,3364,1244,28,7,Deal with Snow-Saunders,479510,2025-08-06,27,Quarterly,88,4,In Progress,12435
+573,3366,1401,43,5,Deal with Jefferson and Sons,378541,2025-03-16,49,Net 30,61,9,Not Started,18786
+574,3369,4714,39,8,Deal with Kim Group,373512,2024-01-25,15,Quarterly,64,4,On Hold,55274
+575,3376,4002,39,3,"Deal with Jensen, Pacheco and Chavez",401254,2025-06-25,21,Annual,71,10,On Hold,68815
+576,3377,2647,8,3,Deal with Proctor and Sons,101252,2024-02-20,24,Annual,62,6,Not Started,25704
+577,3381,2491,14,2,"Deal with Freeman, Reeves and Patel",490367,2025-02-10,48,Upfront,68,3,Completed,58218
+578,3385,853,27,11,Deal with Adams-White,454029,2023-12-30,18,Upfront,62,2,Not Started,98732
+579,3395,116,4,7,"Deal with Lambert, Murphy and Peterson",30632,2023-07-11,46,Quarterly,72,5,On Hold,71659
+580,3396,730,31,6,"Deal with Howard, Lane and Marshall",288978,2024-12-23,16,Upfront,95,1,Not Started,45261
+581,3397,4530,12,2,"Deal with Allen, Luna and Freeman",41226,2023-07-14,48,Net 30,80,1,In Progress,82224
+582,3414,1908,15,1,Deal with Erickson LLC,12742,2024-12-21,41,Quarterly,76,2,Completed,25834
+583,3424,4073,13,11,"Deal with Gallegos, Phillips and Todd",468913,2024-10-20,16,Upfront,66,8,Completed,57532
+584,3433,1100,18,12,Deal with Jones Group,306714,2023-12-17,55,Upfront,72,3,Completed,15750
+585,3435,4707,12,12,Deal with Griffin-Miller,341995,2023-11-29,34,Net 60,68,1,Not Started,60203
+586,3443,3742,27,5,Deal with Cuevas-Coleman,350046,2023-05-14,35,Annual,82,2,Completed,70585
+587,3457,1216,47,2,Deal with Santiago-Berger,320591,2024-11-15,46,Upfront,77,8,In Progress,42037
+588,3473,806,17,6,"Deal with Goodman, Humphrey and King",383622,2023-10-21,16,Quarterly,76,2,In Progress,1479
+589,3474,3137,3,10,"Deal with Smith, Powers and Silva",459230,2023-10-25,37,Net 30,64,4,On Hold,82527
+590,3476,2830,7,6,Deal with Williams-Brown,247592,2023-03-21,23,Quarterly,69,5,On Hold,24302
+591,3477,1966,8,5,Deal with Holder PLC,312319,2024-08-17,59,Annual,66,4,Not Started,64675
+592,3478,1908,25,2,Deal with Smith Group,347854,2024-09-04,49,Net 30,81,6,Not Started,74023
+593,3480,2825,18,5,Deal with Morse LLC,360010,2025-01-15,50,Annual,67,9,On Hold,49739
+594,3482,1634,29,10,Deal with Montgomery Ltd,338214,2025-03-24,52,Net 30,60,7,In Progress,43710
+595,3498,2417,8,6,"Deal with Martin, Hale and Austin",279116,2024-03-10,59,Net 60,64,9,Not Started,70819
+596,3504,3512,33,10,Deal with Holland Inc,50069,2025-06-27,21,Quarterly,94,10,Completed,29566
+597,3506,384,10,9,Deal with Michael-Pacheco,64307,2025-02-18,31,Net 60,66,4,On Hold,32012
+598,3516,3679,9,4,Deal with Boyd LLC,127910,2024-02-19,57,Annual,76,8,On Hold,53875
+599,3521,3009,31,4,Deal with Rose Group,154571,2025-07-18,26,Net 30,91,10,Not Started,789
+600,3527,4432,22,5,"Deal with Vaughan, Martin and Woods",228217,2024-10-30,27,Upfront,72,3,Not Started,60303
+601,3528,3578,46,11,"Deal with Harvey, Callahan and Mckenzie",325825,2024-02-25,44,Quarterly,65,5,In Progress,5359
+602,3530,1356,1,11,"Deal with Kelley, Grimes and Riley",490156,2025-06-15,44,Quarterly,79,5,On Hold,2824
+603,3532,1936,23,6,Deal with Peters-Willis,494636,2024-07-25,32,Quarterly,80,4,On Hold,46426
+604,3533,2825,39,8,Deal with Smith Ltd,118756,2024-08-12,51,Net 30,74,7,On Hold,50618
+605,3536,706,14,10,"Deal with Washington, Scott and Velasquez",272006,2024-12-17,54,Net 30,85,8,Not Started,92957
+606,3552,834,3,7,Deal with Stokes Group,44817,2025-10-08,47,Annual,84,3,Completed,49523
+607,3558,3267,40,8,Deal with Fowler-Carr,466432,2023-12-29,35,Annual,73,1,In Progress,57644
+608,3572,2916,45,6,"Deal with Gutierrez, Flores and Dixon",131613,2023-11-12,35,Upfront,71,4,On Hold,65311
+609,3577,3278,17,1,Deal with Gilmore-Fields,394137,2024-11-07,49,Net 30,95,9,In Progress,43669
+610,3591,4293,31,11,Deal with Fuentes-Ware,365694,2024-06-11,14,Quarterly,82,5,On Hold,67979
+611,3596,3428,14,10,Deal with Howe-Nichols,154466,2024-11-21,52,Net 60,85,10,Completed,93104
+612,3600,4011,44,9,"Deal with Hernandez, Rocha and Heath",82849,2025-02-21,58,Annual,78,4,In Progress,38427
+613,3602,1394,18,4,Deal with Rose-Jennings,294819,2023-07-27,59,Quarterly,61,7,On Hold,18635
+614,3603,4508,30,7,Deal with Dougherty-Nguyen,395668,2025-02-10,24,Quarterly,73,8,On Hold,45705
+615,3608,2307,11,11,Deal with Green-Waters,176888,2025-06-21,21,Net 30,85,8,In Progress,84915
+616,3609,1004,28,11,Deal with Todd-Reid,176851,2024-01-30,16,Upfront,68,9,On Hold,14604
+617,3614,237,5,10,Deal with Kim-Williams,230785,2024-09-28,40,Net 60,68,10,Not Started,61567
+618,3615,2848,17,1,Deal with Christensen-Brooks,18087,2023-06-08,37,Annual,60,2,Not Started,23182
+619,3620,3557,8,5,"Deal with Schaefer, Ellis and Adams",359501,2023-08-28,59,Net 60,82,2,Not Started,73017
+620,3630,791,48,11,Deal with Evans-Lopez,280127,2024-06-10,23,Annual,91,9,Completed,79767
+621,3633,2531,10,7,Deal with Knapp-Gonzalez,383405,2023-08-31,42,Annual,61,9,In Progress,7046
+622,3640,4401,7,4,"Deal with Stanley, Smith and Martin",203162,2025-10-14,30,Annual,80,10,Not Started,53011
+623,3643,3326,28,3,Deal with Oconnor-Kent,462197,2024-08-15,15,Annual,94,2,Completed,89605
+624,3646,2286,33,12,"Deal with Davidson, Mendez and Golden",414986,2024-10-16,42,Net 30,69,8,Completed,2013
+625,3651,2495,30,3,"Deal with Jones, Montoya and Lindsey",106817,2024-09-02,60,Net 60,89,3,Completed,23174
+626,3653,59,44,5,"Deal with Fisher, Brown and Duffy",4994,2023-10-28,43,Quarterly,71,8,Completed,30313
+627,3656,1185,5,5,"Deal with Wade, Brown and Stanton",371359,2024-06-05,30,Upfront,80,1,In Progress,50805
+628,3657,2829,47,12,Deal with Miller-Wallace,474019,2024-06-15,29,Net 30,88,8,On Hold,20258
+629,3659,1580,2,8,Deal with Jackson-Smith,201525,2024-08-30,17,Annual,92,7,On Hold,20221
+630,3661,1356,8,9,"Deal with Powell, Harrington and Norton",391138,2023-10-16,30,Annual,85,8,In Progress,48093
+631,3675,4810,47,12,Deal with Young-Rodriguez,353188,2024-02-02,20,Quarterly,71,10,In Progress,6157
+632,3679,992,14,11,"Deal with Ward, Mendoza and Anderson",161468,2025-10-16,51,Net 60,74,2,On Hold,37258
+633,3688,1017,18,11,Deal with Thompson-Atkins,207213,2024-08-07,37,Annual,69,10,Not Started,47012
+634,3693,1999,41,2,"Deal with Brown, Waters and Moss",96936,2025-03-30,51,Net 60,71,2,In Progress,77305
+635,3698,1184,32,6,"Deal with Chavez, Hodge and Meyers",375375,2024-09-21,18,Net 60,92,5,Not Started,5482
+636,3711,1038,17,12,"Deal with Powell, Marsh and Williams",78246,2023-11-07,34,Upfront,64,7,On Hold,60970
+637,3712,4204,30,9,Deal with Hutchinson-Levine,277855,2024-12-28,50,Upfront,80,5,Completed,71876
+638,3716,1204,45,5,Deal with Price-Duffy,396303,2024-11-03,26,Net 30,94,8,Not Started,29448
+639,3718,1843,20,8,Deal with Francis-Huang,114830,2024-12-23,55,Upfront,71,1,Not Started,46019
+640,3724,1246,46,2,"Deal with Keith, Carpenter and Brown",141470,2025-01-09,53,Net 60,91,5,Not Started,85767
+641,3735,1105,24,1,Deal with Levy Inc,350425,2023-10-23,45,Upfront,88,5,On Hold,92088
+642,3736,987,15,4,"Deal with Smith, Bradley and Giles",277882,2024-06-28,57,Net 30,75,5,Not Started,22417
+643,3739,3776,16,9,Deal with Stewart-Jenkins,493173,2023-10-03,55,Net 60,70,1,Completed,21376
+644,3745,3500,21,3,"Deal with Pierce, Jackson and Reynolds",96055,2023-07-25,21,Upfront,87,6,On Hold,36014
+645,3746,3559,41,4,Deal with Pope and Sons,186364,2025-01-21,42,Annual,66,7,Not Started,377
+646,3752,2291,49,10,Deal with English-Murphy,266401,2024-10-12,20,Quarterly,72,4,On Hold,99588
+647,3760,1499,9,9,Deal with Henderson Group,385594,2024-09-30,22,Net 60,68,10,On Hold,795
+648,3773,2417,5,7,"Deal with Mccullough, Francis and Johnson",81215,2025-07-16,24,Annual,86,5,In Progress,18970
+649,3777,1306,49,4,Deal with Sanford-Garcia,457342,2024-10-08,39,Quarterly,75,1,Not Started,45382
+650,3784,2415,15,3,Deal with Smith-Moreno,335870,2023-05-10,17,Upfront,80,5,On Hold,76220
+651,3792,1213,26,10,Deal with Robertson Ltd,424467,2023-09-21,35,Upfront,61,6,In Progress,76011
+652,3807,1506,49,7,Deal with Gonzalez PLC,390373,2023-10-04,24,Net 60,95,5,Not Started,35177
+653,3814,1433,41,10,"Deal with Lowe, Taylor and Williams",488095,2024-06-13,13,Upfront,80,6,On Hold,28295
+654,3816,2857,9,6,"Deal with Greer, Rodriguez and Gallegos",418128,2024-05-22,13,Upfront,75,2,Not Started,35644
+655,3818,822,24,6,Deal with Adkins Group,168202,2024-04-27,23,Upfront,87,3,Not Started,66691
+656,3822,2728,36,2,"Deal with Smith, Conley and Jacobson",320561,2025-07-04,16,Net 60,77,8,Completed,29404
+657,3825,1419,43,2,Deal with Boyd-Roberts,12170,2024-05-25,31,Annual,75,3,On Hold,89768
+658,3834,3361,15,4,"Deal with Watkins, Zimmerman and Moore",168787,2024-01-24,49,Net 30,93,1,Not Started,47188
+659,3836,4340,15,10,Deal with Melendez PLC,70089,2023-07-30,19,Net 60,67,7,On Hold,28609
+660,3838,2776,31,3,Deal with Rich and Sons,416645,2024-02-02,31,Upfront,85,10,Completed,21663
+661,3849,2155,17,10,Deal with Wallace-Duran,62366,2024-12-03,24,Net 60,88,2,Completed,18122
+662,3862,9,7,6,Deal with Price-Weaver,54602,2025-03-07,28,Net 30,93,4,On Hold,51854
+663,3870,4234,30,1,"Deal with Jones, Potter and Williams",304259,2023-10-28,26,Annual,88,4,In Progress,80440
+664,3875,4357,39,12,Deal with Perez and Sons,64647,2023-09-04,50,Net 60,78,9,Completed,59
+665,3879,4287,6,1,Deal with Kelly Ltd,135631,2025-04-12,14,Net 30,73,9,Completed,44648
+666,3886,4017,1,2,Deal with Hamilton LLC,261220,2024-08-14,27,Net 30,82,2,Completed,47907
+667,3890,3542,25,12,"Deal with Coleman, Baker and Smith",494221,2025-08-11,35,Net 60,68,1,On Hold,2673
+668,3892,4293,27,3,"Deal with Rios, Cooper and Harris",399190,2024-10-05,18,Net 30,80,1,In Progress,20264
+669,3894,2025,45,2,"Deal with Walker, Clark and Bates",282165,2024-03-01,12,Annual,70,3,On Hold,36675
+670,3896,2851,28,3,Deal with Bennett-Huffman,283784,2024-01-08,47,Quarterly,95,5,In Progress,29592
+671,3898,2679,49,11,Deal with Gomez Inc,166743,2024-05-28,37,Net 30,60,2,Completed,79386
+672,3901,2993,50,4,"Deal with Thompson, Adams and May",433561,2024-09-29,26,Annual,67,3,On Hold,61837
+673,3903,2761,28,9,Deal with Foley and Sons,421834,2025-02-02,33,Quarterly,67,5,In Progress,16687
+674,3929,679,37,9,Deal with Brooks-Roberts,26249,2024-03-28,45,Annual,79,9,Completed,10923
+675,3939,1954,24,1,Deal with Mann and Sons,177044,2024-06-20,55,Net 60,60,7,In Progress,36495
+676,3941,2769,14,10,Deal with Sharp PLC,446593,2024-02-08,31,Annual,91,5,On Hold,68738
+677,3944,456,22,4,Deal with Meza Ltd,75854,2024-10-29,60,Upfront,69,10,Not Started,33314
+678,3950,2773,38,12,Deal with Aguirre-Morse,479299,2024-06-14,41,Upfront,89,6,Completed,92854
+679,3952,1340,50,7,"Deal with Murray, Parker and Massey",132495,2025-02-13,60,Net 60,63,4,On Hold,72046
+680,3962,1324,5,10,Deal with Tyler PLC,472229,2025-01-04,41,Quarterly,86,3,On Hold,12156
+681,3967,387,7,11,Deal with Smith Inc,89995,2024-11-05,41,Net 60,90,8,In Progress,91041
+682,3969,3604,35,3,"Deal with Lucas, Robinson and Thomas",451658,2024-07-14,45,Upfront,80,1,In Progress,6609
+683,3970,3111,42,11,"Deal with Dickerson, Molina and Esparza",453343,2025-10-22,23,Quarterly,85,9,Not Started,24984
+684,3984,2367,1,5,Deal with Riley-Carpenter,296640,2024-05-29,46,Net 60,66,9,In Progress,70667
+685,3985,1825,43,1,Deal with Schwartz-Daniel,392505,2024-11-14,58,Net 60,79,7,Not Started,30180
+686,3986,2873,4,4,"Deal with Miller, Carlson and Zuniga",294363,2025-07-17,49,Net 60,74,4,Not Started,64043
+687,3994,2546,2,8,"Deal with Walker, Munoz and Brewer",490399,2025-08-02,26,Annual,60,6,On Hold,32061
+688,4005,4716,6,1,Deal with Tanner-Neal,482173,2024-10-24,43,Net 60,80,5,Not Started,36245
+689,4006,3300,10,5,"Deal with Hicks, Ramirez and Escobar",47967,2024-04-26,52,Net 30,92,3,Completed,10766
+690,4013,3388,7,3,Deal with Ferguson and Sons,439236,2024-02-26,23,Net 60,64,3,In Progress,867
+691,4015,4516,46,6,Deal with Williams-Bell,219551,2024-01-20,48,Net 30,87,6,In Progress,60046
+692,4020,2771,49,4,Deal with Brown-Buchanan,28360,2023-07-10,53,Net 60,70,10,On Hold,87043
+693,4039,1319,31,3,"Deal with Becker, Ross and Neal",409799,2024-02-22,43,Net 60,80,9,Completed,25750
+694,4043,4230,25,11,Deal with Turner-Young,51874,2025-07-06,32,Net 30,83,4,Not Started,77632
+695,4052,1805,8,8,"Deal with Hernandez, Fisher and Carson",301520,2024-12-13,37,Net 60,88,3,Not Started,8451
+696,4059,1477,14,10,Deal with Baker LLC,363557,2024-08-06,15,Net 60,71,2,On Hold,45646
+697,4069,435,10,11,"Deal with Martin, Cox and Clark",224550,2024-03-28,29,Annual,74,2,Completed,52020
+698,4080,1109,27,8,"Deal with Martin, Carter and Robles",379049,2023-05-21,52,Net 60,75,4,In Progress,68341
+699,4094,941,5,6,Deal with Novak-Villanueva,451536,2024-01-15,58,Annual,76,4,Not Started,52632
+700,4095,1465,4,6,"Deal with Wyatt, Coleman and Salazar",24639,2024-09-24,16,Annual,81,4,On Hold,62838
+701,4104,728,10,8,Deal with Grant Ltd,128214,2024-03-07,15,Net 60,63,8,On Hold,60714
+702,4109,51,12,2,Deal with Levy-Chen,432148,2025-07-05,58,Net 30,66,10,Completed,88384
+703,4116,4115,2,9,Deal with Gutierrez-Wells,3446,2024-03-07,34,Net 60,84,2,In Progress,29760
+704,4124,2299,22,4,Deal with Nguyen PLC,410302,2023-05-11,13,Upfront,83,10,Not Started,5357
+705,4128,3725,3,11,Deal with Flores-Murphy,234413,2023-12-20,26,Quarterly,83,8,On Hold,8326
+706,4138,453,43,8,Deal with Fisher-Lee,160532,2024-10-09,29,Quarterly,66,8,Completed,62772
+707,4143,404,43,7,"Deal with Joseph, Martin and Scott",40308,2024-02-21,54,Net 60,93,10,Not Started,85664
+708,4145,4587,22,6,"Deal with Johnson, Oneal and Walker",406581,2023-05-01,58,Annual,78,8,In Progress,3415
+709,4146,4153,31,2,"Deal with Bowen, Melendez and Hall",131518,2023-11-09,23,Net 30,60,9,Not Started,22069
+710,4151,3996,3,11,Deal with Adams-Smith,398149,2024-02-27,33,Annual,73,4,Not Started,58501
+711,4152,385,12,7,Deal with Kennedy and Sons,457787,2025-06-21,38,Net 30,79,1,On Hold,11261
+712,4154,1271,7,7,"Deal with White, Hogan and Garcia",299039,2025-03-01,28,Net 30,74,4,Not Started,6385
+713,4156,4729,9,12,Deal with Lee PLC,146933,2024-11-23,18,Upfront,84,5,On Hold,14129
+714,4160,1361,38,11,Deal with Ward PLC,38879,2024-09-15,37,Net 30,66,8,Completed,7505
+715,4173,4198,32,9,Deal with Brady-Smith,1721,2023-09-06,23,Upfront,69,10,In Progress,57353
+716,4187,1862,32,1,Deal with Harris Inc,441896,2024-03-14,20,Upfront,70,1,Not Started,75087
+717,4197,1983,42,5,Deal with Williams-Burns,144190,2024-04-12,50,Annual,83,3,On Hold,1808
+718,4199,1352,38,5,Deal with Mueller LLC,82825,2024-08-02,40,Annual,67,6,Completed,51537
+719,4200,3054,40,2,Deal with Stevens LLC,100653,2024-03-04,29,Net 60,61,9,Not Started,66701
+720,4206,3840,48,10,Deal with Montgomery-Ward,119520,2025-01-03,20,Upfront,77,10,In Progress,47319
+721,4214,4035,13,12,"Deal with Walker, Williams and Stokes",50549,2024-11-28,30,Upfront,95,5,Not Started,27315
+722,4219,1931,21,10,Deal with Collins-Stewart,440912,2024-08-15,45,Upfront,69,6,Not Started,63473
+723,4220,511,27,12,Deal with Mann Ltd,155861,2023-10-28,52,Net 60,72,10,Completed,45300
+724,4236,2633,20,12,"Deal with Nguyen, Smith and Hall",92134,2024-11-05,57,Net 60,67,9,Not Started,3444
+725,4238,3231,36,10,"Deal with Luna, Williams and Vasquez",413087,2025-11-19,53,Upfront,79,7,Completed,29468
+726,4244,621,38,6,"Deal with Warren, Brandt and Deleon",497585,2023-12-16,29,Net 60,87,9,Not Started,47386
+727,4253,3983,7,3,Deal with Cherry and Sons,3086,2025-06-12,58,Net 30,60,2,Not Started,7442
+728,4264,3138,6,11,"Deal with Young, Good and Bryant",370628,2024-05-29,31,Net 30,95,9,Completed,44019
+729,4265,4946,22,2,Deal with Henderson-Davis,163744,2024-10-31,54,Net 30,93,2,Not Started,52229
+730,4268,4088,11,12,"Deal with Williams, Diaz and Dominguez",456512,2025-03-03,13,Upfront,65,10,Completed,40640
+731,4276,109,37,1,"Deal with Bradley, Wood and Walsh",386855,2025-08-10,55,Net 30,90,4,In Progress,41251
+732,4293,3827,46,9,"Deal with Fernandez, Patterson and Jones",387114,2025-07-12,26,Upfront,92,8,Not Started,44225
+733,4298,1783,11,1,Deal with Smith Ltd,112814,2023-08-08,23,Annual,94,5,In Progress,9983
+734,4303,2505,2,2,Deal with Tyler-Gonzalez,449705,2024-06-02,40,Upfront,90,5,In Progress,9617
+735,4305,3618,13,10,Deal with Sullivan-Alvarez,369413,2024-01-28,27,Annual,60,9,In Progress,63086
+736,4306,471,48,1,Deal with Mathews Ltd,493579,2023-10-18,14,Upfront,93,9,On Hold,23424
+737,4307,829,13,11,Deal with Hicks-Franklin,39066,2024-03-15,21,Quarterly,64,5,Completed,91214
+738,4316,4566,35,7,Deal with Sloan LLC,397632,2023-09-10,15,Net 30,77,1,On Hold,65788
+739,4318,2730,36,2,"Deal with Erickson, Torres and Brown",127904,2023-08-26,17,Net 30,76,10,Not Started,82110
+740,4319,4966,15,3,"Deal with Johnson, Cox and Mason",324998,2024-04-05,49,Annual,90,1,Completed,92048
+741,4320,2026,30,1,Deal with Miller-Smith,113791,2024-03-31,19,Annual,84,8,Completed,64912
+742,4325,1963,22,11,Deal with Gomez Ltd,280011,2024-01-22,41,Net 30,87,9,Completed,928
+743,4329,442,17,11,"Deal with Andrews, Henson and Owens",456875,2025-07-20,16,Upfront,94,1,Completed,40335
+744,4338,4777,3,5,"Deal with Castillo, Fuller and Harris",132783,2024-09-14,51,Quarterly,92,3,Completed,63413
+745,4340,3469,7,10,"Deal with Knight, Bray and Savage",400934,2023-04-07,50,Quarterly,92,4,In Progress,22881
+746,4356,4565,3,10,Deal with Stanley Group,203717,2024-12-01,27,Net 30,79,6,Completed,8377
+747,4357,4481,42,11,Deal with White LLC,148894,2024-05-17,23,Quarterly,92,1,Not Started,29546
+748,4363,56,42,2,"Deal with Lee, Richardson and Nguyen",314530,2024-04-03,17,Net 60,64,10,On Hold,71410
+749,4365,3848,28,3,Deal with Bowen PLC,48868,2024-06-23,58,Quarterly,79,7,Completed,77409
+750,4367,4397,6,8,Deal with Johnson-Rodriguez,191370,2025-03-05,55,Net 30,65,8,Completed,61674
+751,4368,2317,31,5,Deal with Fisher PLC,91027,2024-01-16,45,Net 30,76,7,Not Started,55742
+752,4369,675,49,3,Deal with Juarez-Rogers,105234,2023-07-01,37,Quarterly,64,2,On Hold,21942
+753,4371,3442,41,1,Deal with Harrington PLC,4916,2025-05-01,40,Net 60,61,10,Not Started,90591
+754,4382,3011,9,7,Deal with Williamson-Cline,121912,2024-09-15,58,Net 60,90,6,Completed,21948
+755,4384,4940,11,2,"Deal with Jones, Weiss and Stephens",262905,2024-04-13,49,Annual,64,6,On Hold,51557
+756,4399,2715,7,6,Deal with Martinez-Farrell,71952,2024-03-21,51,Net 30,92,7,In Progress,90087
+757,4407,1893,22,8,Deal with Wells LLC,324646,2025-06-14,38,Net 30,66,4,In Progress,41524
+758,4411,3900,8,5,Deal with Smith-Peterson,313372,2024-02-28,45,Annual,91,4,Completed,13663
+759,4425,3,3,11,Deal with Gill PLC,17369,2023-08-15,43,Net 60,92,5,Completed,83142
+760,4437,3914,11,11,Deal with Lopez-Velez,463848,2023-12-17,18,Upfront,83,8,Not Started,90680
+761,4446,3741,42,10,"Deal with Castro, Mayo and Rodriguez",250029,2024-08-08,15,Upfront,72,7,On Hold,83405
+762,4450,2680,26,5,Deal with King-Foster,38476,2024-07-26,27,Annual,83,7,In Progress,92364
+763,4452,4224,30,7,"Deal with Hawkins, Johnson and Mcneil",69316,2024-08-20,21,Upfront,73,4,In Progress,47751
+764,4454,3880,16,3,Deal with Brown and Sons,455894,2023-12-14,50,Net 60,61,9,On Hold,59092
+765,4471,2354,42,1,Deal with Vega Group,475518,2024-02-26,40,Net 60,78,10,Not Started,95632
+766,4480,3701,16,10,"Deal with Tucker, Rush and Palmer",190522,2025-02-11,14,Quarterly,68,8,Not Started,98113
+767,4485,142,31,2,Deal with Duran-Rowland,106107,2025-02-23,26,Annual,94,3,On Hold,22472
+768,4489,607,48,6,Deal with Chapman-White,235905,2025-01-13,34,Net 30,64,2,Not Started,13125
+769,4496,41,31,10,"Deal with Bennett, Wilson and Matthews",53892,2023-11-15,23,Net 30,80,9,Completed,80291
+770,4504,1850,12,11,Deal with Brown and Sons,304363,2024-10-18,38,Upfront,89,3,Completed,17500
+771,4505,4216,27,2,Deal with Smith Ltd,256772,2023-05-08,39,Annual,69,8,In Progress,5107
+772,4506,1759,19,5,"Deal with Turner, Hall and Garcia",196574,2024-07-10,54,Quarterly,75,2,Not Started,53225
+773,4508,3414,20,6,Deal with Hubbard-Bradley,187184,2025-01-10,31,Net 30,82,5,Completed,71213
+774,4513,4764,14,4,Deal with Knight PLC,13360,2024-02-22,21,Quarterly,78,9,Completed,12077
+775,4519,3348,29,6,"Deal with Price, Moody and Evans",465486,2024-01-14,52,Quarterly,85,8,Not Started,57767
+776,4534,700,26,11,Deal with Perkins Group,347580,2023-09-25,38,Upfront,67,2,Completed,29843
+777,4541,2861,49,9,"Deal with Green, Kelly and Johnson",24682,2024-07-08,21,Quarterly,79,2,On Hold,7623
+778,4543,1,10,6,Deal with Russo Ltd,449146,2024-03-05,48,Upfront,95,8,Not Started,16321
+779,4550,1718,4,4,Deal with Lopez-Garcia,94214,2024-07-11,57,Net 30,84,6,In Progress,91180
+780,4551,2124,50,4,"Deal with Fuller, Ho and Pope",296722,2025-11-08,33,Upfront,83,6,In Progress,67959
+781,4563,2772,4,9,Deal with Gill Inc,259856,2023-09-04,17,Net 60,68,6,On Hold,89260
+782,4565,2965,5,9,Deal with Houston PLC,140518,2024-05-03,50,Upfront,64,9,In Progress,85946
+783,4571,4969,31,5,Deal with James Inc,489652,2025-02-23,21,Net 60,69,10,Completed,85503
+784,4573,4478,31,9,Deal with David-Booth,258559,2024-06-13,60,Net 30,67,10,Not Started,44584
+785,4574,3307,9,11,"Deal with Allen, Velazquez and Callahan",205953,2024-09-27,40,Net 30,89,10,Completed,40411
+786,4590,241,20,5,Deal with Atkins PLC,472797,2024-01-25,44,Quarterly,65,2,Not Started,71848
+787,4591,3769,33,7,"Deal with Myers, Fields and Evans",393458,2024-06-25,23,Net 30,81,3,Not Started,32131
+788,4592,1347,34,12,"Deal with King, Powell and Smith",130078,2024-05-17,28,Upfront,64,8,Completed,3807
+789,4599,3364,31,9,Deal with Mendoza and Sons,430850,2024-01-30,14,Quarterly,64,7,Not Started,92394
+790,4600,2240,32,12,Deal with White-Lewis,425733,2024-07-14,56,Quarterly,75,8,Not Started,67954
+791,4601,1622,48,2,"Deal with Brown, Carter and Anderson",227455,2024-09-05,56,Annual,72,3,On Hold,13829
+792,4612,4363,6,6,Deal with Wood-Perry,354715,2024-04-01,46,Annual,73,3,In Progress,98648
+793,4619,1826,45,3,"Deal with Mills, Jones and Robertson",175060,2024-09-29,30,Quarterly,86,10,Not Started,44659
+794,4635,13,37,1,Deal with Moore-Willis,38257,2024-07-05,60,Net 60,79,3,On Hold,50766
+795,4637,2200,20,5,Deal with Elliott-Wright,46454,2025-02-12,14,Net 60,74,4,Completed,98650
+796,4643,2281,22,12,Deal with Morgan Inc,369569,2025-07-05,28,Net 60,67,2,Completed,73617
+797,4646,2008,27,9,Deal with White PLC,253238,2023-11-13,21,Net 60,65,2,Completed,99076
+798,4647,4172,15,12,Deal with Duran Group,270358,2024-11-19,51,Upfront,93,6,In Progress,83485
+799,4654,1740,33,6,Deal with Cain Ltd,375663,2024-02-09,49,Net 60,72,3,In Progress,65803
+800,4658,4474,13,3,Deal with Long and Sons,271519,2025-01-18,34,Net 60,72,3,Not Started,75641
+801,4662,1188,5,11,Deal with Cox LLC,407805,2024-08-01,17,Net 30,85,1,Completed,71826
+802,4663,3226,42,11,"Deal with Miranda, Chan and Sandoval",382806,2024-07-21,26,Annual,75,3,Not Started,58370
+803,4670,634,15,3,Deal with Lewis PLC,377680,2023-09-23,54,Net 30,67,5,On Hold,74843
+804,4677,508,25,10,Deal with Gardner Group,31592,2023-09-22,53,Annual,91,6,Completed,25841
+805,4679,3363,23,1,"Deal with Phelps, Robertson and Joseph",72161,2024-10-11,59,Net 60,83,3,Not Started,33528
+806,4687,1043,42,9,Deal with Zimmerman-Riggs,23363,2025-06-26,15,Net 30,65,1,Not Started,81164
+807,4688,3410,3,5,Deal with Stanley-Moore,293996,2024-05-17,57,Quarterly,74,10,On Hold,217
+808,4700,4589,24,3,Deal with Torres PLC,494485,2023-08-25,41,Upfront,60,2,Completed,50447
+809,4702,3082,3,5,Deal with Garcia-Rodriguez,153786,2024-10-14,52,Annual,66,6,On Hold,80833
+810,4706,3511,24,12,Deal with Price-Bender,73221,2023-10-08,14,Upfront,70,1,Not Started,87584
+811,4708,3654,35,9,Deal with Taylor LLC,234238,2024-11-07,41,Net 60,76,6,In Progress,66363
+812,4712,1265,37,2,"Deal with Davidson, Moore and Reynolds",125357,2024-08-18,15,Net 60,91,8,Not Started,16924
+813,4722,259,32,4,Deal with Hays and Sons,85230,2025-02-10,12,Net 60,87,5,Completed,82901
+814,4729,2828,43,7,Deal with Perry-Thompson,474967,2025-07-03,49,Net 30,68,6,Completed,35144
+815,4734,3794,26,1,Deal with Hicks Group,48901,2024-07-21,46,Annual,81,6,Completed,11416
+816,4739,4885,6,1,"Deal with Morse, Mcgrath and Estrada",295499,2023-12-14,57,Quarterly,88,1,Not Started,85036
+817,4743,1890,4,3,"Deal with Davis, Oconnor and Montes",96905,2024-07-27,42,Quarterly,61,5,Completed,41620
+818,4750,3948,13,10,Deal with Mason PLC,383819,2024-05-31,31,Upfront,85,9,Completed,97151
+819,4755,857,9,9,Deal with Steele and Sons,207338,2024-06-07,37,Quarterly,95,7,Completed,51988
+820,4759,2767,24,6,"Deal with Gaines, King and Johnson",147493,2024-01-29,17,Annual,83,1,Not Started,56882
+821,4780,2928,8,6,Deal with Kelly LLC,212116,2025-01-13,19,Annual,67,10,Completed,23783
+822,4792,1498,10,12,"Deal with Rodriguez, Miller and Paul",73227,2023-07-25,35,Net 30,65,10,On Hold,70513
+823,4797,4069,42,2,"Deal with Hayes, Buck and Mata",23005,2023-12-03,51,Net 30,81,8,On Hold,44400
+824,4801,504,39,9,Deal with Lewis-Curtis,283659,2024-03-16,32,Quarterly,86,6,In Progress,51284
+825,4802,4507,39,8,"Deal with Hill, Evans and Suarez",67574,2025-01-08,44,Net 30,70,1,Not Started,86600
+826,4805,2911,40,1,Deal with Davis PLC,128159,2023-09-26,12,Upfront,81,10,Not Started,31570
+827,4806,1159,16,12,"Deal with Velazquez, Avila and Ritter",316623,2024-10-05,58,Net 60,76,2,Not Started,88500
+828,4808,1680,6,11,"Deal with Parker, Harrison and Larson",174469,2024-03-29,45,Net 30,80,8,Completed,50228
+829,4815,4697,7,6,Deal with Miller Ltd,48998,2024-04-11,19,Quarterly,79,5,Completed,50913
+830,4826,458,33,11,Deal with Martin-Gomez,217770,2024-10-27,56,Quarterly,60,8,Completed,95156
+831,4833,2458,23,1,Deal with Harris Group,376808,2025-08-17,43,Quarterly,72,3,Not Started,96879
+832,4834,1972,41,8,Deal with Henderson-Garcia,170102,2025-03-20,54,Upfront,67,6,Completed,29594
+833,4841,2729,41,1,Deal with Brown Ltd,476407,2025-08-10,33,Net 60,90,9,In Progress,51307
+834,4846,3492,1,7,Deal with Gonzalez Ltd,489016,2024-08-01,38,Annual,78,5,Not Started,23460
+835,4854,4158,20,8,"Deal with Vaughn, Benitez and Cannon",17068,2024-07-28,50,Quarterly,61,3,Completed,148
+836,4863,2043,36,3,"Deal with Gibson, Buchanan and Cooke",214060,2024-03-30,23,Annual,79,1,Completed,44895
+837,4868,3703,44,6,Deal with Mcintyre Group,130087,2024-04-16,12,Quarterly,72,9,In Progress,936
+838,4875,2200,11,3,Deal with Atkinson-Hanson,158840,2024-09-05,33,Annual,82,2,On Hold,94603
+839,4882,3654,9,12,Deal with Rowland-Martinez,422842,2024-11-06,17,Upfront,80,8,Completed,78278
+840,4886,727,16,10,"Deal with Lopez, Williams and Brennan",483812,2024-09-16,30,Net 30,78,3,In Progress,93125
+841,4901,2056,8,12,Deal with Brown Ltd,488215,2025-05-20,39,Upfront,74,5,In Progress,43279
+842,4915,3984,33,10,Deal with Donaldson-Lawrence,306674,2023-10-05,20,Net 60,89,1,Completed,832
+843,4925,1372,2,9,"Deal with Daniels, Bell and Morgan",2239,2024-11-21,49,Net 30,78,10,In Progress,57862
+844,4927,2891,22,1,Deal with Morris Group,178258,2025-07-22,35,Net 30,71,6,Not Started,76939
+845,4928,1511,32,12,Deal with Garza Ltd,401820,2024-01-10,24,Net 60,81,6,In Progress,111
+846,4949,3810,48,11,Deal with Hernandez-Garcia,110062,2023-03-24,60,Upfront,68,7,In Progress,10861
+847,4962,843,31,5,"Deal with Howard, Ortiz and Anderson",490643,2025-05-09,44,Quarterly,85,9,In Progress,90134
+848,4963,1110,45,12,"Deal with Stevenson, Davis and Zhang",381069,2024-08-27,23,Quarterly,66,2,On Hold,62178
+849,4970,2941,25,10,Deal with Ward-Nguyen,215153,2024-10-28,56,Quarterly,85,10,On Hold,58006
+850,4972,1959,10,11,Deal with Johnson Ltd,205316,2023-09-21,50,Annual,79,6,Completed,93014
+851,4975,2119,50,1,Deal with Boone Ltd,217111,2024-11-29,52,Upfront,63,10,On Hold,43454
+852,4980,3224,21,9,Deal with Guerra-Bailey,176269,2024-12-15,17,Net 30,74,1,Completed,15813
+853,4988,4633,33,5,Deal with Adams-Sherman,388880,2023-11-22,28,Quarterly,92,9,On Hold,69289
+854,4992,2474,26,1,Deal with Ford-Young,406755,2023-03-16,35,Upfront,81,1,On Hold,82228
+855,4999,232,31,6,Deal with Mcgee-Castillo,371951,2025-09-20,34,Net 30,71,6,In Progress,58409

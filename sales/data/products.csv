@@ -1,0 +1,13 @@
+product_id,product_name,category,price,cost
+1,Enterprise CRM Suite,Software,299.99,89.99
+2,Marketing Automation Platform,Software,199.99,59.99
+3,Analytics Dashboard Pro,Software,149.99,44.99
+4,Cloud Storage Enterprise,Software,99.99,29.99
+5,Security Suite Advanced,Software,399.99,119.99
+6,Server Hardware Package,Hardware,4999.99,2999.99
+7,Network Infrastructure,Hardware,2999.99,1799.99
+8,Implementation Services,Services,150.0,75.0
+9,Training & Certification,Training,2500.0,500.0
+10,24/7 Support Package,Support,199.99,99.99
+11,Custom Development,Consulting,200.0,100.0
+12,Data Migration Service,Services,5000.0,2500.0

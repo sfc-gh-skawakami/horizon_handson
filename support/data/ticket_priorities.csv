@@ -1,0 +1,6 @@
+priority_id,priority_name,description,sla_hours,escalation_hours
+1,Low,Non-urgent issues,168,72
+2,Medium,Standard priority issues,48,24
+3,High,Important issues affecting workflow,24,8
+4,Critical,Severe issues affecting business operations,8,2
+5,Emergency,System down or security breach,2,1

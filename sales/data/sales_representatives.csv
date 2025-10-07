@@ -1,0 +1,51 @@
+rep_id,name,email,phone,team_id,territory_id,hire_date,experience_level,specialization,quota,is_active,commission_rate
+1,Troy Nielsen,georgetracy@example.org,(443)903-9117x182,5,3,2022-01-22,Lead,SMB,1630985,False,0.123
+2,Eric Carney,samuel87@example.org,531.250.9839,1,1,2021-12-01,Junior,Channel,648598,True,0.074
+3,Cindy Anderson,esanchez@example.com,311.265.6670,4,6,2024-03-14,Junior,SMB,901793,True,0.104
+4,Clifford Ford,ramosmichelle@example.net,908-501-3267,4,1,2021-08-29,Junior,Inside Sales,1056171,True,0.079
+5,Monica Logan,smoore@example.org,4982050097,5,2,2024-05-27,Junior,Enterprise,1916023,True,0.09
+6,Laura Riley,harveyrobert@example.net,001-485-643-5346,4,6,2024-09-18,Junior,Enterprise,1461094,True,0.15
+7,Angel Lewis MD,nicole35@example.com,(378)449-8084,3,2,2024-07-22,Mid-level,Channel,1090885,True,0.071
+8,Michael Farrell,dking@example.org,+1-264-300-5242x7868,1,3,2023-03-08,Senior,SMB,1401328,True,0.054
+9,Timothy Stanton,nolanjason@example.org,+1-815-586-9232x26025,3,3,2024-02-24,Junior,Inside Sales,581211,True,0.072
+10,Julia Torres,jeffreykeller@example.com,641-245-8685x01429,1,10,2022-09-27,Senior,Inside Sales,1771312,True,0.062
+11,Cheryl Williams,zsmith@example.net,+1-835-661-5951x48465,5,3,2021-10-08,Lead,SMB,1790828,True,0.08
+12,April Mitchell,mfloyd@example.net,577-673-8721x48951,2,4,2021-08-04,Junior,SMB,1496433,True,0.135
+13,Jason Soto,jennifercruz@example.com,220.516.3287,1,8,2021-07-14,Lead,Channel,1428143,True,0.132
+14,Jessica Meadows,vmerritt@example.com,643.748.7347x143,3,9,2021-04-28,Mid-level,SMB,1303283,True,0.065
+15,Jason Rivera,nperry@example.com,(590)996-7054x6688,2,5,2022-09-29,Junior,Inside Sales,1204914,True,0.118
+16,Christopher Mcdonald,tinaferguson@example.com,001-690-816-2720,3,4,2022-10-26,Senior,Inside Sales,1083546,False,0.145
+17,Ruben Ruiz,cookemichael@example.net,400-933-0923,6,2,2023-04-04,Mid-level,Inside Sales,1966884,True,0.127
+18,Lawrence Adkins,stricklandfrank@example.com,590-349-6631,6,5,2024-05-26,Junior,Enterprise,1228139,True,0.093
+19,Jonathan Peterson,gshort@example.com,(672)762-8498x776,2,2,2022-02-12,Lead,SMB,1474564,True,0.111
+20,Allen Rosales,tonykelly@example.com,949-948-0831x36783,4,1,2021-05-16,Mid-level,Inside Sales,1950782,True,0.081
+21,Kara Schmidt,jbarajas@example.com,(574)544-3135x182,6,8,2022-02-08,Senior,Enterprise,907094,True,0.073
+22,Adrian Ferguson,brandon08@example.com,001-227-610-9477x752,4,2,2024-04-15,Lead,Inside Sales,655361,True,0.113
+23,Chase Hart,christopher31@example.net,001-269-399-3867x74964,2,4,2022-01-22,Junior,SMB,1003033,True,0.105
+24,Jason Norris,ocarter@example.com,001-447-613-4936x183,2,2,2021-03-29,Senior,Channel,1420971,True,0.097
+25,James Nelson,mkim@example.org,(959)940-1399x04902,3,3,2024-12-26,Lead,Inside Sales,691349,True,0.085
+26,Michael Hodge,robert74@example.net,(980)871-5451x6808,1,4,2023-01-27,Lead,Inside Sales,608237,True,0.077
+27,Dwayne Gilmore,omartinez@example.net,324.980.8613,1,3,2022-12-29,Senior,Channel,1371346,True,0.148
+28,Juan Reyes,michellehill@example.com,784-804-4997x27875,4,6,2024-06-23,Mid-level,Inside Sales,989815,False,0.091
+29,John Mcintyre,qhughes@example.net,(370)928-9517,1,3,2022-08-22,Mid-level,Enterprise,1484593,True,0.084
+30,Marie Christian,ofinley@example.net,001-478-609-1343x16117,1,1,2022-04-19,Junior,Channel,1251752,True,0.093
+31,Jason Maldonado,georgemiller@example.com,+1-637-492-3747x407,1,8,2024-10-12,Senior,Inside Sales,1947692,True,0.096
+32,Zachary Castaneda,youngashley@example.net,740-564-0909x7439,6,4,2023-06-26,Mid-level,Enterprise,1815875,True,0.054
+33,Amanda Diaz,christopherphillips@example.net,(323)928-5884x24745,1,3,2024-01-07,Mid-level,Inside Sales,1668769,True,0.059
+34,Dennis Martinez,emily49@example.com,+1-651-837-0985x9317,1,3,2021-03-08,Junior,Channel,1533108,True,0.06
+35,Brandy Chavez,umatthews@example.org,(717)796-4053x77351,1,7,2022-02-07,Junior,Inside Sales,692253,True,0.071
+36,Tricia Williams,john29@example.org,283-693-3529,2,3,2023-02-28,Mid-level,Enterprise,1886338,True,0.063
+37,Richard Chapman,thompsonbrian@example.net,(281)617-7589x17839,4,1,2021-03-30,Lead,Inside Sales,1393960,True,0.061
+38,Jill Lam,charlene12@example.com,+1-398-356-9847x896,6,9,2023-11-19,Mid-level,Inside Sales,1446979,True,0.091
+39,Jennifer Blair,ronald45@example.org,+1-771-311-1615x28098,4,6,2024-06-29,Lead,Enterprise,1103202,True,0.081
+40,Jordan Moore,gwalker@example.com,+1-251-649-3689,1,3,2022-02-03,Senior,Channel,1236149,True,0.068
+41,Matthew Jones,davisalyssa@example.com,(275)325-4599x10229,3,8,2023-08-25,Lead,Inside Sales,1368606,True,0.072
+42,Haley Rodriguez,trose@example.org,669.600.3432,3,2,2021-01-12,Lead,SMB,770922,True,0.103
+43,Justin Barnett,charles06@example.org,715.496.9664x160,5,8,2024-04-29,Senior,Enterprise,1415850,True,0.074
+44,Kelly Foster,julie35@example.org,581-388-3552,2,5,2021-10-16,Mid-level,Enterprise,871502,False,0.113
+45,Justin Riley,michelle52@example.com,377-644-9058,4,8,2021-02-24,Senior,Channel,660916,True,0.136
+46,Lisa Hunter,ycarpenter@example.net,2799359782,1,6,2024-12-05,Junior,SMB,582086,True,0.121
+47,Kelly Bishop MD,paul59@example.org,+1-451-751-8644x9251,3,7,2021-07-08,Junior,Channel,1672144,True,0.114
+48,Carl Warner,lucasrodney@example.com,4544235733,1,5,2024-05-17,Junior,Enterprise,1888166,True,0.138
+49,Linda Moore,mariewise@example.org,001-670-965-3794x7383,2,6,2023-09-18,Lead,Inside Sales,1090918,False,0.088
+50,Tracy Montoya,moniquewilliams@example.com,(881)381-4124x782,2,8,2024-07-15,Junior,Inside Sales,611687,True,0.1

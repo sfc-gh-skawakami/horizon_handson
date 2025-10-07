@@ -1,0 +1,2639 @@
+violation_id,ticket_id,violation_type,sla_hours,actual_hours,violation_date,severity,impact,action_taken
+1,6,Response Time,8,24.0,2024-10-21,Minor,Low,Escalated
+2,10,Response Time,8,24.0,2024-11-02,Minor,High,None
+3,13,Response Time,8,24.0,2023-05-15,Major,High,Manager Notified
+4,18,Response Time,2,24.0,2023-08-29,Major,High,Process Review
+5,21,Response Time,2,24.0,2024-11-03,Critical,Medium,Escalated
+6,32,Response Time,2,24.0,2023-11-07,Critical,Low,None
+7,41,Response Time,2,48.0,2023-04-08,Critical,Low,None
+8,43,Response Time,2,24.0,2023-04-11,Major,High,Manager Notified
+9,48,Response Time,8,24.0,2023-07-16,Critical,High,Manager Notified
+10,50,Response Time,2,24.0,2023-12-31,Critical,Medium,None
+11,51,Response Time,2,24.0,2023-09-30,Major,High,None
+12,55,Response Time,2,24.0,2023-03-01,Critical,Medium,Process Review
+13,73,Response Time,8,24.0,2023-07-31,Minor,Low,Escalated
+14,75,Response Time,2,24.0,2024-05-01,Minor,High,Process Review
+15,79,Response Time,2,24.0,2024-04-01,Major,Medium,Escalated
+16,81,Response Time,8,24.0,2023-12-16,Critical,High,Process Review
+17,82,Response Time,2,24.0,2024-04-05,Minor,Medium,None
+18,93,Response Time,8,24.0,2023-09-27,Critical,Medium,Manager Notified
+19,102,Response Time,8,24.0,2023-08-08,Major,High,Process Review
+20,114,Response Time,8,24.0,2023-04-08,Critical,High,None
+21,123,Response Time,8,24.0,2024-09-21,Minor,High,Process Review
+22,125,Response Time,2,24.0,2023-07-12,Minor,High,None
+23,135,Response Time,2,24.0,2023-10-30,Minor,Low,Escalated
+24,138,Response Time,2,24.0,2023-09-26,Major,Medium,Manager Notified
+25,145,Response Time,8,24.0,2023-06-18,Minor,Low,None
+26,148,Response Time,2,24.0,2023-09-18,Critical,Medium,Manager Notified
+27,174,Response Time,8,24.0,2023-01-22,Major,Low,Manager Notified
+28,177,Response Time,2,24.0,2024-04-14,Major,Medium,Manager Notified
+29,181,Response Time,2,24.0,2023-08-13,Major,Medium,Manager Notified
+30,185,Response Time,2,24.0,2024-07-22,Major,High,None
+31,191,Response Time,8,24.0,2024-12-11,Minor,High,None
+32,194,Response Time,2,24.0,2024-04-28,Minor,Low,Manager Notified
+33,197,Response Time,2,48.0,2024-12-04,Minor,High,Escalated
+34,214,Response Time,8,24.0,2023-02-02,Major,Low,None
+35,219,Response Time,8,24.0,2024-10-08,Critical,Medium,None
+36,221,Response Time,8,24.0,2023-12-25,Critical,High,Process Review
+37,222,Response Time,8,24.0,2023-05-23,Critical,High,Escalated
+38,226,Response Time,8,24.0,2023-09-14,Critical,Low,Manager Notified
+39,243,Response Time,8,24.0,2023-05-21,Critical,Medium,None
+40,245,Response Time,8,24.0,2024-11-22,Major,High,None
+41,246,Response Time,8,24.0,2023-10-22,Minor,Medium,Process Review
+42,250,Response Time,8,24.0,2024-07-16,Minor,High,Manager Notified
+43,254,Response Time,8,24.0,2024-06-12,Critical,Low,None
+44,257,Response Time,8,24.0,2024-03-26,Critical,High,Escalated
+45,260,Response Time,2,24.0,2023-10-12,Major,High,Escalated
+46,263,Response Time,2,24.0,2024-01-21,Minor,Medium,None
+47,268,Response Time,2,24.0,2023-06-02,Minor,Low,None
+48,273,Response Time,2,24.0,2024-10-18,Minor,Medium,Escalated
+49,278,Response Time,2,24.0,2024-08-29,Minor,Medium,Process Review
+50,279,Response Time,8,24.0,2023-09-16,Minor,Low,Process Review
+51,283,Response Time,8,24.0,2024-11-17,Minor,Low,Escalated
+52,284,Response Time,2,24.0,2023-06-19,Critical,Medium,Process Review
+53,286,Response Time,8,24.0,2023-09-04,Major,Low,Escalated
+54,289,Response Time,2,24.0,2024-02-09,Minor,Medium,Process Review
+55,300,Response Time,8,24.0,2023-08-12,Critical,High,Manager Notified
+56,322,Response Time,2,24.0,2023-01-20,Critical,Low,Process Review
+57,323,Response Time,2,24.0,2024-05-01,Major,Medium,Manager Notified
+58,327,Response Time,2,24.0,2023-05-18,Critical,High,Escalated
+59,329,Response Time,8,24.0,2023-06-09,Critical,Medium,Manager Notified
+60,342,Response Time,8,24.0,2023-05-26,Major,Low,None
+61,347,Response Time,8,24.0,2023-11-03,Major,Low,Escalated
+62,349,Response Time,8,24.0,2024-05-13,Minor,High,Escalated
+63,351,Response Time,24,48.0,2023-06-30,Major,High,None
+64,358,Response Time,8,24.0,2024-08-09,Critical,Medium,Escalated
+65,364,Response Time,2,24.0,2024-02-08,Major,Low,None
+66,372,Response Time,2,24.0,2023-08-02,Minor,Low,None
+67,375,Response Time,8,24.0,2023-02-07,Minor,High,Manager Notified
+68,390,Response Time,2,24.0,2024-04-10,Major,Medium,Manager Notified
+69,391,Response Time,8,24.0,2023-12-27,Major,High,Process Review
+70,393,Response Time,8,24.0,2023-05-18,Major,Medium,Process Review
+71,404,Response Time,8,24.0,2023-04-04,Major,High,Manager Notified
+72,419,Response Time,8,24.0,2024-09-13,Minor,Medium,Process Review
+73,421,Response Time,2,24.0,2024-12-15,Minor,High,Manager Notified
+74,422,Response Time,8,24.0,2023-11-15,Critical,Medium,Manager Notified
+75,423,Response Time,2,24.0,2024-01-03,Major,Low,Process Review
+76,431,Response Time,8,48.0,2024-12-23,Minor,Medium,None
+77,432,Response Time,8,24.0,2023-08-04,Critical,High,None
+78,447,Response Time,2,24.0,2023-04-08,Major,High,Escalated
+79,448,Response Time,2,24.0,2023-08-18,Major,High,Escalated
+80,451,Response Time,2,24.0,2023-02-22,Major,High,Manager Notified
+81,453,Response Time,8,24.0,2023-08-11,Critical,Medium,Process Review
+82,459,Response Time,8,24.0,2023-02-11,Major,Medium,Manager Notified
+83,462,Response Time,8,24.0,2023-04-19,Critical,Low,Manager Notified
+84,464,Response Time,2,24.0,2024-08-21,Minor,Medium,None
+85,469,Response Time,8,24.0,2023-11-08,Major,Low,Manager Notified
+86,472,Response Time,24,48.0,2023-09-04,Major,High,Escalated
+87,474,Response Time,8,24.0,2024-05-08,Minor,Medium,Process Review
+88,486,Response Time,2,24.0,2024-09-03,Minor,Medium,Escalated
+89,488,Response Time,8,24.0,2023-04-11,Major,Medium,None
+90,503,Response Time,2,24.0,2024-03-29,Minor,Low,Escalated
+91,512,Response Time,2,24.0,2024-09-10,Major,High,Process Review
+92,513,Response Time,2,24.0,2024-10-12,Minor,High,Escalated
+93,514,Response Time,8,24.0,2023-05-24,Critical,High,Escalated
+94,517,Response Time,2,24.0,2023-07-13,Major,Low,Escalated
+95,523,Response Time,8,48.0,2023-09-03,Critical,Medium,Process Review
+96,528,Response Time,8,24.0,2023-07-26,Major,Medium,Process Review
+97,532,Response Time,2,24.0,2024-01-04,Critical,Medium,Manager Notified
+98,534,Response Time,24,48.0,2023-10-21,Major,High,Process Review
+99,542,Response Time,2,24.0,2023-09-09,Major,Medium,Escalated
+100,550,Response Time,8,24.0,2024-09-02,Critical,High,None
+101,557,Response Time,8,24.0,2024-02-27,Minor,Low,None
+102,558,Response Time,2,24.0,2023-10-03,Minor,High,Manager Notified
+103,559,Response Time,2,24.0,2023-07-28,Critical,Low,None
+104,592,Response Time,2,24.0,2023-01-16,Critical,Medium,Manager Notified
+105,593,Response Time,2,24.0,2023-05-21,Minor,High,Process Review
+106,608,Response Time,2,24.0,2024-06-02,Major,High,Escalated
+107,626,Response Time,2,24.0,2023-08-03,Minor,High,Process Review
+108,627,Response Time,2,24.0,2023-06-15,Major,High,None
+109,630,Response Time,2,24.0,2023-08-01,Major,Low,Manager Notified
+110,631,Response Time,8,24.0,2024-03-26,Major,High,Process Review
+111,632,Response Time,2,24.0,2024-11-05,Minor,Low,Escalated
+112,639,Response Time,8,24.0,2023-12-24,Major,High,None
+113,643,Response Time,2,24.0,2024-04-27,Critical,High,Process Review
+114,644,Response Time,8,24.0,2024-06-09,Major,Medium,Manager Notified
+115,674,Response Time,8,24.0,2024-08-30,Minor,Low,Manager Notified
+116,692,Response Time,8,24.0,2024-05-17,Minor,High,Manager Notified
+117,696,Response Time,8,24.0,2023-06-23,Major,Medium,None
+118,700,Response Time,2,24.0,2023-09-14,Minor,High,Escalated
+119,701,Response Time,2,24.0,2023-08-02,Minor,Medium,Escalated
+120,708,Response Time,2,24.0,2023-01-30,Major,High,Manager Notified
+121,715,Response Time,24,48.0,2023-04-20,Minor,Low,Manager Notified
+122,725,Response Time,8,24.0,2023-05-21,Major,High,Process Review
+123,730,Response Time,2,24.0,2023-06-03,Minor,High,Process Review
+124,736,Response Time,2,24.0,2023-12-19,Minor,Low,Manager Notified
+125,743,Response Time,2,24.0,2023-07-11,Major,Medium,Process Review
+126,746,Response Time,2,24.0,2023-10-26,Critical,High,Process Review
+127,754,Response Time,8,24.0,2023-11-20,Minor,Low,None
+128,756,Response Time,8,24.0,2023-05-22,Critical,Low,Escalated
+129,761,Response Time,2,24.0,2024-09-30,Critical,Medium,Manager Notified
+130,763,Response Time,8,24.0,2024-02-12,Major,Low,Process Review
+131,765,Response Time,2,24.0,2024-06-22,Minor,Medium,None
+132,769,Response Time,2,24.0,2024-04-20,Minor,Medium,Escalated
+133,770,Response Time,2,24.0,2024-06-17,Major,High,None
+134,788,Response Time,2,24.0,2023-10-14,Minor,Medium,None
+135,796,Response Time,2,48.0,2024-02-03,Critical,High,None
+136,807,Response Time,8,24.0,2024-12-21,Critical,High,Escalated
+137,809,Response Time,2,24.0,2023-04-18,Major,High,Process Review
+138,813,Response Time,2,24.0,2024-01-19,Major,Medium,Process Review
+139,819,Response Time,8,24.0,2023-10-30,Major,High,Escalated
+140,821,Response Time,2,24.0,2023-03-24,Critical,Low,Process Review
+141,822,Response Time,2,24.0,2024-01-25,Critical,High,Manager Notified
+142,824,Response Time,2,24.0,2024-07-03,Major,Low,None
+143,825,Response Time,2,24.0,2023-06-24,Critical,Medium,None
+144,837,Response Time,8,24.0,2023-05-16,Minor,Medium,Manager Notified
+145,847,Response Time,2,24.0,2023-05-13,Minor,Low,None
+146,851,Response Time,8,24.0,2023-05-07,Major,Medium,None
+147,866,Response Time,2,48.0,2024-09-30,Minor,High,Manager Notified
+148,881,Response Time,8,24.0,2024-08-30,Minor,Medium,Escalated
+149,893,Response Time,2,24.0,2023-10-09,Major,Low,None
+150,901,Response Time,8,24.0,2023-10-20,Minor,High,Process Review
+151,916,Response Time,8,24.0,2024-12-24,Critical,Medium,Manager Notified
+152,927,Response Time,2,24.0,2023-11-16,Minor,Medium,Manager Notified
+153,930,Response Time,8,24.0,2023-07-10,Major,High,Escalated
+154,933,Response Time,2,24.0,2023-01-15,Minor,High,Escalated
+155,935,Response Time,8,24.0,2024-05-12,Minor,High,Process Review
+156,940,Response Time,2,24.0,2024-05-02,Minor,High,Escalated
+157,943,Response Time,8,24.0,2024-06-26,Minor,Low,Manager Notified
+158,951,Response Time,2,24.0,2023-09-07,Minor,Medium,Escalated
+159,959,Response Time,8,24.0,2024-11-14,Minor,Low,Manager Notified
+160,961,Response Time,8,24.0,2023-10-31,Minor,High,Escalated
+161,967,Response Time,2,24.0,2023-10-29,Critical,Low,None
+162,969,Response Time,8,24.0,2024-01-19,Minor,Low,None
+163,972,Response Time,2,24.0,2024-02-04,Major,Low,None
+164,973,Response Time,8,24.0,2024-07-16,Minor,Medium,Process Review
+165,977,Response Time,2,24.0,2024-04-20,Major,High,Manager Notified
+166,983,Response Time,8,24.0,2024-04-28,Critical,High,Escalated
+167,984,Response Time,8,24.0,2024-10-13,Minor,High,Manager Notified
+168,998,Response Time,8,24.0,2024-01-28,Critical,High,Process Review
+169,1002,Response Time,2,24.0,2024-07-31,Major,Low,None
+170,1003,Response Time,8,24.0,2023-02-12,Major,High,Manager Notified
+171,1006,Response Time,2,24.0,2023-05-04,Minor,High,Process Review
+172,1007,Response Time,2,24.0,2024-09-26,Major,Medium,None
+173,1009,Response Time,8,24.0,2023-12-18,Critical,High,Escalated
+174,1012,Response Time,8,24.0,2024-08-10,Critical,Low,Manager Notified
+175,1020,Response Time,2,24.0,2024-09-21,Minor,Medium,Manager Notified
+176,1021,Response Time,8,24.0,2024-05-11,Major,Medium,Manager Notified
+177,1023,Response Time,2,24.0,2024-10-13,Minor,Low,None
+178,1034,Response Time,2,24.0,2024-01-27,Major,Low,None
+179,1038,Response Time,2,24.0,2024-09-21,Major,Medium,Manager Notified
+180,1046,Response Time,8,24.0,2024-08-12,Critical,Low,Process Review
+181,1050,Response Time,2,24.0,2024-02-15,Major,High,Process Review
+182,1058,Response Time,8,24.0,2023-08-01,Minor,Medium,Process Review
+183,1063,Response Time,8,24.0,2024-12-29,Minor,High,Process Review
+184,1065,Response Time,8,24.0,2023-06-05,Minor,Low,Escalated
+185,1066,Response Time,8,24.0,2024-03-31,Critical,Low,Manager Notified
+186,1071,Response Time,2,24.0,2023-07-15,Minor,High,None
+187,1073,Response Time,8,24.0,2023-07-30,Critical,Medium,Process Review
+188,1086,Response Time,8,24.0,2024-01-07,Minor,Medium,Escalated
+189,1095,Response Time,8,24.0,2023-06-13,Critical,High,Escalated
+190,1102,Response Time,8,24.0,2023-12-01,Minor,Medium,Manager Notified
+191,1106,Response Time,2,24.0,2024-01-18,Minor,Low,Process Review
+192,1107,Response Time,2,24.0,2023-10-07,Major,Medium,None
+193,1117,Response Time,2,24.0,2023-09-26,Minor,Medium,Manager Notified
+194,1123,Response Time,8,24.0,2024-12-14,Minor,High,Escalated
+195,1127,Response Time,8,24.0,2023-08-29,Critical,High,Manager Notified
+196,1128,Response Time,8,24.0,2023-03-24,Critical,Low,Process Review
+197,1129,Response Time,2,24.0,2023-11-27,Critical,High,None
+198,1132,Response Time,8,24.0,2024-12-05,Major,Low,Escalated
+199,1139,Response Time,2,24.0,2023-07-10,Critical,High,Manager Notified
+200,1140,Response Time,2,24.0,2023-07-24,Major,Medium,Escalated
+201,1146,Response Time,2,24.0,2023-02-26,Minor,High,Escalated
+202,1155,Response Time,8,24.0,2024-06-30,Minor,Low,None
+203,1157,Response Time,8,24.0,2023-10-18,Critical,Low,Process Review
+204,1159,Response Time,2,24.0,2023-12-01,Major,Medium,Escalated
+205,1162,Response Time,8,48.0,2023-03-14,Critical,High,Process Review
+206,1163,Response Time,8,24.0,2024-06-28,Minor,High,None
+207,1171,Response Time,8,24.0,2024-04-17,Major,Medium,None
+208,1173,Response Time,8,48.0,2023-11-14,Minor,Low,Process Review
+209,1181,Response Time,2,24.0,2023-12-24,Critical,High,Manager Notified
+210,1186,Response Time,2,24.0,2023-05-30,Major,High,Escalated
+211,1191,Response Time,2,24.0,2024-01-20,Critical,Medium,None
+212,1206,Response Time,8,24.0,2023-04-23,Critical,High,None
+213,1209,Response Time,8,24.0,2024-04-20,Major,Medium,None
+214,1212,Response Time,2,24.0,2024-01-20,Critical,Medium,None
+215,1217,Response Time,2,24.0,2023-02-15,Major,Medium,Process Review
+216,1229,Response Time,2,24.0,2024-05-31,Critical,Low,Escalated
+217,1231,Response Time,2,24.0,2023-02-18,Minor,High,Manager Notified
+218,1232,Response Time,8,24.0,2023-12-21,Critical,Low,Process Review
+219,1234,Response Time,8,24.0,2023-01-14,Minor,High,Process Review
+220,1236,Response Time,2,24.0,2023-11-02,Critical,Low,Process Review
+221,1238,Response Time,8,24.0,2023-03-20,Major,Medium,Process Review
+222,1243,Response Time,8,24.0,2024-06-15,Minor,Low,Escalated
+223,1246,Response Time,8,24.0,2024-05-30,Major,Low,Escalated
+224,1248,Response Time,8,24.0,2023-02-16,Major,Medium,Escalated
+225,1249,Response Time,2,24.0,2024-06-21,Minor,Medium,Process Review
+226,1250,Response Time,8,24.0,2023-10-22,Critical,High,Process Review
+227,1257,Response Time,8,24.0,2023-06-07,Major,Medium,None
+228,1258,Response Time,8,24.0,2024-03-12,Minor,Medium,Process Review
+229,1259,Response Time,8,24.0,2024-08-23,Critical,Low,Process Review
+230,1266,Response Time,8,24.0,2023-09-06,Minor,Low,Manager Notified
+231,1280,Response Time,2,24.0,2023-01-06,Minor,Medium,Escalated
+232,1281,Response Time,8,24.0,2024-05-02,Major,Low,Escalated
+233,1283,Response Time,2,24.0,2023-05-21,Minor,Medium,Manager Notified
+234,1288,Response Time,8,24.0,2024-10-07,Critical,Medium,Escalated
+235,1291,Response Time,8,24.0,2024-10-05,Major,Low,None
+236,1292,Response Time,8,24.0,2023-05-30,Major,Low,Manager Notified
+237,1299,Response Time,2,24.0,2024-12-15,Major,Low,None
+238,1303,Response Time,8,24.0,2024-02-20,Major,Medium,None
+239,1304,Response Time,8,24.0,2024-06-10,Critical,High,Process Review
+240,1316,Response Time,2,24.0,2023-07-25,Critical,Medium,Manager Notified
+241,1317,Response Time,24,48.0,2023-01-31,Major,High,Manager Notified
+242,1321,Response Time,2,24.0,2024-09-10,Critical,High,Escalated
+243,1325,Response Time,8,24.0,2023-08-07,Major,Medium,Escalated
+244,1340,Response Time,8,24.0,2024-09-18,Critical,Medium,Escalated
+245,1348,Response Time,2,24.0,2024-09-06,Minor,Medium,Escalated
+246,1349,Response Time,8,24.0,2024-05-12,Critical,High,Process Review
+247,1352,Response Time,2,24.0,2024-06-12,Minor,High,Escalated
+248,1359,Response Time,8,24.0,2023-09-05,Major,High,Manager Notified
+249,1369,Response Time,2,24.0,2024-02-02,Major,High,Process Review
+250,1378,Response Time,8,24.0,2024-11-25,Major,High,None
+251,1382,Response Time,8,24.0,2023-01-18,Major,Low,None
+252,1386,Response Time,8,24.0,2024-04-09,Minor,Low,Escalated
+253,1398,Response Time,2,24.0,2023-03-10,Critical,High,Process Review
+254,1404,Response Time,8,24.0,2024-07-15,Minor,Medium,Escalated
+255,1408,Response Time,8,24.0,2023-01-07,Major,High,Escalated
+256,1415,Response Time,2,24.0,2024-02-17,Minor,Low,None
+257,1418,Response Time,8,24.0,2023-07-23,Minor,Low,Manager Notified
+258,1425,Response Time,8,24.0,2024-10-25,Major,High,Escalated
+259,1436,Response Time,2,24.0,2023-09-12,Critical,Medium,Process Review
+260,1439,Response Time,8,24.0,2023-03-12,Critical,Low,Manager Notified
+261,1443,Response Time,8,24.0,2023-07-06,Minor,High,None
+262,1457,Response Time,8,24.0,2023-10-03,Minor,Medium,Process Review
+263,1459,Response Time,2,24.0,2023-08-31,Critical,Low,None
+264,1460,Response Time,2,24.0,2024-02-20,Minor,Medium,Escalated
+265,1468,Response Time,2,24.0,2024-03-19,Major,Low,Process Review
+266,1472,Response Time,8,24.0,2023-06-29,Major,Low,Process Review
+267,1475,Response Time,2,24.0,2024-03-30,Critical,Medium,None
+268,1477,Response Time,8,24.0,2024-07-05,Major,Low,Process Review
+269,1481,Response Time,2,24.0,2023-03-05,Minor,Medium,Escalated
+270,1491,Response Time,8,24.0,2023-07-13,Minor,High,Manager Notified
+271,1492,Response Time,2,24.0,2024-06-28,Critical,Low,Escalated
+272,1502,Response Time,2,24.0,2024-08-23,Critical,Medium,Escalated
+273,1513,Response Time,8,24.0,2024-05-16,Critical,High,Manager Notified
+274,1517,Response Time,8,24.0,2023-03-12,Critical,Low,Process Review
+275,1519,Response Time,2,24.0,2024-06-09,Minor,Medium,Process Review
+276,1520,Response Time,8,24.0,2023-09-10,Critical,High,None
+277,1521,Response Time,8,24.0,2023-05-30,Major,Low,Manager Notified
+278,1522,Response Time,8,24.0,2023-10-16,Major,Low,Process Review
+279,1535,Response Time,2,24.0,2024-04-14,Minor,High,Escalated
+280,1539,Response Time,8,24.0,2024-03-28,Minor,Medium,Manager Notified
+281,1555,Response Time,2,24.0,2023-03-08,Minor,Medium,Escalated
+282,1563,Response Time,8,24.0,2023-02-10,Minor,Low,None
+283,1564,Response Time,2,24.0,2023-10-01,Critical,Low,Escalated
+284,1567,Response Time,8,24.0,2023-03-08,Major,Low,Escalated
+285,1568,Response Time,2,24.0,2024-05-22,Major,Medium,Escalated
+286,1572,Response Time,8,24.0,2024-03-13,Critical,Medium,Manager Notified
+287,1573,Response Time,8,48.0,2024-02-01,Major,High,Process Review
+288,1577,Response Time,2,24.0,2023-03-12,Critical,High,Escalated
+289,1579,Response Time,2,24.0,2023-05-24,Minor,High,Escalated
+290,1580,Response Time,2,24.0,2024-11-11,Major,High,Process Review
+291,1584,Response Time,8,24.0,2024-12-21,Critical,Medium,Escalated
+292,1588,Response Time,24,48.0,2024-10-24,Minor,Medium,None
+293,1594,Response Time,2,24.0,2023-04-08,Major,High,Escalated
+294,1606,Response Time,8,24.0,2023-11-01,Critical,Medium,Process Review
+295,1612,Response Time,8,24.0,2023-07-06,Minor,Low,None
+296,1620,Response Time,2,24.0,2023-04-08,Major,Medium,Manager Notified
+297,1622,Response Time,8,24.0,2023-04-18,Critical,High,Escalated
+298,1643,Response Time,8,24.0,2024-09-04,Major,High,None
+299,1658,Response Time,8,24.0,2024-10-10,Major,Low,Manager Notified
+300,1662,Response Time,8,48.0,2023-12-27,Major,Medium,Process Review
+301,1668,Response Time,8,24.0,2024-10-12,Minor,Low,Manager Notified
+302,1683,Response Time,2,24.0,2023-12-18,Major,Medium,Process Review
+303,1685,Response Time,8,24.0,2024-08-13,Critical,Medium,Escalated
+304,1689,Response Time,8,24.0,2023-09-03,Major,Medium,None
+305,1692,Response Time,2,24.0,2024-10-31,Minor,Low,Process Review
+306,1697,Response Time,2,24.0,2023-08-14,Major,Low,Escalated
+307,1700,Response Time,2,24.0,2023-08-17,Critical,High,Escalated
+308,1705,Response Time,2,24.0,2024-02-12,Major,High,Escalated
+309,1707,Response Time,2,24.0,2023-08-09,Major,Medium,None
+310,1709,Response Time,2,24.0,2024-05-29,Critical,High,Manager Notified
+311,1710,Response Time,2,24.0,2024-03-24,Minor,High,None
+312,1711,Response Time,8,24.0,2024-12-18,Minor,Low,None
+313,1714,Response Time,8,24.0,2023-05-14,Major,Low,None
+314,1717,Response Time,8,24.0,2023-10-31,Minor,Medium,Manager Notified
+315,1718,Response Time,8,24.0,2023-08-22,Minor,Low,Escalated
+316,1719,Response Time,2,24.0,2024-07-01,Minor,High,Process Review
+317,1724,Response Time,2,24.0,2024-06-04,Critical,Low,Escalated
+318,1744,Response Time,8,24.0,2023-07-02,Critical,Low,Escalated
+319,1746,Response Time,2,24.0,2024-07-02,Minor,Low,Escalated
+320,1751,Response Time,8,24.0,2023-02-27,Major,Medium,None
+321,1756,Response Time,8,24.0,2024-11-06,Minor,Low,Escalated
+322,1759,Response Time,2,24.0,2024-01-15,Minor,High,Escalated
+323,1760,Response Time,8,24.0,2023-10-25,Minor,Low,Manager Notified
+324,1761,Response Time,8,48.0,2023-07-21,Major,High,Escalated
+325,1762,Response Time,8,24.0,2023-08-18,Minor,Medium,Manager Notified
+326,1765,Response Time,2,24.0,2023-02-18,Major,Low,Manager Notified
+327,1768,Response Time,8,24.0,2024-02-25,Minor,High,Process Review
+328,1783,Response Time,2,24.0,2024-11-07,Major,Low,None
+329,1788,Response Time,2,24.0,2023-09-14,Minor,Medium,Escalated
+330,1789,Response Time,2,24.0,2023-10-12,Minor,High,None
+331,1791,Response Time,8,24.0,2023-05-13,Critical,Low,Process Review
+332,1799,Response Time,24,48.0,2023-09-01,Critical,Medium,Escalated
+333,1804,Response Time,2,24.0,2024-11-22,Critical,High,Escalated
+334,1812,Response Time,8,24.0,2023-08-31,Critical,Medium,None
+335,1815,Response Time,8,24.0,2024-07-17,Minor,Medium,None
+336,1819,Response Time,8,24.0,2024-11-08,Major,Medium,Escalated
+337,1827,Response Time,2,24.0,2023-08-25,Critical,High,None
+338,1837,Response Time,8,24.0,2024-04-22,Major,Medium,None
+339,1848,Response Time,8,24.0,2024-04-21,Major,Medium,Manager Notified
+340,1850,Response Time,2,24.0,2023-11-23,Minor,Low,None
+341,1855,Response Time,2,24.0,2023-03-27,Critical,High,Escalated
+342,1859,Response Time,2,24.0,2024-08-11,Critical,Medium,Manager Notified
+343,1863,Response Time,8,24.0,2023-09-28,Major,Medium,Escalated
+344,1869,Response Time,2,24.0,2024-12-29,Minor,High,Process Review
+345,1870,Response Time,2,24.0,2024-08-05,Minor,Medium,Process Review
+346,1890,Response Time,8,24.0,2023-05-12,Major,High,Manager Notified
+347,1907,Response Time,8,24.0,2024-03-19,Major,Medium,Manager Notified
+348,1909,Response Time,8,24.0,2024-04-25,Critical,High,None
+349,1910,Response Time,2,24.0,2024-09-19,Major,Medium,Manager Notified
+350,1924,Response Time,2,24.0,2024-04-16,Critical,Low,None
+351,1930,Response Time,8,24.0,2023-12-01,Critical,High,None
+352,1936,Response Time,8,24.0,2023-02-05,Major,High,Process Review
+353,1949,Response Time,8,48.0,2024-07-12,Major,High,Manager Notified
+354,1950,Response Time,2,24.0,2023-02-07,Minor,Medium,Manager Notified
+355,1952,Response Time,2,24.0,2023-04-27,Major,Medium,Process Review
+356,1956,Response Time,8,24.0,2024-09-30,Major,Medium,Escalated
+357,1968,Response Time,2,24.0,2024-12-04,Major,Low,None
+358,1974,Response Time,2,24.0,2023-06-04,Minor,Low,Manager Notified
+359,1981,Response Time,8,24.0,2024-12-09,Minor,Low,Manager Notified
+360,1987,Response Time,2,24.0,2023-05-18,Major,Medium,Escalated
+361,1996,Response Time,2,24.0,2024-11-24,Major,Low,Manager Notified
+362,1997,Response Time,2,24.0,2024-07-07,Major,High,Manager Notified
+363,2001,Response Time,8,24.0,2023-07-20,Critical,Medium,Escalated
+364,2004,Response Time,2,24.0,2023-05-21,Critical,Medium,Manager Notified
+365,2005,Response Time,2,24.0,2023-08-15,Critical,Low,Process Review
+366,2006,Response Time,2,24.0,2023-03-12,Minor,Low,None
+367,2007,Response Time,2,24.0,2023-02-09,Minor,High,Process Review
+368,2011,Response Time,2,24.0,2024-08-31,Major,Medium,Process Review
+369,2017,Response Time,24,48.0,2023-06-12,Critical,Medium,None
+370,2019,Response Time,2,24.0,2024-03-07,Minor,Medium,Manager Notified
+371,2023,Response Time,8,24.0,2024-05-16,Critical,Medium,Escalated
+372,2030,Response Time,8,24.0,2024-08-25,Minor,Low,None
+373,2046,Response Time,2,24.0,2024-04-05,Critical,Low,Escalated
+374,2049,Response Time,2,24.0,2023-02-23,Major,High,Manager Notified
+375,2054,Response Time,2,24.0,2024-07-20,Minor,Medium,Manager Notified
+376,2055,Response Time,2,24.0,2023-10-13,Minor,Medium,Escalated
+377,2061,Response Time,2,24.0,2023-01-28,Major,High,Escalated
+378,2062,Response Time,8,24.0,2023-06-13,Minor,Low,None
+379,2068,Response Time,8,24.0,2024-01-14,Minor,Low,None
+380,2072,Response Time,2,24.0,2023-01-30,Major,High,Escalated
+381,2075,Response Time,8,24.0,2023-11-06,Critical,Low,Process Review
+382,2080,Response Time,2,24.0,2023-10-18,Major,Medium,None
+383,2086,Response Time,8,24.0,2024-08-28,Minor,High,Escalated
+384,2094,Response Time,8,24.0,2023-08-30,Critical,Low,Escalated
+385,2095,Response Time,8,24.0,2024-03-01,Critical,Medium,None
+386,2105,Response Time,2,24.0,2024-10-26,Critical,Low,None
+387,2107,Response Time,8,24.0,2023-07-22,Critical,High,Process Review
+388,2108,Response Time,2,24.0,2023-09-29,Major,Medium,Process Review
+389,2112,Response Time,2,24.0,2024-12-17,Major,High,Escalated
+390,2129,Response Time,2,24.0,2023-10-16,Critical,Low,Escalated
+391,2137,Response Time,8,24.0,2023-09-25,Minor,Medium,Manager Notified
+392,2142,Response Time,2,24.0,2024-11-03,Minor,Medium,Manager Notified
+393,2144,Response Time,2,24.0,2023-08-01,Major,Low,None
+394,2164,Response Time,8,24.0,2024-08-29,Minor,Medium,Manager Notified
+395,2174,Response Time,2,24.0,2023-05-19,Major,Medium,Escalated
+396,2175,Response Time,2,24.0,2024-04-03,Critical,Low,Process Review
+397,2180,Response Time,2,24.0,2024-08-05,Major,High,Manager Notified
+398,2192,Response Time,24,48.0,2024-11-04,Minor,Low,Escalated
+399,2197,Response Time,2,24.0,2023-03-09,Major,Low,Manager Notified
+400,2204,Response Time,2,24.0,2024-09-22,Minor,Medium,Process Review
+401,2206,Response Time,8,24.0,2024-02-26,Critical,Medium,Escalated
+402,2224,Response Time,8,24.0,2024-04-24,Major,High,Manager Notified
+403,2232,Response Time,2,24.0,2024-03-01,Major,Medium,Manager Notified
+404,2238,Response Time,8,24.0,2024-08-27,Critical,Low,Process Review
+405,2245,Response Time,2,24.0,2023-03-12,Critical,Low,Manager Notified
+406,2246,Response Time,2,24.0,2024-08-08,Critical,Low,Manager Notified
+407,2250,Response Time,8,24.0,2023-07-01,Minor,High,Escalated
+408,2269,Response Time,8,24.0,2023-08-10,Major,Low,Process Review
+409,2278,Response Time,8,24.0,2024-06-10,Critical,High,None
+410,2279,Response Time,8,24.0,2023-02-16,Minor,Medium,None
+411,2287,Response Time,8,24.0,2023-04-04,Critical,Medium,None
+412,2288,Response Time,8,24.0,2023-07-26,Minor,Medium,Manager Notified
+413,2290,Response Time,8,24.0,2023-12-14,Major,Low,Manager Notified
+414,2293,Response Time,8,24.0,2023-02-08,Critical,High,Escalated
+415,2301,Response Time,8,24.0,2023-09-04,Minor,Low,Manager Notified
+416,2317,Response Time,8,24.0,2023-10-07,Minor,High,Process Review
+417,2319,Response Time,8,24.0,2024-04-16,Major,High,None
+418,2323,Response Time,2,24.0,2023-06-21,Critical,Low,Escalated
+419,2329,Response Time,8,24.0,2023-01-31,Major,High,Process Review
+420,2335,Response Time,8,24.0,2023-06-04,Critical,High,None
+421,2343,Response Time,8,24.0,2024-01-04,Minor,High,Process Review
+422,2344,Response Time,2,24.0,2023-02-19,Critical,Medium,Manager Notified
+423,2358,Response Time,2,48.0,2024-02-06,Minor,High,Manager Notified
+424,2361,Response Time,8,24.0,2024-02-28,Critical,Low,Escalated
+425,2364,Response Time,2,24.0,2023-01-31,Minor,Low,Process Review
+426,2365,Response Time,2,24.0,2023-09-22,Major,High,Escalated
+427,2366,Response Time,8,24.0,2023-12-18,Major,Low,Manager Notified
+428,2367,Response Time,8,24.0,2024-08-28,Critical,Low,None
+429,2372,Response Time,2,24.0,2023-12-27,Critical,High,Escalated
+430,2374,Response Time,8,24.0,2023-12-15,Major,Low,None
+431,2377,Response Time,8,24.0,2024-11-23,Major,High,Process Review
+432,2379,Response Time,2,24.0,2024-05-29,Major,Medium,None
+433,2386,Response Time,8,24.0,2023-10-14,Critical,Low,Process Review
+434,2391,Response Time,8,24.0,2024-05-06,Major,High,Manager Notified
+435,2394,Response Time,2,24.0,2023-09-16,Critical,High,Process Review
+436,2395,Response Time,8,24.0,2024-02-22,Major,Low,None
+437,2399,Response Time,8,24.0,2024-02-15,Major,Low,Escalated
+438,2406,Response Time,2,24.0,2023-10-05,Minor,Medium,Manager Notified
+439,2411,Response Time,8,24.0,2023-04-14,Critical,High,None
+440,2417,Response Time,8,24.0,2024-09-09,Minor,Medium,None
+441,2424,Response Time,2,24.0,2023-12-11,Critical,Medium,None
+442,2425,Response Time,8,24.0,2023-11-02,Minor,High,None
+443,2437,Response Time,2,24.0,2024-02-21,Minor,High,None
+444,2438,Response Time,8,24.0,2023-04-03,Major,High,Process Review
+445,2440,Response Time,2,24.0,2024-10-15,Minor,Low,Process Review
+446,2450,Response Time,2,24.0,2024-01-13,Minor,Low,Process Review
+447,2451,Response Time,2,24.0,2023-11-11,Major,Medium,Escalated
+448,2454,Response Time,8,24.0,2023-04-05,Major,High,Process Review
+449,2455,Response Time,8,24.0,2024-03-24,Critical,High,Escalated
+450,2470,Response Time,8,24.0,2023-11-25,Critical,Medium,Process Review
+451,2476,Response Time,8,24.0,2023-12-03,Major,Low,Process Review
+452,2478,Response Time,2,24.0,2024-09-02,Major,Low,None
+453,2483,Response Time,2,48.0,2023-08-24,Critical,High,Process Review
+454,2484,Response Time,8,24.0,2024-04-26,Major,Low,Process Review
+455,2485,Response Time,8,24.0,2024-03-11,Major,Low,None
+456,2488,Response Time,8,24.0,2023-01-11,Critical,Medium,None
+457,2489,Response Time,2,24.0,2023-05-31,Major,Medium,Process Review
+458,2490,Response Time,2,24.0,2024-12-09,Critical,Medium,Escalated
+459,2494,Response Time,2,24.0,2023-12-02,Critical,Medium,Escalated
+460,2495,Response Time,2,24.0,2023-11-19,Minor,Medium,None
+461,2499,Response Time,8,24.0,2024-05-21,Critical,Low,Manager Notified
+462,2502,Response Time,2,24.0,2024-09-20,Critical,Low,Escalated
+463,2504,Response Time,2,24.0,2023-11-13,Critical,Low,Manager Notified
+464,2512,Response Time,2,24.0,2023-07-21,Critical,Medium,Process Review
+465,2518,Response Time,2,24.0,2023-10-11,Major,Medium,Manager Notified
+466,2524,Response Time,8,24.0,2024-07-24,Minor,Medium,Manager Notified
+467,2527,Response Time,2,24.0,2023-11-10,Critical,Low,Process Review
+468,2540,Response Time,2,24.0,2023-06-14,Critical,Low,Process Review
+469,2546,Response Time,2,24.0,2024-02-05,Critical,High,None
+470,2551,Response Time,8,24.0,2024-08-26,Major,Medium,Process Review
+471,2556,Response Time,8,24.0,2023-07-21,Major,Medium,Process Review
+472,2557,Response Time,2,24.0,2024-04-07,Critical,Medium,Manager Notified
+473,2558,Response Time,8,24.0,2024-04-23,Minor,Low,Escalated
+474,2566,Response Time,8,24.0,2023-05-25,Major,Low,Escalated
+475,2570,Response Time,8,24.0,2023-09-15,Minor,High,Manager Notified
+476,2575,Response Time,8,24.0,2023-04-26,Critical,Low,Manager Notified
+477,2582,Response Time,8,24.0,2024-08-24,Critical,Low,Escalated
+478,2595,Response Time,2,24.0,2023-05-30,Minor,High,Escalated
+479,2602,Response Time,2,24.0,2023-08-21,Critical,Medium,Manager Notified
+480,2603,Response Time,8,24.0,2023-08-31,Major,Low,None
+481,2628,Response Time,8,24.0,2023-11-15,Minor,Low,Escalated
+482,2633,Response Time,2,24.0,2023-07-16,Minor,High,Manager Notified
+483,2636,Response Time,24,48.0,2023-09-15,Major,High,Escalated
+484,2640,Response Time,8,24.0,2024-08-15,Minor,Medium,None
+485,2644,Response Time,2,24.0,2023-03-05,Major,High,Escalated
+486,2645,Response Time,2,24.0,2024-11-09,Critical,Low,Escalated
+487,2648,Response Time,8,24.0,2023-10-16,Minor,Medium,Escalated
+488,2649,Response Time,8,24.0,2024-07-14,Major,High,Escalated
+489,2658,Response Time,8,24.0,2024-10-21,Critical,High,Escalated
+490,2664,Response Time,2,24.0,2024-08-08,Minor,High,None
+491,2680,Response Time,2,24.0,2024-05-06,Minor,Medium,None
+492,2698,Response Time,2,24.0,2023-03-20,Minor,Low,None
+493,2712,Response Time,2,24.0,2024-03-06,Minor,Low,None
+494,2720,Response Time,8,24.0,2024-03-09,Minor,High,Escalated
+495,2728,Response Time,8,24.0,2024-12-26,Critical,High,Manager Notified
+496,2731,Response Time,8,24.0,2024-03-24,Minor,Medium,Escalated
+497,2736,Response Time,8,24.0,2024-02-13,Critical,Medium,Escalated
+498,2738,Response Time,2,24.0,2023-08-18,Minor,Low,None
+499,2740,Response Time,8,24.0,2024-11-23,Critical,High,Manager Notified
+500,2741,Response Time,8,24.0,2023-11-13,Major,High,Manager Notified
+501,2743,Response Time,2,24.0,2024-02-09,Critical,High,Manager Notified
+502,2745,Response Time,2,24.0,2024-11-08,Major,Medium,Escalated
+503,2747,Response Time,2,24.0,2024-11-18,Minor,Medium,None
+504,2749,Response Time,2,24.0,2023-01-14,Major,High,Escalated
+505,2750,Response Time,8,24.0,2024-06-23,Major,High,Manager Notified
+506,2752,Response Time,2,24.0,2023-08-17,Critical,Medium,Escalated
+507,2756,Response Time,2,24.0,2023-02-23,Major,High,Escalated
+508,2759,Response Time,8,24.0,2024-07-23,Critical,High,None
+509,2763,Response Time,2,24.0,2023-05-24,Minor,High,None
+510,2766,Response Time,2,24.0,2024-07-27,Critical,Low,Escalated
+511,2772,Response Time,2,48.0,2023-01-23,Major,High,Process Review
+512,2775,Response Time,2,24.0,2024-08-19,Major,High,Process Review
+513,2777,Response Time,8,24.0,2023-12-03,Major,Medium,Manager Notified
+514,2786,Response Time,2,24.0,2023-10-27,Major,Medium,Manager Notified
+515,2790,Response Time,2,24.0,2024-09-30,Critical,Medium,None
+516,2801,Response Time,2,24.0,2023-04-30,Minor,Low,None
+517,2806,Response Time,2,24.0,2023-03-28,Critical,High,Process Review
+518,2816,Response Time,8,24.0,2023-04-29,Critical,High,None
+519,2817,Response Time,8,24.0,2023-02-12,Major,Medium,Process Review
+520,2824,Response Time,8,24.0,2023-08-02,Critical,High,Escalated
+521,2825,Response Time,8,24.0,2023-07-15,Minor,High,Escalated
+522,2827,Response Time,2,24.0,2023-12-12,Critical,Medium,None
+523,2829,Response Time,8,24.0,2024-12-26,Major,High,Manager Notified
+524,2832,Response Time,8,24.0,2024-12-14,Minor,Medium,None
+525,2837,Response Time,2,24.0,2023-03-09,Minor,Medium,Manager Notified
+526,2848,Response Time,2,24.0,2023-06-01,Critical,Medium,Process Review
+527,2852,Response Time,8,24.0,2024-04-10,Minor,High,Escalated
+528,2855,Response Time,8,24.0,2024-12-08,Critical,High,Manager Notified
+529,2858,Response Time,8,24.0,2023-09-28,Minor,High,None
+530,2861,Response Time,2,24.0,2024-10-31,Critical,Low,None
+531,2867,Response Time,8,24.0,2024-05-25,Critical,Low,Manager Notified
+532,2871,Response Time,8,24.0,2023-09-24,Critical,Medium,None
+533,2876,Response Time,8,24.0,2023-09-25,Critical,Medium,None
+534,2884,Response Time,8,24.0,2023-12-27,Critical,Low,Process Review
+535,2894,Response Time,8,24.0,2023-01-09,Major,Medium,None
+536,2896,Response Time,8,24.0,2024-10-16,Critical,Low,None
+537,2897,Response Time,2,24.0,2024-11-11,Minor,High,Process Review
+538,2899,Response Time,2,24.0,2023-08-20,Critical,High,Escalated
+539,2903,Response Time,2,24.0,2024-08-22,Minor,Low,Escalated
+540,2915,Response Time,8,24.0,2023-11-02,Major,Medium,Escalated
+541,2920,Response Time,2,24.0,2023-10-24,Critical,Low,Manager Notified
+542,2928,Response Time,8,24.0,2023-09-19,Major,Low,Escalated
+543,2929,Response Time,2,24.0,2024-04-11,Critical,Low,None
+544,2933,Response Time,2,24.0,2023-06-19,Major,Low,None
+545,2935,Response Time,8,24.0,2024-01-22,Major,Low,Process Review
+546,2938,Response Time,2,24.0,2023-06-18,Critical,Low,Process Review
+547,2939,Response Time,8,24.0,2024-06-21,Minor,High,Process Review
+548,2941,Response Time,8,24.0,2023-05-13,Critical,High,Escalated
+549,2952,Response Time,24,48.0,2023-11-07,Minor,High,Manager Notified
+550,2958,Response Time,8,24.0,2023-02-08,Critical,Low,Process Review
+551,2960,Response Time,8,24.0,2023-05-02,Major,Low,Process Review
+552,2962,Response Time,8,24.0,2023-09-10,Minor,Medium,Manager Notified
+553,2964,Response Time,8,24.0,2024-07-16,Minor,Low,Process Review
+554,2965,Response Time,2,24.0,2024-08-19,Minor,Medium,None
+555,2966,Response Time,2,24.0,2023-11-04,Minor,Low,Escalated
+556,2967,Response Time,8,24.0,2023-09-14,Major,Medium,Manager Notified
+557,2981,Response Time,8,24.0,2023-01-18,Minor,Medium,Escalated
+558,2982,Response Time,8,24.0,2024-09-03,Critical,Medium,Process Review
+559,2989,Response Time,2,24.0,2024-06-29,Minor,Medium,Escalated
+560,2996,Response Time,8,48.0,2024-11-12,Major,Low,None
+561,3000,Response Time,8,24.0,2024-02-14,Minor,High,Escalated
+562,3006,Response Time,2,24.0,2023-02-24,Minor,High,Process Review
+563,3007,Response Time,2,24.0,2023-08-21,Major,Low,Process Review
+564,3012,Response Time,2,24.0,2024-04-06,Major,Medium,None
+565,3015,Response Time,8,24.0,2024-11-17,Minor,Medium,Process Review
+566,3016,Response Time,8,24.0,2024-08-17,Major,Low,Escalated
+567,3021,Response Time,2,24.0,2023-04-05,Critical,Medium,Escalated
+568,3026,Response Time,8,24.0,2023-06-02,Major,Medium,Process Review
+569,3038,Response Time,8,24.0,2024-10-25,Minor,Medium,Manager Notified
+570,3039,Response Time,8,24.0,2023-06-10,Minor,Medium,Escalated
+571,3049,Response Time,8,24.0,2023-03-06,Major,Medium,Manager Notified
+572,3051,Response Time,2,24.0,2023-04-02,Minor,Low,Process Review
+573,3052,Response Time,2,24.0,2024-11-21,Critical,High,Process Review
+574,3054,Response Time,2,24.0,2024-01-28,Minor,Medium,Manager Notified
+575,3073,Response Time,2,24.0,2023-02-21,Minor,High,Escalated
+576,3076,Response Time,2,24.0,2024-01-24,Minor,Medium,Manager Notified
+577,3077,Response Time,2,48.0,2024-03-05,Minor,Medium,Manager Notified
+578,3088,Response Time,8,24.0,2024-03-21,Minor,Medium,None
+579,3090,Response Time,8,24.0,2024-09-20,Major,Low,Process Review
+580,3093,Response Time,2,24.0,2024-05-11,Critical,High,Process Review
+581,3098,Response Time,8,24.0,2023-06-05,Major,Medium,Escalated
+582,3103,Response Time,2,24.0,2024-06-02,Major,Medium,Escalated
+583,3111,Response Time,2,24.0,2023-07-27,Minor,High,Escalated
+584,3119,Response Time,2,24.0,2023-11-17,Minor,High,Process Review
+585,3122,Response Time,2,24.0,2023-10-21,Minor,Low,Escalated
+586,3125,Response Time,2,24.0,2024-10-22,Critical,Medium,Escalated
+587,3134,Response Time,2,48.0,2024-05-16,Major,Low,None
+588,3145,Response Time,8,24.0,2023-03-04,Major,Medium,None
+589,3146,Response Time,2,24.0,2023-11-09,Critical,High,Manager Notified
+590,3149,Response Time,8,24.0,2024-09-19,Minor,Low,Escalated
+591,3156,Response Time,8,24.0,2024-06-14,Minor,Medium,None
+592,3160,Response Time,2,24.0,2024-08-24,Major,High,Manager Notified
+593,3161,Response Time,8,24.0,2023-06-19,Critical,Medium,Escalated
+594,3165,Response Time,2,24.0,2023-08-30,Major,Medium,Manager Notified
+595,3169,Response Time,8,24.0,2023-01-07,Minor,Low,None
+596,3170,Response Time,2,24.0,2023-10-18,Critical,Medium,None
+597,3171,Response Time,2,24.0,2023-06-12,Minor,Medium,Manager Notified
+598,3182,Response Time,8,24.0,2023-06-24,Critical,Medium,Manager Notified
+599,3184,Response Time,8,24.0,2024-12-15,Critical,Low,Escalated
+600,3189,Response Time,8,24.0,2023-10-11,Minor,Medium,Escalated
+601,3195,Response Time,8,24.0,2024-03-11,Major,Medium,Escalated
+602,3197,Response Time,8,24.0,2024-08-20,Critical,Medium,None
+603,3202,Response Time,8,24.0,2024-06-23,Critical,High,Process Review
+604,3204,Response Time,8,24.0,2023-07-25,Minor,Low,Escalated
+605,3211,Response Time,2,24.0,2023-04-19,Minor,High,None
+606,3218,Response Time,8,24.0,2023-12-04,Major,Low,Manager Notified
+607,3221,Response Time,8,24.0,2024-10-03,Minor,High,None
+608,3222,Response Time,8,24.0,2023-11-16,Minor,Medium,Manager Notified
+609,3224,Response Time,2,24.0,2023-03-21,Critical,High,Process Review
+610,3240,Response Time,2,24.0,2024-12-17,Minor,Medium,Escalated
+611,3244,Response Time,8,24.0,2024-10-20,Minor,Medium,Manager Notified
+612,3250,Response Time,2,24.0,2024-04-09,Minor,Low,Escalated
+613,3252,Response Time,2,24.0,2024-10-14,Major,Low,None
+614,3253,Response Time,2,24.0,2023-07-19,Major,High,None
+615,3254,Response Time,2,24.0,2023-11-22,Minor,Low,Process Review
+616,3257,Response Time,2,24.0,2024-07-22,Minor,Medium,Process Review
+617,3259,Response Time,2,24.0,2023-03-22,Major,High,None
+618,3260,Response Time,8,24.0,2024-02-03,Major,High,Manager Notified
+619,3267,Response Time,8,24.0,2023-07-13,Critical,Low,Manager Notified
+620,3270,Response Time,2,24.0,2023-11-25,Major,Low,None
+621,3273,Response Time,2,24.0,2023-07-12,Minor,High,Escalated
+622,3275,Response Time,2,24.0,2023-06-23,Major,High,Escalated
+623,3290,Response Time,2,24.0,2024-05-26,Major,Low,Process Review
+624,3293,Response Time,8,24.0,2024-10-20,Critical,High,Manager Notified
+625,3297,Response Time,2,24.0,2023-06-02,Major,Low,Escalated
+626,3299,Response Time,8,24.0,2024-06-12,Critical,Medium,Process Review
+627,3308,Response Time,8,24.0,2023-06-24,Major,Low,Escalated
+628,3309,Response Time,8,24.0,2023-07-17,Minor,High,None
+629,3310,Response Time,8,24.0,2023-01-28,Minor,Low,Process Review
+630,3315,Response Time,2,24.0,2023-02-13,Minor,Medium,None
+631,3317,Response Time,2,24.0,2023-01-15,Minor,Medium,Process Review
+632,3320,Response Time,2,24.0,2023-04-19,Major,Low,Escalated
+633,3326,Response Time,2,24.0,2023-07-07,Critical,Low,None
+634,3364,Response Time,2,24.0,2024-01-25,Major,Medium,Manager Notified
+635,3376,Response Time,2,24.0,2023-07-25,Major,Low,None
+636,3377,Response Time,2,24.0,2024-03-31,Minor,Low,Escalated
+637,3380,Response Time,2,24.0,2023-10-22,Critical,High,Manager Notified
+638,3381,Response Time,2,24.0,2024-05-08,Minor,Low,Escalated
+639,3392,Response Time,24,48.0,2024-03-26,Critical,Medium,Process Review
+640,3402,Response Time,8,24.0,2024-10-01,Critical,High,Manager Notified
+641,3404,Response Time,2,24.0,2024-04-23,Minor,Medium,Manager Notified
+642,3405,Response Time,8,24.0,2023-10-13,Major,Low,Manager Notified
+643,3406,Response Time,2,24.0,2023-03-17,Major,Medium,Escalated
+644,3407,Response Time,2,24.0,2023-03-08,Major,Medium,Escalated
+645,3423,Response Time,2,24.0,2024-03-26,Minor,Medium,None
+646,3428,Response Time,2,24.0,2024-06-30,Major,Medium,Process Review
+647,3435,Response Time,2,24.0,2024-08-04,Critical,High,Process Review
+648,3439,Response Time,2,24.0,2024-07-12,Minor,Medium,Manager Notified
+649,3440,Response Time,2,24.0,2023-10-06,Major,High,Process Review
+650,3447,Response Time,8,24.0,2024-01-18,Critical,Low,Process Review
+651,3454,Response Time,8,24.0,2024-06-14,Major,Low,None
+652,3466,Response Time,2,24.0,2023-03-02,Minor,High,Escalated
+653,3474,Response Time,2,24.0,2024-08-21,Critical,Medium,None
+654,3477,Response Time,8,24.0,2024-03-01,Major,Low,Process Review
+655,3479,Response Time,8,48.0,2024-06-16,Minor,High,Escalated
+656,3481,Response Time,8,24.0,2024-08-25,Major,Low,None
+657,3492,Response Time,2,24.0,2023-10-15,Major,High,Escalated
+658,3497,Response Time,2,24.0,2024-05-01,Major,High,Escalated
+659,3499,Response Time,2,24.0,2024-04-03,Critical,Medium,Manager Notified
+660,3504,Response Time,2,24.0,2023-07-31,Major,Low,Escalated
+661,3538,Response Time,24,48.0,2024-02-26,Major,Low,None
+662,3543,Response Time,8,24.0,2024-10-12,Critical,High,Escalated
+663,3546,Response Time,2,24.0,2024-04-12,Major,High,Manager Notified
+664,3551,Response Time,8,24.0,2023-03-21,Critical,Medium,None
+665,3555,Response Time,2,48.0,2024-09-04,Major,Low,Process Review
+666,3556,Response Time,8,24.0,2023-02-01,Major,High,Manager Notified
+667,3560,Response Time,2,24.0,2024-11-22,Critical,High,Process Review
+668,3563,Response Time,2,24.0,2023-01-04,Major,Low,Process Review
+669,3564,Response Time,8,24.0,2023-05-05,Critical,Low,Process Review
+670,3570,Response Time,2,24.0,2024-06-28,Critical,Low,None
+671,3574,Response Time,2,24.0,2023-09-18,Critical,Low,Process Review
+672,3576,Response Time,8,24.0,2023-04-27,Minor,Medium,Manager Notified
+673,3580,Response Time,2,24.0,2023-06-12,Minor,High,Process Review
+674,3583,Response Time,8,24.0,2024-09-07,Critical,High,Manager Notified
+675,3589,Response Time,2,24.0,2024-12-07,Major,Low,None
+676,3607,Response Time,2,24.0,2023-03-28,Minor,Medium,Escalated
+677,3617,Response Time,8,24.0,2024-09-25,Major,Low,Process Review
+678,3618,Response Time,2,24.0,2024-03-30,Major,High,Process Review
+679,3626,Response Time,2,24.0,2024-02-06,Critical,High,Escalated
+680,3632,Response Time,8,24.0,2024-12-11,Critical,High,Escalated
+681,3655,Response Time,2,24.0,2023-09-07,Minor,Low,Process Review
+682,3656,Response Time,2,24.0,2024-07-20,Minor,Medium,Escalated
+683,3666,Response Time,24,48.0,2024-07-01,Major,Medium,Escalated
+684,3676,Response Time,2,24.0,2023-10-01,Critical,High,Manager Notified
+685,3705,Response Time,2,24.0,2024-09-05,Critical,Low,Process Review
+686,3707,Response Time,2,24.0,2024-12-06,Major,Medium,Escalated
+687,3708,Response Time,2,24.0,2024-02-23,Minor,High,None
+688,3710,Response Time,2,24.0,2024-12-08,Minor,High,Manager Notified
+689,3716,Response Time,2,24.0,2023-11-16,Minor,High,Manager Notified
+690,3718,Response Time,2,24.0,2023-05-28,Major,Medium,Escalated
+691,3733,Response Time,8,24.0,2023-01-06,Critical,Low,Process Review
+692,3754,Response Time,8,24.0,2024-05-07,Major,High,Manager Notified
+693,3763,Response Time,8,24.0,2023-06-30,Minor,Medium,Manager Notified
+694,3768,Response Time,2,24.0,2024-12-17,Major,Medium,None
+695,3769,Response Time,2,48.0,2024-05-07,Major,Medium,Escalated
+696,3778,Response Time,2,24.0,2023-02-25,Minor,Low,None
+697,3782,Response Time,2,24.0,2023-03-23,Major,Low,Manager Notified
+698,3785,Response Time,8,24.0,2023-07-16,Critical,Medium,Escalated
+699,3787,Response Time,2,24.0,2023-07-24,Major,Low,Escalated
+700,3791,Response Time,2,24.0,2023-09-26,Critical,High,Process Review
+701,3796,Response Time,2,24.0,2024-02-14,Major,Low,Process Review
+702,3797,Response Time,8,24.0,2024-05-24,Critical,Low,Escalated
+703,3803,Response Time,8,24.0,2023-04-20,Critical,Low,None
+704,3808,Response Time,8,24.0,2024-12-25,Major,Low,Process Review
+705,3814,Response Time,8,24.0,2024-07-03,Major,Low,Process Review
+706,3816,Response Time,2,24.0,2023-07-17,Critical,High,Process Review
+707,3817,Response Time,2,24.0,2024-10-10,Minor,Medium,Manager Notified
+708,3818,Response Time,2,24.0,2024-03-23,Minor,High,Manager Notified
+709,3830,Response Time,8,24.0,2023-09-21,Major,Low,None
+710,3832,Response Time,8,24.0,2023-07-16,Critical,Low,None
+711,3842,Response Time,8,24.0,2023-12-10,Critical,Medium,Manager Notified
+712,3844,Response Time,2,24.0,2023-01-06,Minor,High,Manager Notified
+713,3848,Response Time,8,24.0,2024-05-03,Critical,High,Process Review
+714,3854,Response Time,8,24.0,2024-08-27,Critical,Low,Escalated
+715,3856,Response Time,2,24.0,2023-02-05,Minor,Low,Process Review
+716,3864,Response Time,2,24.0,2023-07-24,Critical,High,None
+717,3866,Response Time,8,24.0,2024-11-16,Major,High,Process Review
+718,3872,Response Time,2,24.0,2023-02-21,Minor,Medium,Escalated
+719,3884,Response Time,8,48.0,2023-07-01,Major,Low,Process Review
+720,3888,Response Time,8,24.0,2023-12-25,Major,Medium,Manager Notified
+721,3897,Response Time,2,24.0,2023-09-05,Minor,High,Manager Notified
+722,3917,Response Time,2,24.0,2024-01-04,Major,Low,Manager Notified
+723,3931,Response Time,2,24.0,2023-06-05,Minor,Low,Process Review
+724,3935,Response Time,2,24.0,2023-01-31,Minor,Medium,Manager Notified
+725,3940,Response Time,8,24.0,2024-06-25,Critical,Low,None
+726,3974,Response Time,2,24.0,2023-04-04,Critical,Low,None
+727,3977,Response Time,8,24.0,2023-06-01,Major,Medium,Process Review
+728,3994,Response Time,2,24.0,2024-05-23,Critical,Low,None
+729,3996,Response Time,2,24.0,2023-09-09,Critical,Medium,None
+730,4006,Response Time,8,24.0,2023-02-10,Critical,High,Manager Notified
+731,4008,Response Time,8,24.0,2023-06-01,Minor,High,Escalated
+732,4014,Response Time,2,24.0,2023-07-03,Major,Low,None
+733,4015,Response Time,8,24.0,2023-05-10,Minor,Medium,None
+734,4023,Response Time,2,24.0,2024-11-17,Minor,Low,Process Review
+735,4031,Response Time,2,24.0,2024-11-15,Major,High,Process Review
+736,4033,Response Time,8,24.0,2023-07-19,Critical,Medium,Escalated
+737,4045,Response Time,2,24.0,2024-04-18,Minor,High,Process Review
+738,4055,Response Time,2,24.0,2024-08-16,Major,High,Manager Notified
+739,4063,Response Time,8,24.0,2023-09-14,Minor,Low,Escalated
+740,4071,Response Time,8,24.0,2023-07-04,Critical,Medium,Process Review
+741,4072,Response Time,2,24.0,2023-01-02,Major,Low,Manager Notified
+742,4073,Response Time,2,24.0,2023-10-03,Major,Low,None
+743,4081,Response Time,2,24.0,2023-11-22,Major,Low,Process Review
+744,4083,Response Time,8,24.0,2023-12-11,Minor,Low,Manager Notified
+745,4087,Response Time,8,24.0,2023-08-23,Critical,Medium,None
+746,4095,Response Time,2,24.0,2024-06-11,Critical,High,Process Review
+747,4105,Response Time,2,24.0,2024-09-15,Minor,Medium,Manager Notified
+748,4106,Response Time,2,24.0,2024-01-17,Major,Low,Process Review
+749,4112,Response Time,8,24.0,2024-12-14,Critical,Low,None
+750,4124,Response Time,2,48.0,2024-11-21,Minor,High,Process Review
+751,4127,Response Time,8,24.0,2024-09-26,Minor,High,Process Review
+752,4128,Response Time,8,24.0,2024-11-03,Critical,Medium,Escalated
+753,4134,Response Time,8,24.0,2024-12-21,Critical,Medium,Escalated
+754,4139,Response Time,2,24.0,2023-03-01,Minor,Medium,Escalated
+755,4151,Response Time,8,24.0,2024-02-20,Minor,High,Process Review
+756,4154,Response Time,2,24.0,2023-09-14,Critical,High,Manager Notified
+757,4159,Response Time,2,24.0,2024-01-21,Minor,Low,Process Review
+758,4165,Response Time,2,24.0,2023-08-19,Critical,High,None
+759,4167,Response Time,2,24.0,2024-03-12,Minor,High,Process Review
+760,4174,Response Time,8,24.0,2023-11-28,Major,High,Process Review
+761,4176,Response Time,2,24.0,2023-08-24,Major,High,Manager Notified
+762,4180,Response Time,2,24.0,2024-09-30,Critical,Low,Process Review
+763,4189,Response Time,8,24.0,2023-09-26,Critical,Medium,Manager Notified
+764,4207,Response Time,2,24.0,2024-04-17,Critical,High,None
+765,4211,Response Time,2,24.0,2023-10-28,Minor,Low,Escalated
+766,4212,Response Time,8,24.0,2024-08-20,Minor,Medium,None
+767,4213,Response Time,8,24.0,2023-02-17,Minor,Medium,Escalated
+768,4214,Response Time,8,24.0,2023-10-25,Critical,Low,None
+769,4229,Response Time,8,24.0,2023-11-12,Critical,High,None
+770,4247,Response Time,24,48.0,2023-08-22,Major,High,Manager Notified
+771,4251,Response Time,2,24.0,2024-09-19,Critical,Low,Manager Notified
+772,4252,Response Time,2,24.0,2023-09-04,Major,High,None
+773,4261,Response Time,8,24.0,2023-03-02,Major,High,Escalated
+774,4266,Response Time,8,24.0,2023-11-29,Critical,High,Escalated
+775,4273,Response Time,2,24.0,2023-03-12,Critical,Medium,None
+776,4274,Response Time,2,24.0,2024-06-07,Critical,High,Escalated
+777,4276,Response Time,2,24.0,2023-12-01,Minor,Medium,Escalated
+778,4295,Response Time,8,24.0,2023-11-09,Major,Low,None
+779,4303,Response Time,2,24.0,2024-07-06,Minor,Low,Process Review
+780,4310,Response Time,8,24.0,2023-09-03,Minor,Medium,None
+781,4313,Response Time,2,24.0,2023-08-08,Critical,Low,Escalated
+782,4336,Response Time,2,24.0,2024-04-26,Critical,Medium,None
+783,4343,Response Time,2,24.0,2023-07-06,Major,High,Escalated
+784,4345,Response Time,8,24.0,2024-01-17,Critical,Low,Escalated
+785,4359,Response Time,2,24.0,2024-05-24,Major,Medium,Manager Notified
+786,4366,Response Time,2,24.0,2024-06-05,Major,Low,None
+787,4374,Response Time,2,24.0,2023-05-10,Minor,High,None
+788,4375,Response Time,2,24.0,2023-12-17,Critical,Low,Manager Notified
+789,4378,Response Time,8,24.0,2023-07-01,Critical,High,Process Review
+790,4382,Response Time,8,24.0,2024-11-29,Minor,High,Process Review
+791,4385,Response Time,2,24.0,2023-04-18,Major,Low,Escalated
+792,4386,Response Time,8,24.0,2024-04-22,Critical,High,Escalated
+793,4391,Response Time,2,24.0,2024-05-28,Minor,High,Process Review
+794,4392,Response Time,2,24.0,2023-04-21,Minor,Low,Manager Notified
+795,4398,Response Time,24,48.0,2024-12-10,Minor,Low,Process Review
+796,4401,Response Time,8,24.0,2024-11-14,Minor,Medium,Escalated
+797,4404,Response Time,8,24.0,2024-02-13,Minor,High,Manager Notified
+798,4417,Response Time,2,24.0,2024-06-27,Minor,Low,Process Review
+799,4421,Response Time,8,24.0,2023-02-10,Major,High,Manager Notified
+800,4427,Response Time,8,24.0,2024-03-27,Minor,Medium,Escalated
+801,4439,Response Time,8,24.0,2024-02-08,Critical,High,Process Review
+802,4440,Response Time,8,24.0,2024-05-29,Major,High,None
+803,4448,Response Time,8,24.0,2024-10-28,Minor,Low,Escalated
+804,4456,Response Time,2,24.0,2023-04-15,Critical,High,Process Review
+805,4467,Response Time,8,24.0,2024-06-03,Critical,Low,None
+806,4468,Response Time,8,24.0,2023-10-30,Minor,High,Process Review
+807,4475,Response Time,8,24.0,2024-09-05,Major,Medium,Process Review
+808,4476,Response Time,2,24.0,2023-02-13,Minor,Low,None
+809,4478,Response Time,8,24.0,2023-02-18,Critical,High,Manager Notified
+810,4483,Response Time,8,24.0,2023-11-19,Critical,Low,Process Review
+811,4487,Response Time,8,24.0,2023-02-15,Major,High,Manager Notified
+812,4491,Response Time,2,24.0,2023-07-25,Critical,High,Escalated
+813,4492,Response Time,2,24.0,2023-01-04,Minor,High,Process Review
+814,4497,Response Time,2,24.0,2024-11-24,Major,Low,Manager Notified
+815,4509,Response Time,8,24.0,2024-07-05,Critical,High,Manager Notified
+816,4514,Response Time,8,48.0,2024-12-24,Critical,Medium,Manager Notified
+817,4521,Response Time,2,24.0,2024-05-07,Critical,Low,Manager Notified
+818,4533,Response Time,8,24.0,2023-11-08,Critical,Medium,None
+819,4535,Response Time,8,24.0,2024-05-10,Minor,Medium,Process Review
+820,4536,Response Time,2,24.0,2024-01-29,Critical,Low,None
+821,4537,Response Time,8,24.0,2023-11-12,Minor,Low,None
+822,4542,Response Time,2,24.0,2024-03-19,Minor,Low,None
+823,4544,Response Time,8,24.0,2024-05-29,Major,Low,Escalated
+824,4550,Response Time,2,24.0,2023-07-19,Critical,Medium,Process Review
+825,4556,Response Time,8,24.0,2024-05-27,Minor,Low,None
+826,4565,Response Time,8,24.0,2023-02-27,Minor,Low,Process Review
+827,4582,Response Time,8,24.0,2024-07-29,Critical,Low,Process Review
+828,4594,Response Time,2,24.0,2023-07-30,Minor,Low,Escalated
+829,4596,Response Time,2,48.0,2023-09-11,Minor,Medium,Escalated
+830,4599,Response Time,8,48.0,2024-06-14,Major,Medium,None
+831,4603,Response Time,8,24.0,2023-03-31,Major,High,None
+832,4606,Response Time,2,48.0,2023-10-08,Major,Medium,Manager Notified
+833,4607,Response Time,2,24.0,2023-07-15,Minor,Low,None
+834,4614,Response Time,8,24.0,2023-03-07,Major,Medium,Manager Notified
+835,4617,Response Time,8,48.0,2023-10-22,Minor,High,None
+836,4620,Response Time,8,24.0,2023-01-19,Minor,High,Manager Notified
+837,4624,Response Time,8,24.0,2023-05-28,Minor,Low,Process Review
+838,4629,Response Time,8,24.0,2023-07-01,Critical,Medium,Manager Notified
+839,4636,Response Time,8,24.0,2023-03-16,Critical,High,Escalated
+840,4642,Response Time,8,24.0,2024-11-28,Minor,Medium,Manager Notified
+841,4643,Response Time,2,24.0,2024-09-16,Critical,High,Process Review
+842,4648,Response Time,8,24.0,2024-08-31,Minor,High,Escalated
+843,4649,Response Time,8,24.0,2024-08-27,Minor,High,None
+844,4651,Response Time,8,24.0,2024-10-11,Critical,Low,Escalated
+845,4652,Response Time,8,24.0,2023-06-09,Critical,Low,Process Review
+846,4655,Response Time,2,24.0,2023-08-23,Major,Medium,None
+847,4661,Response Time,2,24.0,2023-08-10,Major,Medium,Escalated
+848,4669,Response Time,2,24.0,2023-07-21,Major,Low,None
+849,4672,Response Time,8,24.0,2023-02-05,Major,Low,None
+850,4680,Response Time,8,24.0,2024-02-14,Critical,Medium,Escalated
+851,4716,Response Time,8,24.0,2023-09-22,Major,High,Process Review
+852,4719,Response Time,2,24.0,2024-02-16,Critical,High,Manager Notified
+853,4728,Response Time,2,24.0,2023-04-03,Critical,High,Process Review
+854,4729,Response Time,2,24.0,2023-08-26,Minor,Low,Process Review
+855,4740,Response Time,2,24.0,2023-07-08,Minor,High,Process Review
+856,4747,Response Time,2,24.0,2023-03-21,Critical,Low,None
+857,4756,Response Time,2,24.0,2023-02-12,Minor,Low,None
+858,4759,Response Time,8,24.0,2024-10-12,Major,High,Process Review
+859,4760,Response Time,8,24.0,2023-04-25,Major,Medium,Manager Notified
+860,4761,Response Time,2,24.0,2023-05-09,Minor,Low,None
+861,4763,Response Time,8,24.0,2023-01-23,Critical,High,Escalated
+862,4768,Response Time,2,24.0,2023-05-05,Minor,Low,Escalated
+863,4772,Response Time,2,24.0,2023-05-30,Minor,High,Escalated
+864,4774,Response Time,8,24.0,2024-05-26,Minor,Low,Escalated
+865,4775,Response Time,8,48.0,2024-04-19,Major,High,Manager Notified
+866,4798,Response Time,8,24.0,2024-10-06,Critical,Low,Process Review
+867,4805,Response Time,2,24.0,2023-06-24,Critical,Medium,Manager Notified
+868,4812,Response Time,2,24.0,2024-04-10,Major,Medium,Manager Notified
+869,4816,Response Time,8,24.0,2024-07-09,Critical,Medium,None
+870,4820,Response Time,2,24.0,2023-07-22,Major,High,Manager Notified
+871,4825,Response Time,2,24.0,2024-02-17,Critical,Medium,Process Review
+872,4828,Response Time,8,24.0,2023-12-30,Major,Low,None
+873,4837,Response Time,8,24.0,2024-05-23,Critical,High,Process Review
+874,4843,Response Time,8,24.0,2024-02-25,Minor,Low,Manager Notified
+875,4846,Response Time,8,24.0,2023-04-15,Major,High,Manager Notified
+876,4857,Response Time,8,24.0,2024-05-05,Minor,Low,None
+877,4859,Response Time,2,24.0,2024-02-08,Minor,Medium,Process Review
+878,4866,Response Time,8,24.0,2024-12-18,Minor,Low,Escalated
+879,4867,Response Time,8,24.0,2024-01-02,Minor,High,Escalated
+880,4886,Response Time,2,24.0,2023-02-01,Critical,High,None
+881,4888,Response Time,8,24.0,2023-05-19,Major,High,Process Review
+882,4890,Response Time,2,24.0,2023-04-18,Major,Medium,None
+883,4900,Response Time,8,24.0,2023-11-11,Minor,High,Process Review
+884,4901,Response Time,2,24.0,2024-05-10,Critical,Medium,Manager Notified
+885,4915,Response Time,8,24.0,2024-06-10,Minor,High,Manager Notified
+886,4920,Response Time,2,24.0,2024-11-30,Major,High,Process Review
+887,4931,Response Time,8,24.0,2024-08-21,Major,Low,Escalated
+888,4939,Response Time,2,24.0,2024-02-11,Critical,Medium,None
+889,4944,Response Time,8,24.0,2024-10-11,Major,Medium,Escalated
+890,4947,Response Time,2,24.0,2023-09-28,Major,Medium,Process Review
+891,4957,Response Time,8,24.0,2023-06-01,Major,Low,Manager Notified
+892,4969,Response Time,2,24.0,2024-02-19,Major,High,None
+893,4970,Response Time,2,24.0,2024-01-16,Major,Medium,Escalated
+894,4972,Response Time,2,24.0,2024-10-17,Critical,High,Escalated
+895,4974,Response Time,8,24.0,2023-10-08,Minor,Low,Process Review
+896,4978,Response Time,8,24.0,2023-10-11,Critical,High,Process Review
+897,4981,Response Time,24,48.0,2023-10-23,Critical,Medium,Process Review
+898,4984,Response Time,2,24.0,2023-05-22,Critical,Low,Escalated
+899,4986,Response Time,8,24.0,2023-09-06,Critical,High,Escalated
+900,4988,Response Time,2,24.0,2023-08-29,Major,High,Escalated
+901,5007,Response Time,8,24.0,2024-02-03,Minor,Low,Process Review
+902,5013,Response Time,2,24.0,2023-05-25,Critical,Medium,Escalated
+903,5017,Response Time,2,24.0,2023-07-07,Major,High,Manager Notified
+904,5029,Response Time,2,48.0,2023-11-01,Major,Medium,Manager Notified
+905,5036,Response Time,2,24.0,2023-05-03,Major,Medium,Escalated
+906,5043,Response Time,8,24.0,2023-09-19,Major,High,None
+907,5050,Response Time,2,24.0,2023-02-23,Critical,Medium,Manager Notified
+908,5053,Response Time,2,24.0,2023-08-24,Major,Low,Process Review
+909,5054,Response Time,8,24.0,2023-06-02,Minor,High,Escalated
+910,5061,Response Time,8,24.0,2023-12-29,Major,Medium,Escalated
+911,5062,Response Time,8,24.0,2024-09-16,Major,Low,Escalated
+912,5063,Response Time,8,24.0,2024-04-19,Minor,High,Manager Notified
+913,5075,Response Time,8,24.0,2024-06-28,Critical,Medium,Manager Notified
+914,5080,Response Time,8,24.0,2023-12-09,Minor,Medium,None
+915,5081,Response Time,8,24.0,2023-02-20,Major,Medium,Process Review
+916,5085,Response Time,8,24.0,2024-09-19,Minor,Low,Process Review
+917,5086,Response Time,8,24.0,2023-10-24,Minor,Low,None
+918,5088,Response Time,24,48.0,2024-12-09,Major,Medium,Manager Notified
+919,5094,Response Time,8,24.0,2024-10-27,Minor,Medium,None
+920,5097,Response Time,8,24.0,2023-09-04,Major,Low,None
+921,5099,Response Time,2,24.0,2024-02-05,Critical,High,None
+922,5106,Response Time,8,24.0,2023-06-13,Major,Medium,None
+923,5115,Response Time,2,24.0,2024-04-14,Minor,Low,None
+924,5119,Response Time,8,24.0,2024-07-17,Minor,Medium,Process Review
+925,5120,Response Time,2,24.0,2023-09-20,Major,Low,None
+926,5123,Response Time,2,48.0,2024-09-02,Minor,Low,Escalated
+927,5131,Response Time,2,24.0,2023-04-16,Minor,Low,Escalated
+928,5142,Response Time,2,48.0,2024-10-03,Minor,Medium,Manager Notified
+929,5147,Response Time,2,24.0,2023-05-13,Minor,Low,Process Review
+930,5151,Response Time,8,24.0,2023-07-01,Critical,Low,Process Review
+931,5154,Response Time,8,24.0,2024-03-15,Critical,Medium,Manager Notified
+932,5169,Response Time,2,24.0,2023-08-10,Critical,Low,Escalated
+933,5170,Response Time,8,24.0,2024-10-13,Critical,High,Escalated
+934,5187,Response Time,2,24.0,2024-04-22,Critical,Low,Process Review
+935,5188,Response Time,8,24.0,2024-05-13,Minor,Low,None
+936,5192,Response Time,2,24.0,2023-01-12,Minor,Low,Manager Notified
+937,5205,Response Time,24,48.0,2024-03-17,Critical,High,Manager Notified
+938,5209,Response Time,8,24.0,2024-11-15,Critical,High,None
+939,5210,Response Time,8,24.0,2024-11-23,Minor,High,Escalated
+940,5219,Response Time,8,24.0,2023-08-29,Critical,Low,None
+941,5227,Response Time,8,24.0,2023-04-25,Minor,High,Process Review
+942,5242,Response Time,8,24.0,2023-10-22,Minor,High,None
+943,5252,Response Time,8,24.0,2024-11-28,Critical,High,Manager Notified
+944,5263,Response Time,2,24.0,2023-03-17,Critical,Medium,None
+945,5265,Response Time,8,24.0,2024-01-23,Major,Medium,Process Review
+946,5275,Response Time,8,24.0,2023-05-16,Critical,High,Manager Notified
+947,5277,Response Time,8,24.0,2023-07-21,Minor,Low,Process Review
+948,5282,Response Time,8,24.0,2023-06-21,Critical,High,Manager Notified
+949,5287,Response Time,2,24.0,2023-07-24,Minor,Low,Manager Notified
+950,5290,Response Time,2,24.0,2024-01-01,Minor,Low,Process Review
+951,5294,Response Time,2,24.0,2023-01-21,Critical,High,Manager Notified
+952,5295,Response Time,2,24.0,2024-03-24,Critical,Medium,Manager Notified
+953,5296,Response Time,8,24.0,2024-01-05,Critical,Medium,Manager Notified
+954,5304,Response Time,2,24.0,2023-01-05,Minor,High,None
+955,5307,Response Time,2,24.0,2024-06-15,Critical,Low,None
+956,5310,Response Time,2,24.0,2024-09-13,Minor,Medium,Manager Notified
+957,5313,Response Time,2,24.0,2023-12-05,Critical,Low,None
+958,5320,Response Time,8,24.0,2023-02-03,Major,Low,None
+959,5323,Response Time,2,24.0,2024-09-09,Major,Medium,Escalated
+960,5327,Response Time,2,24.0,2023-12-16,Major,Medium,Process Review
+961,5329,Response Time,2,24.0,2023-08-10,Critical,High,None
+962,5330,Response Time,2,24.0,2024-10-13,Minor,Low,Escalated
+963,5331,Response Time,2,24.0,2024-11-16,Major,Low,Process Review
+964,5332,Response Time,8,24.0,2023-07-13,Major,Medium,Process Review
+965,5348,Response Time,8,48.0,2024-02-16,Major,Low,None
+966,5356,Response Time,8,24.0,2023-06-12,Major,High,Manager Notified
+967,5364,Response Time,2,24.0,2024-03-21,Minor,Low,None
+968,5368,Response Time,8,24.0,2023-11-25,Major,High,None
+969,5371,Response Time,2,24.0,2023-06-14,Critical,High,Manager Notified
+970,5375,Response Time,2,24.0,2024-12-10,Minor,Medium,Escalated
+971,5380,Response Time,2,24.0,2024-07-10,Major,Medium,Manager Notified
+972,5385,Response Time,8,24.0,2023-02-27,Critical,Low,Process Review
+973,5386,Response Time,2,24.0,2024-10-01,Minor,Medium,Escalated
+974,5390,Response Time,2,24.0,2023-03-17,Critical,High,Process Review
+975,5394,Response Time,8,24.0,2024-07-01,Minor,Medium,Process Review
+976,5395,Response Time,2,24.0,2024-09-14,Major,Medium,Process Review
+977,5401,Response Time,2,24.0,2024-10-30,Critical,High,Manager Notified
+978,5408,Response Time,8,24.0,2023-04-28,Minor,Medium,Escalated
+979,5409,Response Time,2,24.0,2024-06-09,Minor,Low,None
+980,5418,Response Time,2,24.0,2024-11-13,Major,High,Process Review
+981,5423,Response Time,2,24.0,2023-06-14,Major,Low,Escalated
+982,5440,Response Time,2,24.0,2024-01-31,Critical,Low,Manager Notified
+983,5443,Response Time,2,24.0,2023-09-17,Critical,Low,Manager Notified
+984,5461,Response Time,8,24.0,2024-12-25,Critical,Medium,None
+985,5472,Response Time,8,24.0,2024-02-05,Critical,Low,Manager Notified
+986,5477,Response Time,24,48.0,2024-07-06,Minor,Low,Escalated
+987,5478,Response Time,8,24.0,2024-01-20,Critical,High,Manager Notified
+988,5480,Response Time,2,24.0,2023-11-25,Minor,Low,Process Review
+989,5481,Response Time,2,24.0,2024-07-04,Major,Low,None
+990,5482,Response Time,8,24.0,2023-09-18,Major,High,Manager Notified
+991,5485,Response Time,8,24.0,2024-07-23,Minor,Medium,Escalated
+992,5488,Response Time,8,24.0,2024-06-22,Minor,High,Process Review
+993,5489,Response Time,8,24.0,2024-11-07,Minor,High,None
+994,5491,Response Time,8,24.0,2024-12-11,Critical,Low,Escalated
+995,5495,Response Time,2,24.0,2023-11-26,Minor,Medium,Escalated
+996,5509,Response Time,2,24.0,2023-11-17,Major,High,Escalated
+997,5511,Response Time,8,24.0,2023-04-15,Minor,Low,Manager Notified
+998,5524,Response Time,8,24.0,2023-04-09,Critical,Low,Process Review
+999,5543,Response Time,8,24.0,2024-11-03,Major,High,Process Review
+1000,5544,Response Time,8,24.0,2023-11-15,Critical,High,Manager Notified
+1001,5549,Response Time,2,24.0,2024-09-27,Major,Low,None
+1002,5550,Response Time,2,24.0,2023-06-16,Minor,Low,Process Review
+1003,5565,Response Time,8,24.0,2024-06-12,Minor,Low,Manager Notified
+1004,5567,Response Time,8,24.0,2024-06-01,Critical,High,None
+1005,5572,Response Time,8,24.0,2023-06-27,Major,High,Manager Notified
+1006,5581,Response Time,8,24.0,2023-08-14,Critical,Medium,Escalated
+1007,5586,Response Time,2,24.0,2023-02-01,Critical,Medium,Manager Notified
+1008,5591,Response Time,2,24.0,2023-03-12,Minor,Medium,Manager Notified
+1009,5596,Response Time,8,24.0,2023-01-03,Critical,High,Process Review
+1010,5605,Response Time,8,24.0,2024-07-25,Major,Low,Escalated
+1011,5606,Response Time,2,24.0,2023-01-21,Critical,Low,None
+1012,5608,Response Time,2,24.0,2024-04-28,Critical,Medium,None
+1013,5611,Response Time,2,24.0,2023-03-14,Major,High,Manager Notified
+1014,5614,Response Time,8,24.0,2023-02-07,Critical,Medium,Process Review
+1015,5621,Response Time,2,24.0,2024-07-23,Critical,Low,Manager Notified
+1016,5622,Response Time,2,24.0,2023-03-30,Critical,Medium,Manager Notified
+1017,5626,Response Time,8,24.0,2023-11-11,Major,High,Escalated
+1018,5639,Response Time,2,24.0,2024-12-14,Major,Low,Escalated
+1019,5649,Response Time,8,24.0,2024-08-30,Minor,Low,Escalated
+1020,5652,Response Time,2,24.0,2023-06-08,Critical,Medium,Escalated
+1021,5660,Response Time,8,24.0,2023-10-15,Critical,Low,Process Review
+1022,5673,Response Time,8,24.0,2023-03-01,Critical,Medium,None
+1023,5679,Response Time,8,24.0,2024-12-07,Critical,Medium,None
+1024,5681,Response Time,2,24.0,2023-06-30,Major,High,Process Review
+1025,5682,Response Time,2,24.0,2024-04-19,Critical,High,None
+1026,5693,Response Time,2,24.0,2023-01-21,Critical,High,Escalated
+1027,5707,Response Time,2,24.0,2023-05-08,Major,Low,Escalated
+1028,5715,Response Time,8,24.0,2023-06-23,Major,Medium,Manager Notified
+1029,5716,Response Time,2,24.0,2023-11-05,Minor,Low,None
+1030,5717,Response Time,2,24.0,2024-06-01,Critical,High,Process Review
+1031,5718,Response Time,8,24.0,2024-11-10,Major,Low,None
+1032,5719,Response Time,2,24.0,2024-01-28,Major,Low,Manager Notified
+1033,5724,Response Time,2,24.0,2024-05-06,Critical,High,None
+1034,5726,Response Time,2,24.0,2024-12-13,Critical,Medium,Process Review
+1035,5735,Response Time,2,48.0,2023-04-10,Critical,Medium,Manager Notified
+1036,5737,Response Time,2,24.0,2023-10-19,Major,High,Manager Notified
+1037,5742,Response Time,2,24.0,2024-11-09,Critical,Low,Escalated
+1038,5750,Response Time,2,48.0,2024-07-29,Minor,Low,None
+1039,5755,Response Time,8,24.0,2023-02-15,Minor,High,Escalated
+1040,5771,Response Time,2,24.0,2023-11-22,Major,Medium,Manager Notified
+1041,5773,Response Time,2,24.0,2024-05-23,Critical,Low,Escalated
+1042,5776,Response Time,24,48.0,2024-11-20,Major,Low,Process Review
+1043,5779,Response Time,2,24.0,2024-04-08,Major,Low,Process Review
+1044,5781,Response Time,8,24.0,2023-05-07,Major,Low,Manager Notified
+1045,5782,Response Time,2,24.0,2024-03-22,Minor,Low,Manager Notified
+1046,5788,Response Time,2,24.0,2024-05-02,Minor,Low,Manager Notified
+1047,5789,Response Time,8,24.0,2023-04-13,Critical,Medium,Manager Notified
+1048,5791,Response Time,2,24.0,2024-09-16,Critical,High,Manager Notified
+1049,5816,Response Time,8,24.0,2024-07-04,Critical,Low,Process Review
+1050,5817,Response Time,2,24.0,2023-12-19,Minor,Medium,None
+1051,5818,Response Time,8,24.0,2024-11-29,Critical,High,Escalated
+1052,5819,Response Time,8,24.0,2023-01-16,Minor,Medium,None
+1053,5823,Response Time,8,24.0,2023-10-23,Critical,High,None
+1054,5825,Response Time,2,24.0,2024-07-17,Minor,Medium,Escalated
+1055,5829,Response Time,8,24.0,2024-10-16,Major,High,Process Review
+1056,5830,Response Time,8,24.0,2023-05-17,Critical,Medium,None
+1057,5831,Response Time,8,24.0,2024-09-20,Minor,Low,Manager Notified
+1058,5836,Response Time,8,24.0,2023-09-25,Critical,Low,Process Review
+1059,5837,Response Time,8,24.0,2023-08-09,Critical,Medium,Process Review
+1060,5839,Response Time,2,24.0,2024-03-04,Major,Low,None
+1061,5849,Response Time,2,24.0,2024-01-05,Minor,Medium,Manager Notified
+1062,5852,Response Time,2,24.0,2024-12-28,Critical,Medium,None
+1063,5856,Response Time,2,24.0,2024-05-17,Critical,Low,Manager Notified
+1064,5859,Response Time,2,24.0,2024-05-15,Major,High,Process Review
+1065,5869,Response Time,8,24.0,2024-08-22,Major,Medium,Process Review
+1066,5870,Response Time,2,24.0,2024-09-06,Major,Low,Manager Notified
+1067,5884,Response Time,2,24.0,2023-06-12,Critical,Medium,Process Review
+1068,5893,Response Time,8,24.0,2023-04-29,Minor,Medium,Escalated
+1069,5924,Response Time,2,24.0,2023-11-26,Major,Low,None
+1070,5933,Response Time,8,24.0,2023-06-06,Major,High,Manager Notified
+1071,5936,Response Time,2,24.0,2024-12-01,Critical,High,Process Review
+1072,5939,Response Time,2,24.0,2023-03-19,Critical,High,Process Review
+1073,5950,Response Time,8,24.0,2024-05-06,Critical,High,None
+1074,5962,Response Time,2,24.0,2023-03-18,Critical,High,Escalated
+1075,5968,Response Time,2,24.0,2024-07-16,Critical,High,Escalated
+1076,5977,Response Time,2,24.0,2024-12-06,Major,Low,None
+1077,5986,Response Time,2,24.0,2024-04-22,Major,High,Process Review
+1078,5991,Response Time,2,24.0,2023-02-12,Critical,High,Manager Notified
+1079,5993,Response Time,8,24.0,2024-02-15,Critical,Low,Escalated
+1080,5997,Response Time,2,24.0,2024-10-21,Critical,Low,Escalated
+1081,6012,Response Time,8,24.0,2024-08-07,Minor,Medium,Escalated
+1082,6017,Response Time,8,24.0,2023-08-02,Major,High,Escalated
+1083,6025,Response Time,8,24.0,2023-11-13,Minor,High,Process Review
+1084,6027,Response Time,8,24.0,2024-10-21,Critical,Medium,Escalated
+1085,6028,Response Time,2,24.0,2024-06-14,Major,High,Escalated
+1086,6033,Response Time,8,24.0,2023-10-07,Major,Low,None
+1087,6042,Response Time,2,24.0,2024-06-05,Critical,Medium,Process Review
+1088,6043,Response Time,8,24.0,2024-09-07,Minor,High,Escalated
+1089,6044,Response Time,2,24.0,2024-09-29,Minor,Low,Escalated
+1090,6045,Response Time,2,24.0,2023-06-09,Critical,Medium,Escalated
+1091,6049,Response Time,2,24.0,2023-07-20,Critical,Low,None
+1092,6055,Response Time,8,24.0,2024-06-20,Major,High,Manager Notified
+1093,6066,Response Time,8,24.0,2023-06-18,Critical,Low,None
+1094,6068,Response Time,8,24.0,2023-09-23,Major,Low,Escalated
+1095,6091,Response Time,2,24.0,2024-05-29,Minor,Medium,Manager Notified
+1096,6097,Response Time,8,24.0,2023-06-01,Major,Medium,Process Review
+1097,6104,Response Time,8,24.0,2024-02-24,Minor,Low,Escalated
+1098,6106,Response Time,2,24.0,2023-09-14,Major,Low,Manager Notified
+1099,6122,Response Time,8,24.0,2023-03-19,Minor,Low,None
+1100,6125,Response Time,8,24.0,2023-09-08,Minor,Low,Process Review
+1101,6135,Response Time,2,24.0,2024-04-05,Critical,High,Manager Notified
+1102,6138,Response Time,2,24.0,2024-04-11,Major,High,Escalated
+1103,6141,Response Time,2,24.0,2024-07-11,Major,High,Manager Notified
+1104,6143,Response Time,8,24.0,2024-02-11,Critical,High,Process Review
+1105,6149,Response Time,8,24.0,2024-06-26,Critical,Medium,None
+1106,6153,Response Time,8,24.0,2023-02-02,Minor,Low,Process Review
+1107,6159,Response Time,2,24.0,2024-01-23,Critical,High,Escalated
+1108,6161,Response Time,2,24.0,2023-10-06,Critical,High,None
+1109,6169,Response Time,8,24.0,2023-01-20,Major,Medium,None
+1110,6174,Response Time,2,24.0,2023-09-22,Major,High,Escalated
+1111,6183,Response Time,8,24.0,2024-09-19,Minor,High,Manager Notified
+1112,6186,Response Time,2,48.0,2023-01-25,Minor,Low,Manager Notified
+1113,6211,Response Time,8,24.0,2023-12-06,Major,High,Process Review
+1114,6232,Response Time,8,24.0,2024-05-30,Major,Low,Manager Notified
+1115,6246,Response Time,2,24.0,2024-12-31,Critical,High,Process Review
+1116,6249,Response Time,2,24.0,2023-06-29,Major,Medium,Process Review
+1117,6252,Response Time,2,24.0,2023-05-17,Critical,Medium,None
+1118,6259,Response Time,2,24.0,2024-07-06,Critical,High,Manager Notified
+1119,6261,Response Time,8,24.0,2024-05-01,Critical,High,None
+1120,6262,Response Time,8,24.0,2024-10-08,Minor,Low,Escalated
+1121,6265,Response Time,2,24.0,2024-02-09,Critical,High,Escalated
+1122,6270,Response Time,8,24.0,2023-08-12,Critical,Medium,Process Review
+1123,6271,Response Time,2,24.0,2024-11-05,Critical,Low,Process Review
+1124,6273,Response Time,8,24.0,2024-02-19,Major,Medium,Process Review
+1125,6277,Response Time,8,24.0,2024-05-23,Major,Low,Manager Notified
+1126,6278,Response Time,8,24.0,2024-05-25,Minor,Medium,None
+1127,6288,Response Time,24,48.0,2023-11-27,Critical,High,Manager Notified
+1128,6294,Response Time,8,24.0,2023-05-08,Major,High,Escalated
+1129,6299,Response Time,8,24.0,2023-08-29,Critical,High,Escalated
+1130,6302,Response Time,8,24.0,2024-02-01,Major,High,None
+1131,6310,Response Time,8,24.0,2023-12-23,Minor,Low,Process Review
+1132,6313,Response Time,8,24.0,2023-10-30,Major,High,Manager Notified
+1133,6322,Response Time,8,24.0,2023-08-13,Critical,Low,None
+1134,6332,Response Time,2,24.0,2024-10-17,Minor,Medium,Manager Notified
+1135,6335,Response Time,8,24.0,2023-03-04,Minor,High,Escalated
+1136,6340,Response Time,8,24.0,2024-04-25,Major,Low,None
+1137,6344,Response Time,8,24.0,2023-10-02,Critical,Low,Process Review
+1138,6347,Response Time,8,48.0,2023-05-17,Major,Medium,Process Review
+1139,6352,Response Time,2,24.0,2023-01-15,Critical,Low,None
+1140,6357,Response Time,2,24.0,2024-04-26,Critical,Low,Manager Notified
+1141,6366,Response Time,2,24.0,2023-06-15,Major,High,Escalated
+1142,6374,Response Time,8,24.0,2023-12-28,Major,Medium,None
+1143,6383,Response Time,8,24.0,2024-11-16,Critical,High,Process Review
+1144,6390,Response Time,2,24.0,2024-05-23,Major,Medium,None
+1145,6395,Response Time,8,24.0,2023-09-06,Major,High,Escalated
+1146,6396,Response Time,8,24.0,2024-07-03,Minor,Low,None
+1147,6400,Response Time,8,24.0,2024-09-04,Minor,High,Process Review
+1148,6404,Response Time,2,24.0,2024-05-13,Minor,Medium,Escalated
+1149,6423,Response Time,8,24.0,2023-04-03,Critical,High,Process Review
+1150,6426,Response Time,8,24.0,2024-09-03,Minor,High,Manager Notified
+1151,6432,Response Time,2,24.0,2024-04-10,Major,Low,Process Review
+1152,6436,Response Time,2,24.0,2023-02-24,Critical,Low,Manager Notified
+1153,6438,Response Time,2,24.0,2024-07-06,Critical,High,Manager Notified
+1154,6441,Response Time,8,24.0,2024-09-13,Major,Medium,Manager Notified
+1155,6447,Response Time,2,24.0,2024-01-10,Critical,High,Process Review
+1156,6457,Response Time,2,24.0,2023-09-03,Minor,Medium,Manager Notified
+1157,6460,Response Time,8,24.0,2024-02-16,Minor,Medium,Escalated
+1158,6471,Response Time,8,24.0,2024-10-09,Major,Medium,Manager Notified
+1159,6478,Response Time,2,24.0,2024-07-11,Critical,Low,None
+1160,6480,Response Time,2,24.0,2023-02-16,Critical,Low,Manager Notified
+1161,6481,Response Time,8,24.0,2023-11-17,Minor,Low,Process Review
+1162,6485,Response Time,8,48.0,2024-09-27,Minor,Low,None
+1163,6491,Response Time,2,24.0,2024-01-22,Minor,Low,Manager Notified
+1164,6496,Response Time,8,24.0,2023-02-19,Critical,Low,Escalated
+1165,6509,Response Time,24,48.0,2023-02-16,Minor,Medium,Escalated
+1166,6513,Response Time,2,24.0,2024-02-28,Minor,Low,Process Review
+1167,6517,Response Time,8,24.0,2024-09-15,Major,Medium,None
+1168,6518,Response Time,2,24.0,2023-10-29,Minor,Medium,None
+1169,6521,Response Time,2,24.0,2024-11-23,Critical,Medium,Manager Notified
+1170,6522,Response Time,2,24.0,2023-02-09,Minor,High,Manager Notified
+1171,6523,Response Time,8,24.0,2023-08-14,Major,Low,Escalated
+1172,6524,Response Time,8,24.0,2024-11-29,Major,Medium,Escalated
+1173,6530,Response Time,2,24.0,2023-12-26,Critical,High,Process Review
+1174,6531,Response Time,8,24.0,2023-11-06,Minor,High,Escalated
+1175,6537,Response Time,8,48.0,2023-02-11,Minor,High,None
+1176,6546,Response Time,8,24.0,2023-07-03,Major,High,Process Review
+1177,6555,Response Time,8,24.0,2024-04-18,Minor,High,Process Review
+1178,6565,Response Time,2,24.0,2023-02-07,Critical,Low,Process Review
+1179,6567,Response Time,8,24.0,2023-04-03,Critical,High,None
+1180,6570,Response Time,8,24.0,2023-12-22,Major,Low,Manager Notified
+1181,6577,Response Time,24,48.0,2024-10-22,Minor,Low,Manager Notified
+1182,6578,Response Time,2,24.0,2024-03-26,Minor,High,None
+1183,6585,Response Time,2,24.0,2024-06-14,Major,Medium,Escalated
+1184,6586,Response Time,8,24.0,2023-11-23,Minor,Low,Manager Notified
+1185,6600,Response Time,2,24.0,2024-06-19,Minor,Low,None
+1186,6602,Response Time,8,24.0,2023-12-30,Minor,High,None
+1187,6624,Response Time,8,24.0,2024-05-25,Minor,Low,None
+1188,6628,Response Time,2,24.0,2023-03-09,Major,High,None
+1189,6631,Response Time,8,24.0,2023-01-23,Major,Medium,Escalated
+1190,6632,Response Time,2,24.0,2024-08-26,Minor,High,Manager Notified
+1191,6633,Response Time,2,24.0,2024-02-18,Critical,High,Process Review
+1192,6643,Response Time,8,24.0,2023-05-10,Minor,High,None
+1193,6650,Response Time,2,24.0,2023-03-03,Major,Low,Escalated
+1194,6651,Response Time,2,24.0,2023-03-02,Major,Medium,Manager Notified
+1195,6654,Response Time,2,24.0,2024-12-02,Minor,Low,Manager Notified
+1196,6656,Response Time,2,24.0,2024-11-15,Minor,Low,None
+1197,6667,Response Time,8,24.0,2024-07-01,Major,Low,Process Review
+1198,6670,Response Time,8,48.0,2023-08-13,Major,High,Escalated
+1199,6676,Response Time,8,24.0,2023-09-29,Major,Medium,Manager Notified
+1200,6681,Response Time,8,24.0,2023-03-06,Major,High,Process Review
+1201,6683,Response Time,8,24.0,2024-05-05,Minor,Medium,Escalated
+1202,6684,Response Time,8,48.0,2023-01-25,Minor,Medium,Escalated
+1203,6695,Response Time,2,24.0,2023-02-07,Major,Medium,None
+1204,6725,Response Time,2,24.0,2023-06-29,Critical,Low,None
+1205,6726,Response Time,24,48.0,2024-09-15,Critical,High,None
+1206,6728,Response Time,8,24.0,2024-10-19,Critical,Medium,Process Review
+1207,6730,Response Time,8,24.0,2023-01-12,Critical,Low,None
+1208,6737,Response Time,2,24.0,2024-01-08,Major,Low,Manager Notified
+1209,6738,Response Time,8,24.0,2023-05-03,Major,Low,Process Review
+1210,6745,Response Time,8,24.0,2024-10-28,Critical,Medium,Manager Notified
+1211,6746,Response Time,2,24.0,2024-01-22,Critical,High,Escalated
+1212,6750,Response Time,8,24.0,2024-03-03,Critical,Low,None
+1213,6751,Response Time,8,24.0,2023-10-13,Major,High,Escalated
+1214,6758,Response Time,2,24.0,2024-08-09,Major,Low,Manager Notified
+1215,6773,Response Time,8,24.0,2023-12-09,Minor,Medium,Escalated
+1216,6794,Response Time,8,24.0,2023-12-14,Minor,High,Process Review
+1217,6799,Response Time,2,24.0,2024-12-15,Critical,Low,Process Review
+1218,6801,Response Time,8,24.0,2024-08-31,Minor,Medium,None
+1219,6803,Response Time,8,24.0,2024-07-11,Critical,Medium,Process Review
+1220,6809,Response Time,2,24.0,2024-04-17,Critical,Low,Escalated
+1221,6821,Response Time,2,48.0,2023-09-06,Major,High,Manager Notified
+1222,6822,Response Time,2,24.0,2023-02-22,Critical,High,Escalated
+1223,6826,Response Time,8,24.0,2023-09-30,Critical,Low,Process Review
+1224,6846,Response Time,8,24.0,2023-09-16,Critical,Medium,Escalated
+1225,6847,Response Time,8,24.0,2023-08-07,Major,Medium,Process Review
+1226,6856,Response Time,8,24.0,2023-08-16,Minor,Medium,None
+1227,6868,Response Time,8,24.0,2024-04-15,Critical,High,Escalated
+1228,6870,Response Time,8,24.0,2024-09-14,Minor,Low,Escalated
+1229,6873,Response Time,8,24.0,2024-06-02,Major,High,Escalated
+1230,6875,Response Time,8,24.0,2023-08-20,Major,Medium,Manager Notified
+1231,6882,Response Time,8,24.0,2024-01-25,Major,Low,Process Review
+1232,6885,Response Time,8,24.0,2024-11-02,Critical,Medium,Process Review
+1233,6886,Response Time,2,24.0,2024-05-11,Minor,Medium,Escalated
+1234,6900,Response Time,2,24.0,2024-08-29,Minor,High,Manager Notified
+1235,6903,Response Time,2,24.0,2024-02-05,Minor,Medium,None
+1236,6907,Response Time,8,24.0,2023-10-19,Critical,Medium,None
+1237,6910,Response Time,2,24.0,2024-10-16,Critical,Medium,Manager Notified
+1238,6914,Response Time,8,24.0,2023-09-19,Minor,Low,Manager Notified
+1239,6915,Response Time,2,24.0,2023-06-28,Critical,Medium,Escalated
+1240,6916,Response Time,2,48.0,2024-08-24,Critical,Medium,Escalated
+1241,6917,Response Time,8,24.0,2024-01-08,Minor,Low,Process Review
+1242,6920,Response Time,2,24.0,2023-12-28,Major,Low,Manager Notified
+1243,6933,Response Time,8,24.0,2023-08-15,Major,Low,Manager Notified
+1244,6948,Response Time,2,24.0,2024-04-23,Critical,Low,None
+1245,6957,Response Time,8,24.0,2023-12-26,Critical,Low,None
+1246,6958,Response Time,2,24.0,2023-08-19,Minor,Low,Manager Notified
+1247,6959,Response Time,2,24.0,2023-02-13,Major,Medium,None
+1248,6969,Response Time,2,24.0,2023-06-11,Critical,High,Manager Notified
+1249,6973,Response Time,2,24.0,2023-08-24,Minor,High,Manager Notified
+1250,6977,Response Time,2,24.0,2024-12-25,Minor,Medium,Process Review
+1251,6984,Response Time,2,24.0,2023-08-07,Major,Low,Escalated
+1252,6986,Response Time,8,24.0,2023-08-04,Minor,High,Escalated
+1253,6990,Response Time,2,24.0,2024-01-05,Major,High,None
+1254,6993,Response Time,2,24.0,2023-08-09,Minor,Medium,None
+1255,7001,Response Time,2,24.0,2024-06-30,Minor,Low,None
+1256,7003,Response Time,24,48.0,2023-06-19,Critical,Low,Manager Notified
+1257,7015,Response Time,8,24.0,2024-06-27,Major,Medium,Escalated
+1258,7023,Response Time,2,24.0,2024-05-11,Major,Low,Process Review
+1259,7028,Response Time,8,24.0,2024-09-20,Critical,Low,Process Review
+1260,7032,Response Time,2,24.0,2023-04-14,Major,High,Process Review
+1261,7043,Response Time,2,24.0,2023-02-22,Critical,Medium,Manager Notified
+1262,7046,Response Time,2,24.0,2024-10-04,Minor,High,Escalated
+1263,7056,Response Time,8,24.0,2024-10-24,Critical,High,Escalated
+1264,7067,Response Time,8,24.0,2024-01-19,Major,High,Escalated
+1265,7071,Response Time,2,24.0,2024-02-04,Critical,Medium,Process Review
+1266,7072,Response Time,8,24.0,2024-08-18,Minor,Medium,Process Review
+1267,7086,Response Time,8,24.0,2023-05-18,Major,Low,Manager Notified
+1268,7087,Response Time,2,24.0,2024-08-11,Minor,High,Process Review
+1269,7107,Response Time,8,24.0,2023-08-31,Major,High,Manager Notified
+1270,7111,Response Time,2,24.0,2023-07-22,Major,Low,Process Review
+1271,7120,Response Time,2,48.0,2023-07-21,Major,Low,Escalated
+1272,7129,Response Time,2,24.0,2024-12-13,Critical,Low,Manager Notified
+1273,7146,Response Time,2,24.0,2023-11-23,Minor,High,Process Review
+1274,7148,Response Time,8,24.0,2024-06-18,Major,Medium,Escalated
+1275,7157,Response Time,8,24.0,2023-02-01,Major,High,Manager Notified
+1276,7159,Response Time,8,24.0,2023-04-05,Critical,Low,None
+1277,7168,Response Time,8,24.0,2024-07-12,Critical,High,Escalated
+1278,7173,Response Time,2,24.0,2024-07-22,Minor,Low,Process Review
+1279,7174,Response Time,8,24.0,2024-02-14,Critical,High,Escalated
+1280,7177,Response Time,2,24.0,2023-08-22,Critical,Low,None
+1281,7184,Response Time,8,24.0,2024-01-16,Minor,Medium,None
+1282,7186,Response Time,24,48.0,2023-07-20,Major,Medium,Process Review
+1283,7189,Response Time,8,24.0,2024-07-04,Major,High,Process Review
+1284,7191,Response Time,8,24.0,2024-03-11,Major,Medium,Process Review
+1285,7192,Response Time,8,24.0,2024-04-24,Major,Medium,Escalated
+1286,7223,Response Time,8,24.0,2023-06-22,Major,High,None
+1287,7232,Response Time,2,24.0,2024-11-06,Major,Low,None
+1288,7255,Response Time,8,24.0,2023-05-17,Critical,Medium,Process Review
+1289,7256,Response Time,2,24.0,2023-08-02,Critical,High,None
+1290,7259,Response Time,8,24.0,2024-10-09,Critical,Low,Escalated
+1291,7272,Response Time,2,24.0,2024-02-16,Critical,Low,Escalated
+1292,7279,Response Time,2,24.0,2024-09-08,Minor,Low,Process Review
+1293,7284,Response Time,8,24.0,2023-03-24,Major,Low,Process Review
+1294,7287,Response Time,2,24.0,2024-06-02,Critical,High,Process Review
+1295,7295,Response Time,8,24.0,2023-02-22,Critical,Low,Process Review
+1296,7298,Response Time,2,24.0,2024-09-08,Major,Medium,None
+1297,7301,Response Time,8,24.0,2023-12-25,Minor,Low,Escalated
+1298,7302,Response Time,2,24.0,2024-02-01,Minor,Medium,Manager Notified
+1299,7312,Response Time,2,24.0,2024-04-18,Minor,Medium,Manager Notified
+1300,7333,Response Time,8,24.0,2024-10-24,Critical,High,Process Review
+1301,7337,Response Time,2,24.0,2024-07-29,Critical,High,Process Review
+1302,7339,Response Time,2,24.0,2023-02-26,Minor,High,Escalated
+1303,7346,Response Time,8,24.0,2024-02-21,Major,Low,None
+1304,7358,Response Time,8,24.0,2024-11-27,Minor,Low,None
+1305,7363,Response Time,8,24.0,2024-06-02,Major,High,None
+1306,7370,Response Time,2,24.0,2024-09-28,Minor,High,None
+1307,7373,Response Time,2,48.0,2023-05-01,Critical,Medium,None
+1308,7377,Response Time,8,24.0,2023-03-24,Critical,High,Process Review
+1309,7378,Response Time,24,48.0,2023-04-25,Major,Low,Process Review
+1310,7393,Response Time,2,24.0,2023-04-07,Major,Medium,Escalated
+1311,7394,Response Time,2,24.0,2024-03-18,Critical,Low,Escalated
+1312,7399,Response Time,8,24.0,2023-08-14,Major,Low,Manager Notified
+1313,7403,Response Time,8,24.0,2023-09-27,Major,Low,Process Review
+1314,7417,Response Time,2,24.0,2023-09-14,Critical,High,Process Review
+1315,7427,Response Time,8,24.0,2024-06-20,Minor,Medium,Escalated
+1316,7429,Response Time,8,24.0,2024-11-01,Minor,High,None
+1317,7431,Response Time,8,24.0,2023-06-12,Critical,Low,Escalated
+1318,7452,Response Time,8,24.0,2024-02-20,Major,Low,Process Review
+1319,7455,Response Time,8,24.0,2023-12-03,Major,Medium,Escalated
+1320,7457,Response Time,8,24.0,2023-04-08,Major,Medium,Manager Notified
+1321,7461,Response Time,2,24.0,2023-03-17,Minor,Medium,None
+1322,7462,Response Time,8,24.0,2024-03-14,Minor,Low,Escalated
+1323,7467,Response Time,2,24.0,2024-09-09,Major,Low,Process Review
+1324,7470,Response Time,2,24.0,2024-05-08,Minor,Medium,Process Review
+1325,7478,Response Time,2,24.0,2024-09-08,Minor,High,Manager Notified
+1326,7479,Response Time,2,24.0,2023-01-11,Critical,High,None
+1327,7483,Response Time,8,24.0,2024-09-07,Minor,Low,None
+1328,7484,Response Time,24,48.0,2024-11-25,Minor,High,Manager Notified
+1329,7489,Response Time,2,24.0,2023-07-14,Minor,Medium,Escalated
+1330,7493,Response Time,8,24.0,2023-04-18,Critical,Low,Escalated
+1331,7498,Response Time,2,24.0,2024-04-30,Major,Low,Process Review
+1332,7504,Response Time,8,24.0,2023-10-30,Major,Low,Process Review
+1333,7506,Response Time,2,24.0,2024-09-17,Major,Low,Manager Notified
+1334,7513,Response Time,8,24.0,2023-04-07,Minor,High,Process Review
+1335,7526,Response Time,2,24.0,2023-05-16,Major,High,Escalated
+1336,7528,Response Time,2,24.0,2023-10-16,Major,Medium,Manager Notified
+1337,7530,Response Time,8,24.0,2024-04-19,Critical,Low,Process Review
+1338,7532,Response Time,8,24.0,2023-05-13,Major,High,Escalated
+1339,7535,Response Time,8,24.0,2023-02-23,Minor,Medium,Escalated
+1340,7541,Response Time,8,24.0,2024-01-12,Major,High,Manager Notified
+1341,7542,Response Time,2,24.0,2023-01-13,Minor,Medium,Process Review
+1342,7549,Response Time,2,24.0,2023-03-05,Critical,Medium,Escalated
+1343,7553,Response Time,8,24.0,2023-02-08,Critical,Medium,Escalated
+1344,7555,Response Time,8,24.0,2023-03-01,Minor,High,Process Review
+1345,7556,Response Time,8,24.0,2023-03-01,Minor,High,Process Review
+1346,7557,Response Time,2,24.0,2024-11-15,Major,Low,Escalated
+1347,7558,Response Time,8,24.0,2023-08-09,Major,Medium,Process Review
+1348,7576,Response Time,2,24.0,2023-12-31,Critical,Low,Escalated
+1349,7579,Response Time,8,24.0,2024-01-29,Critical,Low,None
+1350,7584,Response Time,2,48.0,2023-12-20,Major,Low,None
+1351,7586,Response Time,8,24.0,2024-10-26,Minor,Medium,Manager Notified
+1352,7588,Response Time,8,24.0,2023-07-17,Major,High,Process Review
+1353,7599,Response Time,8,24.0,2023-12-17,Minor,Medium,None
+1354,7600,Response Time,2,24.0,2024-01-17,Minor,Medium,Manager Notified
+1355,7613,Response Time,2,24.0,2023-06-13,Major,Medium,Manager Notified
+1356,7616,Response Time,2,24.0,2023-03-07,Major,Medium,Manager Notified
+1357,7623,Response Time,2,24.0,2023-05-15,Minor,High,Manager Notified
+1358,7628,Response Time,8,24.0,2024-04-07,Minor,Medium,Manager Notified
+1359,7637,Response Time,2,24.0,2023-08-25,Minor,Low,Manager Notified
+1360,7641,Response Time,2,24.0,2023-02-08,Critical,Low,Process Review
+1361,7662,Response Time,8,24.0,2023-12-02,Critical,Medium,None
+1362,7667,Response Time,2,24.0,2023-06-27,Critical,High,Escalated
+1363,7669,Response Time,2,24.0,2023-04-24,Minor,High,Process Review
+1364,7670,Response Time,2,24.0,2024-11-05,Minor,High,Manager Notified
+1365,7681,Response Time,2,48.0,2023-06-02,Critical,Low,None
+1366,7691,Response Time,2,24.0,2023-06-17,Major,Low,Manager Notified
+1367,7695,Response Time,8,24.0,2023-02-19,Major,Low,Manager Notified
+1368,7696,Response Time,2,24.0,2024-02-20,Minor,High,Manager Notified
+1369,7712,Response Time,2,24.0,2024-08-16,Minor,Medium,Escalated
+1370,7714,Response Time,8,24.0,2024-01-19,Minor,Medium,Escalated
+1371,7728,Response Time,2,24.0,2024-04-19,Critical,Low,None
+1372,7730,Response Time,2,24.0,2024-04-15,Major,Medium,Manager Notified
+1373,7737,Response Time,8,24.0,2023-01-15,Minor,Medium,Escalated
+1374,7749,Response Time,2,24.0,2024-04-23,Critical,Low,Escalated
+1375,7750,Response Time,8,24.0,2023-02-22,Major,High,Escalated
+1376,7751,Response Time,8,24.0,2023-07-01,Critical,High,Process Review
+1377,7752,Response Time,8,24.0,2023-11-17,Critical,Low,Manager Notified
+1378,7756,Response Time,2,24.0,2023-01-04,Minor,Medium,Escalated
+1379,7759,Response Time,8,24.0,2024-03-14,Major,Medium,Escalated
+1380,7763,Response Time,2,24.0,2024-12-30,Critical,High,None
+1381,7775,Response Time,2,48.0,2023-11-09,Major,High,Escalated
+1382,7776,Response Time,8,24.0,2024-03-13,Major,Medium,Escalated
+1383,7781,Response Time,2,24.0,2024-04-07,Minor,Low,Escalated
+1384,7786,Response Time,8,24.0,2024-07-26,Critical,High,Escalated
+1385,7790,Response Time,8,24.0,2024-09-05,Major,Low,Manager Notified
+1386,7791,Response Time,8,24.0,2023-10-25,Critical,Low,None
+1387,7801,Response Time,2,24.0,2024-09-01,Critical,Medium,None
+1388,7814,Response Time,2,24.0,2023-01-11,Major,Medium,None
+1389,7820,Response Time,2,24.0,2024-06-27,Critical,Medium,Escalated
+1390,7821,Response Time,8,24.0,2024-04-28,Minor,Low,Manager Notified
+1391,7836,Response Time,8,24.0,2023-02-21,Minor,Medium,Escalated
+1392,7840,Response Time,8,24.0,2023-02-06,Major,Medium,Escalated
+1393,7845,Response Time,24,48.0,2023-06-30,Major,High,Process Review
+1394,7865,Response Time,2,24.0,2023-11-08,Minor,Low,Escalated
+1395,7869,Response Time,8,24.0,2023-11-07,Minor,Medium,Process Review
+1396,7872,Response Time,8,24.0,2024-09-10,Major,High,Escalated
+1397,7883,Response Time,8,24.0,2023-04-06,Critical,High,Manager Notified
+1398,7886,Response Time,8,24.0,2024-05-22,Major,Low,Manager Notified
+1399,7889,Response Time,8,24.0,2024-10-16,Critical,Low,Process Review
+1400,7896,Response Time,2,24.0,2024-07-13,Critical,High,None
+1401,7897,Response Time,8,24.0,2024-09-12,Minor,Low,Process Review
+1402,7901,Response Time,2,24.0,2023-11-03,Minor,High,Manager Notified
+1403,7909,Response Time,2,24.0,2024-01-06,Critical,High,Process Review
+1404,7917,Response Time,24,48.0,2024-07-07,Minor,High,None
+1405,7918,Response Time,8,24.0,2024-08-25,Critical,Low,Escalated
+1406,7925,Response Time,2,48.0,2024-11-10,Minor,Medium,None
+1407,7951,Response Time,24,48.0,2024-07-18,Major,Medium,Manager Notified
+1408,7954,Response Time,8,24.0,2024-03-19,Minor,Low,Process Review
+1409,7958,Response Time,2,24.0,2023-06-10,Minor,Medium,Process Review
+1410,7960,Response Time,2,24.0,2024-05-13,Minor,High,Escalated
+1411,7970,Response Time,8,24.0,2024-02-26,Major,Low,Escalated
+1412,7984,Response Time,2,24.0,2024-08-26,Major,Medium,Process Review
+1413,7994,Response Time,8,24.0,2023-11-24,Minor,Medium,Process Review
+1414,7996,Response Time,8,24.0,2023-02-15,Minor,Medium,Manager Notified
+1415,8009,Response Time,2,24.0,2024-03-27,Minor,Medium,Process Review
+1416,8010,Response Time,8,24.0,2024-04-19,Minor,Medium,Manager Notified
+1417,8012,Response Time,8,24.0,2023-12-10,Major,Medium,Process Review
+1418,8013,Response Time,2,24.0,2024-05-30,Minor,Low,Process Review
+1419,8019,Response Time,2,24.0,2023-09-16,Critical,Low,None
+1420,8022,Response Time,8,24.0,2024-05-20,Minor,Low,Escalated
+1421,8030,Response Time,8,24.0,2024-10-08,Major,High,Manager Notified
+1422,8036,Response Time,8,24.0,2023-01-11,Critical,Medium,None
+1423,8038,Response Time,8,24.0,2024-01-31,Critical,Low,Escalated
+1424,8039,Response Time,8,24.0,2024-11-29,Critical,High,Manager Notified
+1425,8051,Response Time,8,24.0,2023-05-30,Major,Medium,Process Review
+1426,8053,Response Time,2,48.0,2024-11-13,Major,High,Process Review
+1427,8054,Response Time,8,24.0,2023-10-29,Critical,Medium,Manager Notified
+1428,8056,Response Time,8,24.0,2024-04-03,Minor,Low,None
+1429,8058,Response Time,2,24.0,2024-12-30,Minor,High,Manager Notified
+1430,8061,Response Time,2,24.0,2024-08-11,Critical,High,Escalated
+1431,8071,Response Time,2,24.0,2024-03-15,Minor,Low,Manager Notified
+1432,8086,Response Time,8,24.0,2023-08-22,Major,Medium,Manager Notified
+1433,8092,Response Time,2,24.0,2024-08-01,Major,Low,Process Review
+1434,8094,Response Time,8,24.0,2023-12-12,Major,Medium,Manager Notified
+1435,8104,Response Time,2,24.0,2024-12-03,Critical,Low,Manager Notified
+1436,8108,Response Time,2,24.0,2023-10-23,Critical,Medium,None
+1437,8114,Response Time,8,24.0,2024-08-15,Major,Medium,None
+1438,8116,Response Time,8,24.0,2023-01-26,Major,Low,Process Review
+1439,8126,Response Time,8,24.0,2023-09-24,Critical,High,Process Review
+1440,8127,Response Time,2,24.0,2023-08-12,Critical,High,None
+1441,8131,Response Time,8,24.0,2023-08-17,Major,Medium,Manager Notified
+1442,8140,Response Time,2,24.0,2024-01-15,Minor,High,Escalated
+1443,8144,Response Time,2,48.0,2023-01-03,Minor,Low,Manager Notified
+1444,8152,Response Time,2,24.0,2024-01-07,Minor,Medium,None
+1445,8153,Response Time,2,24.0,2023-09-29,Critical,Medium,None
+1446,8157,Response Time,2,24.0,2024-04-24,Major,Medium,None
+1447,8171,Response Time,8,24.0,2024-09-13,Minor,Medium,Manager Notified
+1448,8175,Response Time,8,24.0,2024-08-01,Minor,Low,Escalated
+1449,8178,Response Time,8,24.0,2024-10-19,Minor,Low,Escalated
+1450,8181,Response Time,2,24.0,2024-10-08,Critical,Low,Process Review
+1451,8182,Response Time,8,24.0,2023-03-13,Critical,Low,Process Review
+1452,8187,Response Time,2,24.0,2023-03-08,Major,Medium,Process Review
+1453,8195,Response Time,8,24.0,2024-07-11,Critical,Low,Process Review
+1454,8196,Response Time,8,24.0,2023-04-25,Minor,Medium,None
+1455,8203,Response Time,2,24.0,2023-05-29,Minor,Low,Escalated
+1456,8208,Response Time,2,24.0,2023-05-18,Critical,High,Escalated
+1457,8209,Response Time,2,48.0,2023-07-04,Critical,Low,Manager Notified
+1458,8215,Response Time,8,24.0,2023-08-29,Minor,High,Process Review
+1459,8219,Response Time,8,48.0,2024-10-15,Major,Medium,Escalated
+1460,8223,Response Time,2,24.0,2024-01-08,Critical,Medium,Escalated
+1461,8225,Response Time,2,24.0,2023-10-10,Critical,High,Manager Notified
+1462,8228,Response Time,2,24.0,2024-04-20,Minor,High,Manager Notified
+1463,8231,Response Time,8,24.0,2024-04-27,Major,Medium,Escalated
+1464,8232,Response Time,8,24.0,2023-04-01,Critical,Medium,Escalated
+1465,8237,Response Time,8,48.0,2023-03-11,Major,Medium,Manager Notified
+1466,8255,Response Time,2,24.0,2024-04-06,Minor,Medium,Process Review
+1467,8257,Response Time,2,24.0,2024-05-22,Minor,High,Process Review
+1468,8259,Response Time,8,24.0,2024-10-19,Critical,Low,Escalated
+1469,8261,Response Time,8,24.0,2024-04-03,Minor,Medium,None
+1470,8281,Response Time,2,24.0,2023-09-20,Critical,Medium,None
+1471,8289,Response Time,2,24.0,2024-05-10,Major,High,Process Review
+1472,8294,Response Time,8,24.0,2023-09-02,Major,High,None
+1473,8296,Response Time,8,48.0,2024-09-14,Minor,High,Manager Notified
+1474,8297,Response Time,2,24.0,2024-09-12,Minor,High,Manager Notified
+1475,8300,Response Time,8,24.0,2023-04-19,Minor,Medium,Manager Notified
+1476,8306,Response Time,8,24.0,2023-11-26,Major,Low,Manager Notified
+1477,8310,Response Time,8,24.0,2023-03-08,Major,Medium,Manager Notified
+1478,8316,Response Time,2,24.0,2023-06-04,Critical,High,Manager Notified
+1479,8321,Response Time,2,24.0,2024-04-28,Major,Medium,Escalated
+1480,8322,Response Time,2,24.0,2023-07-10,Minor,Medium,Manager Notified
+1481,8325,Response Time,8,24.0,2023-05-10,Critical,Low,Manager Notified
+1482,8326,Response Time,8,24.0,2023-09-11,Major,Low,Process Review
+1483,8327,Response Time,2,24.0,2024-08-19,Critical,High,None
+1484,8352,Response Time,2,24.0,2023-11-25,Major,Low,Escalated
+1485,8353,Response Time,8,24.0,2023-01-25,Minor,Medium,Escalated
+1486,8354,Response Time,8,24.0,2023-12-25,Major,Medium,Process Review
+1487,8359,Response Time,2,24.0,2024-04-12,Major,Medium,Escalated
+1488,8373,Response Time,8,24.0,2024-11-30,Minor,Medium,Manager Notified
+1489,8379,Response Time,2,24.0,2024-01-12,Major,Medium,Process Review
+1490,8384,Response Time,2,24.0,2023-06-02,Minor,Low,Process Review
+1491,8385,Response Time,8,24.0,2023-05-04,Minor,Medium,None
+1492,8389,Response Time,8,24.0,2024-07-22,Critical,High,Escalated
+1493,8391,Response Time,2,24.0,2023-08-01,Critical,High,Process Review
+1494,8395,Response Time,2,24.0,2023-12-02,Critical,Low,Manager Notified
+1495,8399,Response Time,8,24.0,2023-11-21,Critical,Low,Manager Notified
+1496,8401,Response Time,2,24.0,2023-10-28,Major,Low,None
+1497,8404,Response Time,8,24.0,2024-11-28,Critical,Medium,Escalated
+1498,8422,Response Time,2,24.0,2024-10-02,Major,Medium,None
+1499,8423,Response Time,8,24.0,2024-08-31,Major,High,None
+1500,8433,Response Time,2,24.0,2024-08-01,Major,Low,None
+1501,8435,Response Time,24,48.0,2023-12-09,Minor,High,Escalated
+1502,8439,Response Time,8,24.0,2024-05-11,Minor,Low,Escalated
+1503,8449,Response Time,8,48.0,2023-08-29,Critical,High,None
+1504,8454,Response Time,8,24.0,2024-04-12,Critical,High,Escalated
+1505,8458,Response Time,2,24.0,2024-03-03,Critical,Low,Escalated
+1506,8475,Response Time,2,24.0,2024-03-05,Critical,Medium,Manager Notified
+1507,8485,Response Time,8,24.0,2024-12-03,Minor,Low,Process Review
+1508,8487,Response Time,2,24.0,2023-05-02,Critical,Low,None
+1509,8502,Response Time,2,24.0,2023-05-21,Critical,Medium,Escalated
+1510,8509,Response Time,2,24.0,2024-10-05,Minor,Low,Process Review
+1511,8510,Response Time,2,24.0,2023-07-30,Major,High,Escalated
+1512,8516,Response Time,2,24.0,2023-02-28,Major,Low,Process Review
+1513,8523,Response Time,8,24.0,2023-01-12,Major,Medium,Manager Notified
+1514,8538,Response Time,2,24.0,2023-12-05,Major,Low,Process Review
+1515,8562,Response Time,2,24.0,2023-04-26,Minor,Low,Escalated
+1516,8572,Response Time,2,24.0,2024-07-29,Minor,High,Process Review
+1517,8576,Response Time,2,24.0,2024-08-10,Minor,Low,Escalated
+1518,8585,Response Time,8,24.0,2023-12-25,Major,Medium,Manager Notified
+1519,8589,Response Time,2,24.0,2023-06-09,Critical,Medium,Escalated
+1520,8593,Response Time,2,24.0,2024-06-10,Critical,Medium,Process Review
+1521,8610,Response Time,2,24.0,2023-06-01,Critical,Medium,None
+1522,8612,Response Time,2,24.0,2023-09-24,Major,Medium,Manager Notified
+1523,8616,Response Time,8,24.0,2023-02-08,Critical,High,Manager Notified
+1524,8624,Response Time,2,24.0,2023-09-04,Major,High,None
+1525,8629,Response Time,2,24.0,2024-01-06,Major,High,None
+1526,8633,Response Time,8,24.0,2024-12-30,Major,Medium,None
+1527,8639,Response Time,2,24.0,2024-06-08,Minor,Medium,Escalated
+1528,8641,Response Time,8,24.0,2024-01-08,Major,Medium,None
+1529,8642,Response Time,8,24.0,2024-03-06,Major,Medium,Manager Notified
+1530,8649,Response Time,2,24.0,2023-08-03,Major,Low,None
+1531,8654,Response Time,8,24.0,2024-05-24,Minor,Low,Manager Notified
+1532,8662,Response Time,8,24.0,2023-03-05,Critical,Medium,Process Review
+1533,8664,Response Time,8,24.0,2024-01-29,Minor,Low,Manager Notified
+1534,8678,Response Time,8,24.0,2024-10-05,Major,Medium,Manager Notified
+1535,8681,Response Time,2,24.0,2023-02-03,Major,Low,Process Review
+1536,8682,Response Time,8,24.0,2023-01-09,Minor,Low,None
+1537,8683,Response Time,8,24.0,2024-05-26,Minor,Low,None
+1538,8687,Response Time,2,24.0,2024-07-17,Minor,High,Manager Notified
+1539,8688,Response Time,2,24.0,2023-02-21,Major,High,Manager Notified
+1540,8697,Response Time,2,24.0,2024-02-14,Minor,High,Manager Notified
+1541,8710,Response Time,8,24.0,2023-10-24,Critical,High,None
+1542,8711,Response Time,8,24.0,2024-10-30,Major,Medium,Escalated
+1543,8716,Response Time,24,48.0,2024-09-08,Major,Medium,Manager Notified
+1544,8718,Response Time,8,24.0,2024-08-14,Major,Medium,Escalated
+1545,8727,Response Time,8,24.0,2023-02-17,Minor,Low,Process Review
+1546,8738,Response Time,8,24.0,2024-08-11,Minor,Low,Process Review
+1547,8740,Response Time,2,24.0,2024-02-20,Critical,Low,None
+1548,8741,Response Time,2,24.0,2023-02-06,Minor,Medium,Process Review
+1549,8743,Response Time,8,24.0,2023-01-14,Minor,High,None
+1550,8745,Response Time,2,24.0,2024-08-30,Minor,Low,Manager Notified
+1551,8758,Response Time,8,24.0,2023-10-08,Critical,Low,None
+1552,8776,Response Time,2,48.0,2023-11-24,Critical,High,Process Review
+1553,8777,Response Time,8,24.0,2023-12-18,Minor,Low,Escalated
+1554,8790,Response Time,8,24.0,2023-12-18,Major,Low,Escalated
+1555,8793,Response Time,8,24.0,2024-08-16,Major,High,Escalated
+1556,8794,Response Time,2,24.0,2023-09-04,Major,Medium,Manager Notified
+1557,8799,Response Time,2,48.0,2023-12-19,Minor,Medium,Escalated
+1558,8808,Response Time,2,48.0,2023-10-18,Critical,High,Manager Notified
+1559,8812,Response Time,8,24.0,2024-09-14,Major,High,Escalated
+1560,8819,Response Time,8,24.0,2023-04-17,Minor,High,Escalated
+1561,8833,Response Time,2,24.0,2024-04-17,Major,Low,Process Review
+1562,8841,Response Time,2,24.0,2023-07-28,Minor,Low,Manager Notified
+1563,8850,Response Time,2,24.0,2023-09-07,Major,High,None
+1564,8860,Response Time,8,48.0,2024-02-11,Critical,Medium,Process Review
+1565,8861,Response Time,8,24.0,2023-10-21,Minor,Low,Escalated
+1566,8863,Response Time,2,24.0,2023-03-30,Minor,High,Manager Notified
+1567,8865,Response Time,2,24.0,2024-10-21,Minor,Low,Process Review
+1568,8867,Response Time,2,24.0,2023-04-16,Major,High,Escalated
+1569,8869,Response Time,8,24.0,2023-12-15,Minor,High,None
+1570,8885,Response Time,8,24.0,2023-11-24,Critical,High,None
+1571,8892,Response Time,8,24.0,2023-03-02,Critical,High,Escalated
+1572,8893,Response Time,8,24.0,2023-06-21,Major,Medium,None
+1573,8894,Response Time,2,24.0,2024-07-23,Major,High,Escalated
+1574,8896,Response Time,8,24.0,2024-03-18,Minor,Low,Manager Notified
+1575,8897,Response Time,8,24.0,2023-10-02,Critical,Medium,Manager Notified
+1576,8900,Response Time,2,24.0,2024-09-23,Minor,High,Process Review
+1577,8909,Response Time,8,24.0,2023-08-25,Major,Medium,None
+1578,8911,Response Time,2,24.0,2024-10-14,Major,Low,Manager Notified
+1579,8914,Response Time,2,24.0,2024-12-02,Major,Low,Process Review
+1580,8917,Response Time,2,48.0,2023-04-06,Minor,High,Process Review
+1581,8918,Response Time,8,24.0,2024-02-04,Critical,High,Process Review
+1582,8922,Response Time,2,24.0,2023-04-10,Minor,Medium,Manager Notified
+1583,8923,Response Time,2,24.0,2024-08-09,Major,High,Manager Notified
+1584,8929,Response Time,2,24.0,2024-05-04,Minor,Low,None
+1585,8932,Response Time,8,24.0,2023-08-30,Minor,High,Escalated
+1586,8939,Response Time,8,24.0,2024-10-19,Critical,High,Escalated
+1587,8953,Response Time,2,24.0,2023-12-05,Critical,Medium,Escalated
+1588,8961,Response Time,2,24.0,2024-12-28,Major,High,Manager Notified
+1589,8962,Response Time,8,24.0,2024-04-15,Critical,Medium,None
+1590,8969,Response Time,8,24.0,2023-10-12,Major,High,Manager Notified
+1591,8982,Response Time,8,24.0,2024-09-05,Minor,Medium,Manager Notified
+1592,8985,Response Time,8,24.0,2024-04-20,Major,High,Process Review
+1593,8988,Response Time,2,24.0,2023-12-11,Minor,High,None
+1594,8991,Response Time,8,24.0,2024-07-16,Critical,Medium,None
+1595,9002,Response Time,24,48.0,2023-07-06,Minor,Low,Escalated
+1596,9010,Response Time,2,24.0,2023-11-08,Major,Low,Manager Notified
+1597,9023,Response Time,2,24.0,2024-04-17,Minor,Low,Manager Notified
+1598,9026,Response Time,2,24.0,2023-07-11,Minor,High,Escalated
+1599,9036,Response Time,8,24.0,2024-03-16,Major,High,Escalated
+1600,9041,Response Time,8,24.0,2023-06-01,Critical,High,Manager Notified
+1601,9048,Response Time,2,24.0,2023-11-18,Critical,High,Escalated
+1602,9051,Response Time,2,24.0,2023-07-19,Minor,Low,Process Review
+1603,9054,Response Time,2,24.0,2023-08-14,Major,High,Process Review
+1604,9073,Response Time,8,24.0,2024-05-09,Major,Medium,Escalated
+1605,9078,Response Time,8,24.0,2024-09-14,Critical,Medium,Manager Notified
+1606,9079,Response Time,2,24.0,2024-09-11,Critical,High,Manager Notified
+1607,9080,Response Time,2,24.0,2024-12-07,Minor,Low,Manager Notified
+1608,9083,Response Time,8,24.0,2024-04-15,Critical,High,Process Review
+1609,9084,Response Time,2,24.0,2024-03-31,Critical,Low,Manager Notified
+1610,9089,Response Time,8,24.0,2024-12-14,Minor,High,Manager Notified
+1611,9098,Response Time,2,24.0,2024-08-06,Minor,Medium,Manager Notified
+1612,9100,Response Time,2,24.0,2024-12-15,Minor,Medium,Process Review
+1613,9102,Response Time,8,24.0,2024-05-28,Critical,Medium,None
+1614,9104,Response Time,2,24.0,2024-07-27,Minor,Medium,None
+1615,9108,Response Time,8,24.0,2024-03-13,Minor,Low,Manager Notified
+1616,9119,Response Time,8,24.0,2024-04-11,Major,High,None
+1617,9122,Response Time,2,48.0,2023-05-05,Major,High,Manager Notified
+1618,9124,Response Time,2,24.0,2023-03-05,Major,Medium,Escalated
+1619,9127,Response Time,8,24.0,2023-03-18,Minor,High,Process Review
+1620,9131,Response Time,8,24.0,2023-02-04,Critical,Low,Escalated
+1621,9141,Response Time,8,24.0,2023-05-27,Major,Medium,Escalated
+1622,9142,Response Time,8,24.0,2023-07-18,Major,Medium,Escalated
+1623,9146,Response Time,2,24.0,2024-09-22,Major,Low,None
+1624,9159,Response Time,8,24.0,2024-02-02,Minor,Low,Process Review
+1625,9166,Response Time,8,24.0,2024-05-22,Critical,Medium,Process Review
+1626,9168,Response Time,8,24.0,2023-05-10,Minor,Medium,Manager Notified
+1627,9174,Response Time,2,24.0,2023-07-09,Critical,Medium,None
+1628,9175,Response Time,2,24.0,2023-02-12,Critical,High,Process Review
+1629,9181,Response Time,2,24.0,2024-09-09,Major,High,Escalated
+1630,9186,Response Time,8,24.0,2024-12-09,Critical,Low,Escalated
+1631,9197,Response Time,8,24.0,2024-07-09,Major,Medium,Process Review
+1632,9198,Response Time,2,24.0,2024-03-14,Minor,High,Escalated
+1633,9206,Response Time,2,24.0,2024-12-21,Critical,Medium,Escalated
+1634,9209,Response Time,8,24.0,2023-09-11,Critical,Low,Process Review
+1635,9212,Response Time,8,24.0,2024-03-12,Critical,High,None
+1636,9223,Response Time,8,24.0,2023-06-16,Minor,Low,Manager Notified
+1637,9225,Response Time,8,24.0,2024-12-08,Critical,Low,Process Review
+1638,9228,Response Time,8,24.0,2024-09-17,Major,Low,Process Review
+1639,9239,Response Time,2,24.0,2024-01-14,Critical,Low,None
+1640,9241,Response Time,8,24.0,2023-04-11,Minor,High,Escalated
+1641,9248,Response Time,8,24.0,2023-12-05,Minor,High,Escalated
+1642,9256,Response Time,2,24.0,2023-05-05,Minor,Medium,Manager Notified
+1643,9257,Response Time,2,24.0,2023-01-05,Major,Low,Manager Notified
+1644,9262,Response Time,2,24.0,2024-08-21,Major,Low,Escalated
+1645,9264,Response Time,2,24.0,2023-10-17,Minor,Low,Process Review
+1646,9266,Response Time,2,24.0,2023-04-04,Critical,Medium,Process Review
+1647,9268,Response Time,8,24.0,2024-03-13,Minor,Low,None
+1648,9269,Response Time,2,24.0,2024-10-25,Minor,High,Manager Notified
+1649,9288,Response Time,2,24.0,2024-02-13,Minor,High,Escalated
+1650,9300,Response Time,8,24.0,2024-01-11,Critical,High,None
+1651,9302,Response Time,2,24.0,2023-03-28,Critical,Low,Manager Notified
+1652,9303,Response Time,8,24.0,2023-02-19,Minor,Medium,Escalated
+1653,9308,Response Time,8,24.0,2023-02-23,Critical,Medium,Escalated
+1654,9312,Response Time,2,24.0,2024-08-30,Minor,Low,Manager Notified
+1655,9320,Response Time,2,24.0,2024-11-12,Minor,Medium,Escalated
+1656,9324,Response Time,8,24.0,2023-06-15,Major,Medium,Manager Notified
+1657,9329,Response Time,2,24.0,2024-02-11,Minor,High,Manager Notified
+1658,9350,Response Time,2,24.0,2023-01-14,Major,Low,Process Review
+1659,9351,Response Time,2,24.0,2024-06-20,Critical,High,None
+1660,9367,Response Time,2,24.0,2024-05-19,Critical,High,Manager Notified
+1661,9372,Response Time,8,24.0,2023-09-14,Critical,High,Process Review
+1662,9380,Response Time,8,24.0,2024-04-08,Critical,Medium,Escalated
+1663,9382,Response Time,8,24.0,2024-06-26,Major,Low,Manager Notified
+1664,9387,Response Time,8,24.0,2024-06-08,Critical,High,Process Review
+1665,9390,Response Time,2,24.0,2023-08-23,Major,Low,None
+1666,9394,Response Time,2,24.0,2023-11-15,Minor,High,Process Review
+1667,9409,Response Time,2,24.0,2024-08-23,Minor,High,Manager Notified
+1668,9411,Response Time,8,24.0,2024-05-03,Critical,Low,Process Review
+1669,9417,Response Time,8,24.0,2024-06-30,Minor,High,Process Review
+1670,9418,Response Time,2,24.0,2023-02-25,Major,Low,Process Review
+1671,9428,Response Time,2,24.0,2023-03-25,Minor,High,Escalated
+1672,9438,Response Time,2,24.0,2023-07-18,Critical,High,Escalated
+1673,9441,Response Time,2,24.0,2024-09-06,Critical,High,None
+1674,9445,Response Time,2,24.0,2023-07-22,Major,Low,Manager Notified
+1675,9448,Response Time,8,24.0,2024-09-09,Major,Medium,Process Review
+1676,9450,Response Time,8,24.0,2023-09-13,Critical,Medium,Manager Notified
+1677,9460,Response Time,2,24.0,2024-09-24,Critical,High,None
+1678,9462,Response Time,2,24.0,2023-01-05,Minor,High,Process Review
+1679,9464,Response Time,2,24.0,2023-06-09,Major,High,Manager Notified
+1680,9477,Response Time,8,24.0,2024-10-18,Critical,High,None
+1681,9479,Response Time,2,24.0,2023-04-08,Critical,Low,Escalated
+1682,9490,Response Time,8,24.0,2023-07-12,Minor,High,Process Review
+1683,9504,Response Time,8,24.0,2024-04-20,Major,Low,Escalated
+1684,9515,Response Time,2,24.0,2024-09-16,Critical,Low,Process Review
+1685,9519,Response Time,2,24.0,2023-02-11,Minor,Medium,Manager Notified
+1686,9523,Response Time,8,24.0,2023-05-30,Critical,High,Escalated
+1687,9526,Response Time,2,24.0,2024-04-12,Critical,Medium,None
+1688,9529,Response Time,8,24.0,2023-01-29,Minor,High,Process Review
+1689,9535,Response Time,8,24.0,2023-07-25,Minor,Medium,Manager Notified
+1690,9536,Response Time,2,24.0,2024-11-11,Critical,High,None
+1691,9539,Response Time,8,24.0,2024-10-04,Major,High,Manager Notified
+1692,9548,Response Time,8,24.0,2023-11-11,Critical,Low,Manager Notified
+1693,9560,Response Time,2,24.0,2024-03-05,Major,Medium,None
+1694,9563,Response Time,2,24.0,2024-06-03,Critical,Low,Manager Notified
+1695,9564,Response Time,2,24.0,2024-03-27,Critical,Low,None
+1696,9566,Response Time,8,24.0,2023-08-25,Major,Medium,Manager Notified
+1697,9576,Response Time,8,24.0,2023-03-15,Critical,Medium,Process Review
+1698,9578,Response Time,2,24.0,2024-09-13,Critical,Low,Manager Notified
+1699,9589,Response Time,8,24.0,2023-11-01,Major,Medium,Escalated
+1700,9593,Response Time,8,24.0,2024-09-07,Major,Low,Manager Notified
+1701,9598,Response Time,2,24.0,2024-04-04,Critical,High,Process Review
+1702,9600,Response Time,2,24.0,2024-04-30,Major,Low,Manager Notified
+1703,9603,Response Time,2,24.0,2024-06-09,Major,High,Escalated
+1704,9611,Response Time,2,48.0,2024-07-20,Critical,Medium,Escalated
+1705,9629,Response Time,8,24.0,2023-11-08,Minor,Low,Process Review
+1706,9632,Response Time,2,24.0,2023-12-09,Major,Low,Manager Notified
+1707,9635,Response Time,8,24.0,2023-03-07,Critical,Low,Escalated
+1708,9636,Response Time,2,24.0,2023-10-10,Minor,High,Escalated
+1709,9645,Response Time,8,24.0,2023-06-02,Critical,High,Manager Notified
+1710,9647,Response Time,2,24.0,2023-05-10,Major,Low,Manager Notified
+1711,9656,Response Time,2,24.0,2023-07-20,Minor,High,Manager Notified
+1712,9663,Response Time,8,24.0,2024-02-25,Major,Medium,None
+1713,9677,Response Time,2,24.0,2023-01-03,Major,High,Manager Notified
+1714,9678,Response Time,2,24.0,2023-11-20,Minor,High,Process Review
+1715,9682,Response Time,2,24.0,2024-01-11,Critical,High,Process Review
+1716,9689,Response Time,2,24.0,2024-07-31,Critical,Low,Manager Notified
+1717,9692,Response Time,2,24.0,2023-12-17,Minor,Medium,Escalated
+1718,9706,Response Time,8,24.0,2023-02-25,Critical,Medium,Escalated
+1719,9712,Response Time,2,24.0,2024-02-14,Major,High,Process Review
+1720,9724,Response Time,8,24.0,2023-07-19,Critical,Low,None
+1721,9729,Response Time,8,24.0,2023-11-24,Minor,High,Manager Notified
+1722,9733,Response Time,2,24.0,2023-03-17,Major,High,None
+1723,9736,Response Time,8,24.0,2024-02-25,Critical,Low,None
+1724,9741,Response Time,8,24.0,2023-02-06,Minor,Low,Process Review
+1725,9743,Response Time,8,24.0,2023-08-26,Major,Low,Escalated
+1726,9745,Response Time,2,24.0,2023-07-10,Major,High,None
+1727,9760,Response Time,2,24.0,2024-03-28,Major,Low,Escalated
+1728,9761,Response Time,8,24.0,2023-06-15,Minor,Medium,Escalated
+1729,9768,Response Time,2,24.0,2023-10-23,Minor,Medium,Escalated
+1730,9780,Response Time,2,24.0,2024-10-15,Minor,Medium,None
+1731,9783,Response Time,2,24.0,2024-02-22,Critical,Medium,Process Review
+1732,9788,Response Time,2,24.0,2024-06-20,Minor,High,Manager Notified
+1733,9797,Response Time,24,48.0,2023-06-13,Major,Medium,Process Review
+1734,9800,Response Time,2,24.0,2023-11-14,Critical,Low,Escalated
+1735,9801,Response Time,2,24.0,2023-08-13,Major,Low,Process Review
+1736,9803,Response Time,2,24.0,2024-06-10,Major,Low,None
+1737,9818,Response Time,2,24.0,2023-01-08,Minor,Low,None
+1738,9822,Response Time,2,24.0,2023-11-08,Critical,High,Escalated
+1739,9832,Response Time,2,24.0,2023-09-10,Minor,Low,None
+1740,9837,Response Time,2,24.0,2023-06-11,Major,Low,None
+1741,9841,Response Time,2,24.0,2023-11-16,Critical,Medium,Manager Notified
+1742,9848,Response Time,2,24.0,2024-03-10,Major,Low,None
+1743,9858,Response Time,8,24.0,2024-08-24,Major,Low,Manager Notified
+1744,9859,Response Time,8,24.0,2023-06-22,Critical,Low,Escalated
+1745,9861,Response Time,2,24.0,2023-04-04,Minor,Low,Escalated
+1746,9862,Response Time,2,24.0,2024-03-15,Major,Medium,Process Review
+1747,9868,Response Time,8,24.0,2024-12-04,Minor,Low,None
+1748,9877,Response Time,8,24.0,2024-01-01,Critical,High,Manager Notified
+1749,9879,Response Time,8,24.0,2023-04-20,Major,Low,Escalated
+1750,9883,Response Time,2,24.0,2024-11-30,Major,Medium,None
+1751,9887,Response Time,8,24.0,2024-12-18,Minor,Low,Manager Notified
+1752,9893,Response Time,2,24.0,2024-03-21,Minor,Medium,Process Review
+1753,9894,Response Time,2,24.0,2023-06-14,Critical,Medium,Process Review
+1754,9897,Response Time,8,24.0,2023-08-25,Critical,High,Escalated
+1755,9903,Response Time,2,24.0,2023-10-12,Minor,Low,Escalated
+1756,9918,Response Time,2,24.0,2024-11-16,Minor,Medium,None
+1757,9920,Response Time,8,24.0,2023-07-15,Critical,High,Escalated
+1758,9934,Response Time,2,24.0,2024-04-13,Major,Low,Escalated
+1759,9939,Response Time,8,24.0,2024-05-11,Critical,High,Process Review
+1760,9940,Response Time,2,48.0,2024-07-27,Critical,Medium,Escalated
+1761,9943,Response Time,2,24.0,2023-06-15,Critical,Low,Escalated
+1762,9949,Response Time,8,24.0,2024-08-31,Major,Medium,None
+1763,9969,Response Time,8,24.0,2024-03-14,Critical,Medium,None
+1764,9970,Response Time,2,24.0,2024-09-11,Critical,Low,Manager Notified
+1765,9976,Response Time,8,24.0,2023-04-07,Critical,High,Process Review
+1766,9987,Response Time,8,24.0,2023-07-10,Critical,High,Manager Notified
+1767,9993,Response Time,2,24.0,2024-03-18,Major,Medium,None
+1768,9994,Response Time,24,48.0,2024-02-18,Minor,High,None
+1769,10000,Response Time,2,24.0,2023-04-09,Major,Medium,None
+1770,10003,Response Time,8,24.0,2023-04-26,Minor,High,None
+1771,10006,Response Time,2,24.0,2024-11-18,Major,High,None
+1772,10007,Response Time,8,24.0,2023-10-01,Minor,Medium,Escalated
+1773,10011,Response Time,2,24.0,2024-07-07,Major,Low,None
+1774,10022,Response Time,8,24.0,2023-06-06,Minor,Low,Process Review
+1775,10025,Response Time,2,24.0,2024-01-01,Critical,Medium,None
+1776,10027,Response Time,2,24.0,2023-06-04,Minor,Low,None
+1777,10038,Response Time,8,24.0,2024-06-08,Minor,Medium,Manager Notified
+1778,10046,Response Time,2,48.0,2024-12-22,Critical,Low,Escalated
+1779,10048,Response Time,8,24.0,2024-03-13,Critical,Low,Manager Notified
+1780,10051,Response Time,2,24.0,2023-09-22,Minor,Medium,Process Review
+1781,10058,Response Time,8,24.0,2023-02-13,Minor,Medium,Manager Notified
+1782,10072,Response Time,8,24.0,2024-03-07,Critical,Low,Manager Notified
+1783,10073,Response Time,8,24.0,2023-04-06,Critical,Low,Escalated
+1784,10075,Response Time,8,24.0,2024-10-10,Major,Low,Escalated
+1785,10080,Response Time,2,48.0,2024-01-13,Critical,High,None
+1786,10092,Response Time,8,24.0,2024-08-31,Critical,Medium,None
+1787,10115,Response Time,8,24.0,2023-08-22,Critical,High,Manager Notified
+1788,10121,Response Time,2,24.0,2023-09-16,Major,High,Manager Notified
+1789,10124,Response Time,8,24.0,2023-11-14,Minor,Medium,Process Review
+1790,10127,Response Time,2,24.0,2023-09-09,Critical,Medium,Process Review
+1791,10129,Response Time,8,24.0,2023-10-30,Minor,Low,Manager Notified
+1792,10133,Response Time,2,24.0,2023-05-10,Minor,Low,Process Review
+1793,10138,Response Time,2,24.0,2024-06-20,Minor,Low,Escalated
+1794,10139,Response Time,8,24.0,2024-10-20,Major,High,Manager Notified
+1795,10144,Response Time,2,24.0,2023-08-15,Major,Low,Process Review
+1796,10149,Response Time,8,24.0,2024-01-27,Major,High,None
+1797,10150,Response Time,2,24.0,2024-02-24,Critical,High,None
+1798,10151,Response Time,8,24.0,2024-08-07,Minor,High,Manager Notified
+1799,10153,Response Time,2,24.0,2024-02-07,Minor,Medium,None
+1800,10154,Response Time,2,24.0,2023-10-10,Minor,Medium,None
+1801,10155,Response Time,2,24.0,2024-08-01,Major,Low,Manager Notified
+1802,10160,Response Time,2,24.0,2024-05-25,Critical,High,Manager Notified
+1803,10161,Response Time,2,24.0,2023-07-27,Major,High,Process Review
+1804,10162,Response Time,8,24.0,2023-06-19,Critical,Low,None
+1805,10167,Response Time,2,24.0,2024-12-11,Minor,High,Process Review
+1806,10170,Response Time,8,24.0,2023-07-31,Major,High,Manager Notified
+1807,10174,Response Time,2,24.0,2024-01-12,Major,High,Process Review
+1808,10179,Response Time,8,24.0,2024-12-25,Major,High,Manager Notified
+1809,10185,Response Time,8,24.0,2024-08-03,Major,Medium,None
+1810,10192,Response Time,8,24.0,2023-04-01,Minor,High,Escalated
+1811,10196,Response Time,8,24.0,2024-06-08,Minor,High,Process Review
+1812,10201,Response Time,8,24.0,2024-06-14,Major,Medium,Manager Notified
+1813,10213,Response Time,2,24.0,2023-11-06,Critical,High,Escalated
+1814,10219,Response Time,2,24.0,2023-12-21,Major,Medium,None
+1815,10229,Response Time,2,24.0,2024-02-10,Minor,Medium,Process Review
+1816,10231,Response Time,8,24.0,2023-12-28,Minor,Low,Process Review
+1817,10253,Response Time,2,24.0,2023-05-07,Minor,Low,Process Review
+1818,10256,Response Time,2,24.0,2023-04-01,Critical,Low,Process Review
+1819,10260,Response Time,8,24.0,2024-02-20,Critical,Medium,None
+1820,10265,Response Time,2,24.0,2023-03-10,Critical,Low,Process Review
+1821,10267,Response Time,2,24.0,2023-03-22,Minor,Low,None
+1822,10268,Response Time,8,24.0,2024-01-01,Minor,Medium,Escalated
+1823,10275,Response Time,2,24.0,2023-09-23,Minor,Low,None
+1824,10284,Response Time,2,24.0,2023-06-22,Critical,Low,Manager Notified
+1825,10286,Response Time,2,24.0,2024-08-23,Major,Low,Process Review
+1826,10290,Response Time,2,24.0,2023-04-02,Major,Low,Manager Notified
+1827,10299,Response Time,2,24.0,2023-08-05,Critical,Medium,Manager Notified
+1828,10303,Response Time,2,24.0,2023-10-20,Major,Medium,Escalated
+1829,10304,Response Time,8,24.0,2023-08-23,Critical,Medium,Escalated
+1830,10321,Response Time,2,24.0,2023-02-05,Minor,High,Escalated
+1831,10324,Response Time,2,24.0,2024-01-04,Minor,Low,None
+1832,10336,Response Time,8,24.0,2024-05-04,Major,Low,None
+1833,10348,Response Time,2,24.0,2024-12-12,Minor,High,Process Review
+1834,10349,Response Time,2,24.0,2024-02-16,Critical,Medium,Process Review
+1835,10352,Response Time,8,24.0,2023-08-04,Major,High,Manager Notified
+1836,10353,Response Time,8,24.0,2024-09-08,Critical,Low,Process Review
+1837,10356,Response Time,2,48.0,2023-01-25,Major,High,None
+1838,10360,Response Time,8,24.0,2024-01-11,Critical,Medium,Process Review
+1839,10363,Response Time,2,24.0,2023-09-17,Major,High,Escalated
+1840,10366,Response Time,2,24.0,2024-11-07,Minor,Medium,None
+1841,10367,Response Time,2,24.0,2023-11-16,Critical,High,Manager Notified
+1842,10371,Response Time,2,24.0,2023-12-17,Critical,Low,Process Review
+1843,10374,Response Time,8,24.0,2024-07-17,Critical,Low,Manager Notified
+1844,10381,Response Time,2,24.0,2023-11-07,Minor,High,Manager Notified
+1845,10385,Response Time,8,24.0,2023-02-13,Critical,Low,Process Review
+1846,10396,Response Time,8,24.0,2023-09-14,Minor,High,None
+1847,10414,Response Time,2,24.0,2024-06-23,Minor,Low,Escalated
+1848,10420,Response Time,8,24.0,2024-09-28,Minor,High,Process Review
+1849,10428,Response Time,2,24.0,2023-08-22,Minor,Low,Escalated
+1850,10429,Response Time,2,48.0,2024-08-15,Critical,High,Process Review
+1851,10432,Response Time,8,24.0,2023-10-01,Minor,High,Manager Notified
+1852,10434,Response Time,2,24.0,2023-04-21,Minor,Medium,Escalated
+1853,10436,Response Time,2,24.0,2024-09-29,Critical,High,Process Review
+1854,10437,Response Time,2,24.0,2024-08-30,Critical,High,None
+1855,10447,Response Time,8,24.0,2023-08-04,Major,Low,Manager Notified
+1856,10448,Response Time,8,24.0,2024-11-01,Minor,Low,Escalated
+1857,10455,Response Time,2,24.0,2023-05-28,Major,High,Manager Notified
+1858,10460,Response Time,2,24.0,2023-04-05,Major,Medium,None
+1859,10469,Response Time,2,24.0,2023-02-27,Minor,Low,Escalated
+1860,10472,Response Time,8,24.0,2024-11-16,Major,High,None
+1861,10473,Response Time,8,24.0,2023-10-11,Minor,High,Escalated
+1862,10475,Response Time,2,24.0,2023-06-16,Critical,High,Escalated
+1863,10476,Response Time,2,24.0,2024-08-07,Critical,Low,Manager Notified
+1864,10481,Response Time,8,24.0,2024-11-05,Minor,High,Manager Notified
+1865,10484,Response Time,2,24.0,2024-05-09,Critical,Medium,None
+1866,10489,Response Time,8,24.0,2024-10-04,Critical,Medium,Escalated
+1867,10505,Response Time,8,24.0,2024-07-05,Critical,Medium,Manager Notified
+1868,10507,Response Time,8,24.0,2024-02-02,Critical,High,Process Review
+1869,10511,Response Time,2,24.0,2023-07-10,Critical,High,Escalated
+1870,10518,Response Time,8,24.0,2024-12-08,Major,Low,Manager Notified
+1871,10519,Response Time,2,24.0,2024-09-20,Major,Medium,Escalated
+1872,10528,Response Time,2,24.0,2023-09-07,Critical,Medium,Manager Notified
+1873,10532,Response Time,8,24.0,2024-12-16,Minor,Low,None
+1874,10548,Response Time,2,24.0,2023-03-28,Critical,High,Process Review
+1875,10551,Response Time,2,24.0,2024-07-15,Major,High,None
+1876,10554,Response Time,8,48.0,2024-09-30,Major,Low,Manager Notified
+1877,10564,Response Time,2,24.0,2023-07-15,Critical,Medium,None
+1878,10582,Response Time,24,48.0,2023-03-23,Minor,High,Process Review
+1879,10595,Response Time,8,24.0,2024-09-18,Minor,High,Escalated
+1880,10599,Response Time,2,24.0,2024-11-04,Critical,Low,None
+1881,10601,Response Time,8,24.0,2023-11-18,Critical,Low,None
+1882,10611,Response Time,2,24.0,2024-06-25,Critical,Medium,Manager Notified
+1883,10625,Response Time,2,24.0,2023-07-16,Critical,Low,Manager Notified
+1884,10627,Response Time,2,24.0,2023-03-03,Major,High,Manager Notified
+1885,10631,Response Time,2,24.0,2023-10-11,Critical,High,Process Review
+1886,10633,Response Time,2,24.0,2023-05-02,Minor,Low,Manager Notified
+1887,10635,Response Time,2,24.0,2024-12-31,Critical,Medium,Process Review
+1888,10638,Response Time,8,24.0,2024-01-19,Minor,Low,Escalated
+1889,10654,Response Time,8,24.0,2023-01-26,Minor,Medium,Escalated
+1890,10655,Response Time,8,24.0,2024-08-19,Major,High,None
+1891,10658,Response Time,2,24.0,2023-11-04,Major,High,None
+1892,10660,Response Time,2,48.0,2024-05-20,Minor,Medium,Escalated
+1893,10666,Response Time,2,24.0,2024-07-09,Critical,Low,None
+1894,10676,Response Time,8,24.0,2023-11-27,Minor,High,None
+1895,10685,Response Time,8,24.0,2023-08-03,Minor,Medium,Process Review
+1896,10690,Response Time,2,48.0,2023-08-15,Major,High,Escalated
+1897,10697,Response Time,2,24.0,2024-12-25,Critical,Medium,Process Review
+1898,10700,Response Time,8,24.0,2024-12-01,Critical,Medium,Manager Notified
+1899,10701,Response Time,2,24.0,2023-03-03,Critical,Medium,Manager Notified
+1900,10703,Response Time,8,24.0,2023-02-05,Critical,Low,Process Review
+1901,10705,Response Time,8,24.0,2023-05-25,Minor,Medium,Manager Notified
+1902,10708,Response Time,2,48.0,2024-07-12,Minor,Medium,Escalated
+1903,10710,Response Time,2,24.0,2024-04-05,Major,Medium,None
+1904,10717,Response Time,2,24.0,2024-03-06,Major,Medium,Escalated
+1905,10718,Response Time,2,24.0,2024-12-28,Minor,High,None
+1906,10725,Response Time,2,24.0,2023-12-03,Major,Low,Escalated
+1907,10735,Response Time,2,24.0,2024-01-04,Minor,Low,Manager Notified
+1908,10737,Response Time,2,24.0,2023-12-12,Critical,Medium,Process Review
+1909,10738,Response Time,2,24.0,2024-10-25,Minor,Medium,Escalated
+1910,10741,Response Time,8,24.0,2024-08-31,Major,Medium,Escalated
+1911,10743,Response Time,2,24.0,2023-08-14,Major,High,Manager Notified
+1912,10747,Response Time,2,24.0,2023-05-04,Major,High,Process Review
+1913,10749,Response Time,2,24.0,2023-10-25,Minor,High,None
+1914,10750,Response Time,2,24.0,2023-05-10,Critical,Medium,Process Review
+1915,10754,Response Time,2,24.0,2023-11-25,Critical,Medium,Escalated
+1916,10755,Response Time,2,24.0,2024-03-07,Critical,Medium,Escalated
+1917,10759,Response Time,8,24.0,2024-10-16,Critical,Medium,Process Review
+1918,10771,Response Time,8,24.0,2024-09-21,Major,Low,Escalated
+1919,10779,Response Time,8,24.0,2023-05-05,Major,High,Escalated
+1920,10795,Response Time,2,24.0,2023-06-11,Minor,Medium,Process Review
+1921,10813,Response Time,8,24.0,2023-05-20,Critical,Medium,Manager Notified
+1922,10816,Response Time,8,24.0,2023-10-26,Critical,Low,None
+1923,10817,Response Time,8,24.0,2024-06-04,Minor,High,Manager Notified
+1924,10820,Response Time,8,48.0,2023-07-28,Minor,High,Process Review
+1925,10830,Response Time,8,24.0,2023-12-16,Critical,High,Escalated
+1926,10835,Response Time,2,24.0,2023-11-10,Minor,High,Escalated
+1927,10839,Response Time,2,24.0,2024-04-05,Minor,Medium,Manager Notified
+1928,10842,Response Time,2,48.0,2023-06-18,Major,Low,Manager Notified
+1929,10860,Response Time,2,24.0,2023-11-11,Critical,Low,Escalated
+1930,10862,Response Time,2,24.0,2024-10-04,Major,Medium,Process Review
+1931,10868,Response Time,8,24.0,2024-09-28,Major,High,None
+1932,10875,Response Time,8,24.0,2023-06-20,Major,Low,Manager Notified
+1933,10877,Response Time,2,24.0,2023-05-30,Major,Medium,Manager Notified
+1934,10879,Response Time,2,24.0,2024-04-24,Critical,Low,Process Review
+1935,10880,Response Time,2,24.0,2023-02-02,Critical,Medium,Escalated
+1936,10881,Response Time,8,24.0,2023-05-03,Major,Low,Manager Notified
+1937,10889,Response Time,8,24.0,2024-01-26,Minor,Medium,Process Review
+1938,10898,Response Time,2,24.0,2024-12-26,Major,Low,None
+1939,10900,Response Time,2,24.0,2024-06-12,Major,Low,Manager Notified
+1940,10908,Response Time,8,24.0,2023-07-30,Minor,Low,None
+1941,10911,Response Time,8,24.0,2023-10-15,Critical,Medium,Process Review
+1942,10919,Response Time,2,24.0,2024-02-29,Minor,Low,Manager Notified
+1943,10921,Response Time,2,24.0,2024-01-26,Major,High,Process Review
+1944,10924,Response Time,2,24.0,2023-07-14,Critical,Medium,Manager Notified
+1945,10937,Response Time,8,24.0,2023-10-07,Minor,Medium,None
+1946,10942,Response Time,8,24.0,2024-05-02,Critical,Low,Escalated
+1947,10943,Response Time,8,24.0,2024-04-06,Minor,Medium,Manager Notified
+1948,10946,Response Time,8,24.0,2023-11-20,Minor,High,Escalated
+1949,10949,Response Time,8,24.0,2023-01-04,Minor,High,Escalated
+1950,10952,Response Time,2,24.0,2024-12-31,Major,Low,Manager Notified
+1951,10957,Response Time,2,24.0,2023-10-17,Critical,High,Escalated
+1952,10966,Response Time,2,24.0,2023-07-30,Minor,High,Process Review
+1953,10969,Response Time,2,24.0,2024-10-16,Major,High,Process Review
+1954,10976,Response Time,8,24.0,2024-10-16,Minor,Medium,Process Review
+1955,10977,Response Time,8,24.0,2024-06-27,Major,Low,None
+1956,10978,Response Time,8,24.0,2023-09-03,Major,Medium,Manager Notified
+1957,10979,Response Time,8,24.0,2023-10-11,Minor,Medium,Manager Notified
+1958,10981,Response Time,8,24.0,2024-01-23,Major,Medium,Manager Notified
+1959,11010,Response Time,2,24.0,2024-09-17,Major,High,Manager Notified
+1960,11022,Response Time,8,24.0,2024-03-09,Critical,Low,None
+1961,11024,Response Time,8,24.0,2023-09-29,Major,Low,Escalated
+1962,11032,Response Time,2,24.0,2024-12-19,Minor,Low,None
+1963,11033,Response Time,2,24.0,2024-07-31,Critical,Medium,None
+1964,11034,Response Time,2,24.0,2023-05-06,Major,High,Process Review
+1965,11046,Response Time,2,24.0,2023-01-14,Critical,Medium,None
+1966,11051,Response Time,8,24.0,2024-11-13,Minor,Medium,Process Review
+1967,11052,Response Time,8,24.0,2024-06-06,Critical,Medium,Escalated
+1968,11053,Response Time,8,24.0,2023-12-16,Major,Medium,Process Review
+1969,11055,Response Time,8,24.0,2023-01-12,Critical,Low,Manager Notified
+1970,11060,Response Time,2,24.0,2024-08-22,Minor,Low,Manager Notified
+1971,11065,Response Time,8,24.0,2023-04-28,Critical,Low,None
+1972,11067,Response Time,8,24.0,2024-10-28,Minor,High,Process Review
+1973,11074,Response Time,8,24.0,2024-03-03,Critical,Low,Escalated
+1974,11076,Response Time,8,24.0,2023-07-06,Major,Medium,Process Review
+1975,11083,Response Time,8,24.0,2024-03-20,Critical,High,Manager Notified
+1976,11094,Response Time,8,24.0,2024-04-27,Major,Low,Process Review
+1977,11096,Response Time,8,24.0,2024-02-11,Critical,Low,Manager Notified
+1978,11101,Response Time,2,24.0,2024-12-16,Major,High,Escalated
+1979,11107,Response Time,8,24.0,2023-03-05,Minor,Low,Escalated
+1980,11116,Response Time,2,24.0,2024-05-19,Critical,High,Manager Notified
+1981,11117,Response Time,8,24.0,2024-01-08,Major,Low,Manager Notified
+1982,11136,Response Time,2,24.0,2024-04-23,Critical,Low,Process Review
+1983,11139,Response Time,8,24.0,2023-05-21,Major,High,Escalated
+1984,11142,Response Time,2,24.0,2023-09-24,Minor,Low,Escalated
+1985,11144,Response Time,2,24.0,2023-03-20,Critical,Low,Escalated
+1986,11153,Response Time,2,24.0,2024-11-05,Critical,Low,None
+1987,11158,Response Time,8,24.0,2024-05-22,Minor,High,None
+1988,11160,Response Time,2,24.0,2024-08-03,Critical,Medium,None
+1989,11165,Response Time,2,24.0,2023-12-07,Major,High,None
+1990,11170,Response Time,2,24.0,2024-03-20,Minor,Low,Escalated
+1991,11180,Response Time,24,48.0,2024-04-10,Minor,High,Manager Notified
+1992,11183,Response Time,2,24.0,2023-09-08,Critical,High,None
+1993,11192,Response Time,8,24.0,2023-07-31,Major,High,None
+1994,11196,Response Time,8,24.0,2024-08-21,Major,High,Process Review
+1995,11212,Response Time,8,24.0,2023-12-30,Minor,Medium,Escalated
+1996,11214,Response Time,2,24.0,2024-12-28,Minor,Low,None
+1997,11218,Response Time,8,24.0,2024-07-22,Major,Low,Manager Notified
+1998,11224,Response Time,2,24.0,2024-07-22,Major,Low,Escalated
+1999,11230,Response Time,8,24.0,2024-07-20,Critical,Low,None
+2000,11233,Response Time,2,24.0,2023-05-25,Critical,Medium,None
+2001,11251,Response Time,2,24.0,2024-03-14,Major,High,Escalated
+2002,11269,Response Time,8,24.0,2024-04-11,Critical,High,Manager Notified
+2003,11275,Response Time,8,24.0,2023-12-17,Major,Medium,Escalated
+2004,11289,Response Time,2,24.0,2023-09-10,Critical,High,None
+2005,11294,Response Time,2,48.0,2024-11-03,Major,High,Manager Notified
+2006,11296,Response Time,8,24.0,2023-02-07,Major,Low,Process Review
+2007,11311,Response Time,2,24.0,2023-07-31,Minor,High,Process Review
+2008,11320,Response Time,8,24.0,2023-06-14,Minor,High,None
+2009,11328,Response Time,8,24.0,2024-12-17,Major,Low,Process Review
+2010,11331,Response Time,8,24.0,2024-06-24,Major,Low,None
+2011,11332,Response Time,8,48.0,2024-08-18,Minor,High,None
+2012,11336,Response Time,2,24.0,2023-05-13,Major,High,None
+2013,11352,Response Time,8,24.0,2023-01-23,Critical,High,Manager Notified
+2014,11353,Response Time,8,24.0,2023-09-25,Minor,High,Escalated
+2015,11360,Response Time,2,24.0,2023-01-24,Minor,Low,Escalated
+2016,11361,Response Time,2,24.0,2023-04-05,Critical,High,Manager Notified
+2017,11365,Response Time,2,24.0,2024-06-03,Critical,Medium,None
+2018,11379,Response Time,2,24.0,2024-11-28,Critical,Medium,Process Review
+2019,11382,Response Time,2,24.0,2023-12-03,Critical,Low,Manager Notified
+2020,11384,Response Time,2,24.0,2024-01-03,Minor,Low,None
+2021,11386,Response Time,2,24.0,2023-04-01,Minor,Low,Escalated
+2022,11387,Response Time,2,24.0,2024-02-23,Major,Low,Process Review
+2023,11396,Response Time,8,24.0,2024-10-19,Minor,Medium,Escalated
+2024,11400,Response Time,2,24.0,2024-08-06,Critical,High,None
+2025,11402,Response Time,8,24.0,2024-11-16,Minor,Medium,Process Review
+2026,11405,Response Time,8,24.0,2023-11-24,Major,Low,None
+2027,11411,Response Time,8,24.0,2023-03-28,Major,Low,Manager Notified
+2028,11412,Response Time,2,24.0,2023-12-16,Minor,Medium,Escalated
+2029,11429,Response Time,8,24.0,2024-08-24,Minor,Low,None
+2030,11443,Response Time,2,24.0,2024-03-22,Critical,Low,Escalated
+2031,11455,Response Time,2,24.0,2023-07-06,Major,Low,Process Review
+2032,11458,Response Time,8,24.0,2023-01-22,Minor,Medium,Process Review
+2033,11471,Response Time,2,24.0,2023-07-22,Critical,Medium,None
+2034,11488,Response Time,2,24.0,2024-05-13,Critical,Medium,Escalated
+2035,11493,Response Time,2,24.0,2023-01-13,Critical,High,Process Review
+2036,11498,Response Time,2,24.0,2024-09-27,Minor,High,None
+2037,11501,Response Time,8,24.0,2023-08-08,Minor,High,Escalated
+2038,11516,Response Time,2,24.0,2023-07-10,Critical,Medium,Escalated
+2039,11527,Response Time,8,24.0,2024-08-29,Critical,Medium,Process Review
+2040,11530,Response Time,2,24.0,2024-02-06,Minor,Medium,Process Review
+2041,11538,Response Time,2,24.0,2023-01-08,Minor,Medium,Process Review
+2042,11542,Response Time,2,24.0,2023-03-31,Major,High,Manager Notified
+2043,11558,Response Time,2,24.0,2023-05-28,Major,Medium,Escalated
+2044,11560,Response Time,2,24.0,2024-08-24,Major,Medium,Manager Notified
+2045,11564,Response Time,8,24.0,2023-07-18,Minor,High,Escalated
+2046,11570,Response Time,2,24.0,2024-06-05,Major,Low,Process Review
+2047,11575,Response Time,2,24.0,2023-06-07,Critical,Low,Process Review
+2048,11576,Response Time,2,24.0,2024-06-22,Minor,Low,None
+2049,11578,Response Time,2,24.0,2023-04-10,Critical,Medium,Escalated
+2050,11579,Response Time,2,24.0,2023-07-08,Minor,Low,Process Review
+2051,11585,Response Time,8,24.0,2023-11-15,Major,Medium,Manager Notified
+2052,11586,Response Time,2,24.0,2024-07-12,Minor,High,None
+2053,11596,Response Time,2,48.0,2024-04-28,Minor,High,Escalated
+2054,11606,Response Time,2,24.0,2023-09-17,Critical,Medium,Process Review
+2055,11607,Response Time,2,48.0,2024-01-25,Critical,Medium,Process Review
+2056,11617,Response Time,8,24.0,2024-12-13,Major,Medium,Process Review
+2057,11618,Response Time,2,24.0,2023-05-19,Critical,Low,Manager Notified
+2058,11633,Response Time,8,24.0,2024-02-15,Minor,Medium,Process Review
+2059,11637,Response Time,2,24.0,2023-06-21,Major,Medium,Process Review
+2060,11639,Response Time,2,24.0,2024-09-14,Minor,Low,Process Review
+2061,11640,Response Time,8,24.0,2023-09-30,Critical,Medium,Process Review
+2062,11662,Response Time,8,48.0,2024-07-05,Major,High,Manager Notified
+2063,11672,Response Time,2,24.0,2023-08-22,Critical,High,Escalated
+2064,11673,Response Time,2,24.0,2023-08-31,Minor,Medium,None
+2065,11688,Response Time,8,24.0,2024-05-31,Minor,High,None
+2066,11695,Response Time,8,24.0,2023-04-29,Minor,Low,Manager Notified
+2067,11704,Response Time,2,24.0,2023-04-27,Critical,Medium,Manager Notified
+2068,11711,Response Time,8,24.0,2024-05-27,Minor,High,Manager Notified
+2069,11713,Response Time,2,24.0,2024-05-16,Critical,High,Escalated
+2070,11727,Response Time,2,24.0,2024-03-12,Major,High,Process Review
+2071,11728,Response Time,8,24.0,2024-03-22,Critical,High,Process Review
+2072,11731,Response Time,8,24.0,2024-09-06,Major,Low,None
+2073,11736,Response Time,2,24.0,2023-09-18,Critical,Low,Manager Notified
+2074,11737,Response Time,8,24.0,2023-06-19,Critical,Low,None
+2075,11741,Response Time,2,24.0,2024-01-11,Minor,High,Manager Notified
+2076,11751,Response Time,8,24.0,2023-06-07,Critical,High,Escalated
+2077,11772,Response Time,2,24.0,2024-11-24,Critical,Low,Manager Notified
+2078,11775,Response Time,2,24.0,2023-08-31,Minor,Medium,Process Review
+2079,11787,Response Time,8,24.0,2023-10-28,Major,High,Escalated
+2080,11789,Response Time,8,24.0,2023-12-08,Critical,Low,Manager Notified
+2081,11791,Response Time,8,24.0,2024-05-16,Critical,Low,Manager Notified
+2082,11797,Response Time,8,24.0,2023-08-15,Minor,Low,Escalated
+2083,11799,Response Time,2,24.0,2023-04-29,Critical,Medium,None
+2084,11803,Response Time,2,48.0,2024-11-17,Major,Low,None
+2085,11808,Response Time,2,24.0,2023-11-28,Minor,High,Manager Notified
+2086,11809,Response Time,2,24.0,2024-02-12,Major,High,Escalated
+2087,11811,Response Time,8,24.0,2023-07-18,Major,High,Escalated
+2088,11826,Response Time,8,24.0,2024-10-17,Major,High,None
+2089,11828,Response Time,2,24.0,2023-10-08,Minor,High,Process Review
+2090,11831,Response Time,8,24.0,2024-10-11,Minor,Medium,None
+2091,11833,Response Time,2,48.0,2024-01-11,Critical,Medium,None
+2092,11835,Response Time,2,24.0,2023-03-11,Major,Medium,Manager Notified
+2093,11836,Response Time,2,24.0,2024-02-15,Minor,High,Manager Notified
+2094,11838,Response Time,8,24.0,2024-03-03,Minor,Medium,Manager Notified
+2095,11841,Response Time,2,24.0,2023-08-05,Major,Low,Escalated
+2096,11846,Response Time,2,24.0,2024-05-21,Major,Medium,Manager Notified
+2097,11853,Response Time,8,48.0,2024-12-28,Critical,Medium,None
+2098,11868,Response Time,2,24.0,2024-06-22,Minor,Medium,None
+2099,11872,Response Time,8,24.0,2024-11-10,Minor,High,Process Review
+2100,11878,Response Time,8,24.0,2023-10-11,Critical,High,None
+2101,11879,Response Time,2,24.0,2024-09-21,Critical,Low,None
+2102,11883,Response Time,8,24.0,2024-03-27,Major,Low,Manager Notified
+2103,11890,Response Time,8,24.0,2023-11-12,Minor,High,None
+2104,11891,Response Time,8,24.0,2024-03-11,Minor,Low,Manager Notified
+2105,11895,Response Time,2,24.0,2024-12-10,Major,High,Process Review
+2106,11901,Response Time,8,48.0,2023-12-29,Major,Medium,Escalated
+2107,11906,Response Time,2,24.0,2023-06-03,Major,Medium,None
+2108,11908,Response Time,8,24.0,2024-12-01,Major,High,Escalated
+2109,11915,Response Time,8,24.0,2024-04-15,Critical,Low,Process Review
+2110,11917,Response Time,8,48.0,2023-04-21,Major,High,Escalated
+2111,11925,Response Time,8,24.0,2024-11-13,Minor,High,Process Review
+2112,11940,Response Time,8,24.0,2024-03-17,Major,Low,Escalated
+2113,11942,Response Time,8,24.0,2023-09-30,Minor,Low,None
+2114,11943,Response Time,2,24.0,2024-12-17,Major,Medium,Manager Notified
+2115,11954,Response Time,2,24.0,2023-05-25,Minor,High,Manager Notified
+2116,11963,Response Time,8,24.0,2024-12-27,Critical,High,Escalated
+2117,11970,Response Time,8,24.0,2024-04-28,Critical,Medium,Process Review
+2118,11975,Response Time,8,24.0,2023-04-23,Major,Medium,Process Review
+2119,11979,Response Time,8,24.0,2023-11-18,Minor,High,None
+2120,11984,Response Time,8,24.0,2024-12-20,Critical,Medium,None
+2121,11989,Response Time,8,24.0,2023-04-14,Critical,High,Escalated
+2122,11999,Response Time,2,24.0,2023-02-22,Critical,High,Process Review
+2123,12001,Response Time,8,24.0,2024-10-02,Critical,Medium,Process Review
+2124,12011,Response Time,2,24.0,2024-02-05,Critical,Medium,Escalated
+2125,12013,Response Time,8,24.0,2024-11-15,Major,Medium,Escalated
+2126,12022,Response Time,8,24.0,2024-01-26,Minor,High,Escalated
+2127,12026,Response Time,2,24.0,2024-10-22,Critical,High,Manager Notified
+2128,12031,Response Time,2,48.0,2023-07-03,Major,Medium,Escalated
+2129,12039,Response Time,2,24.0,2023-12-31,Minor,Medium,None
+2130,12042,Response Time,2,24.0,2024-03-22,Major,Low,None
+2131,12045,Response Time,2,24.0,2023-12-02,Minor,Low,Manager Notified
+2132,12047,Response Time,8,24.0,2024-02-22,Minor,High,Process Review
+2133,12050,Response Time,2,24.0,2023-10-19,Critical,High,Process Review
+2134,12052,Response Time,2,48.0,2023-12-10,Minor,High,None
+2135,12058,Response Time,8,24.0,2024-12-17,Major,Medium,Process Review
+2136,12064,Response Time,8,48.0,2023-02-12,Major,Medium,Escalated
+2137,12069,Response Time,8,24.0,2024-12-09,Critical,Low,Process Review
+2138,12070,Response Time,2,24.0,2024-09-18,Critical,Medium,Escalated
+2139,12076,Response Time,2,24.0,2024-12-24,Minor,High,None
+2140,12088,Response Time,2,24.0,2024-03-23,Critical,Medium,Escalated
+2141,12093,Response Time,2,24.0,2024-02-21,Minor,High,None
+2142,12099,Response Time,2,24.0,2024-01-11,Minor,Low,Manager Notified
+2143,12107,Response Time,8,24.0,2023-12-19,Minor,Medium,Escalated
+2144,12114,Response Time,2,24.0,2023-11-25,Major,Low,Process Review
+2145,12116,Response Time,8,24.0,2023-04-24,Critical,Low,Manager Notified
+2146,12117,Response Time,8,24.0,2024-02-21,Critical,High,Manager Notified
+2147,12135,Response Time,8,24.0,2024-05-18,Major,High,None
+2148,12136,Response Time,2,24.0,2024-10-23,Critical,High,None
+2149,12138,Response Time,8,24.0,2023-06-19,Minor,High,Escalated
+2150,12140,Response Time,2,24.0,2023-11-25,Major,High,Escalated
+2151,12149,Response Time,8,24.0,2024-01-17,Major,Low,Escalated
+2152,12151,Response Time,8,24.0,2024-10-20,Major,Medium,None
+2153,12160,Response Time,8,24.0,2024-08-08,Minor,High,Escalated
+2154,12161,Response Time,2,48.0,2024-04-19,Minor,High,Escalated
+2155,12164,Response Time,2,24.0,2024-02-18,Minor,Medium,Process Review
+2156,12173,Response Time,2,24.0,2023-10-31,Critical,Medium,Process Review
+2157,12174,Response Time,2,24.0,2023-11-21,Critical,Low,Escalated
+2158,12181,Response Time,2,24.0,2024-12-12,Minor,Medium,Escalated
+2159,12183,Response Time,8,24.0,2024-11-11,Major,Medium,Escalated
+2160,12184,Response Time,2,24.0,2024-08-14,Critical,Low,None
+2161,12191,Response Time,2,24.0,2023-12-26,Major,High,Escalated
+2162,12193,Response Time,8,24.0,2024-09-01,Critical,Medium,None
+2163,12199,Response Time,8,24.0,2023-03-25,Major,High,Escalated
+2164,12206,Response Time,8,24.0,2024-09-26,Critical,Medium,None
+2165,12209,Response Time,2,24.0,2024-02-05,Major,Medium,Escalated
+2166,12212,Response Time,8,24.0,2023-12-01,Critical,Low,Escalated
+2167,12226,Response Time,8,24.0,2023-03-27,Major,Low,Escalated
+2168,12233,Response Time,2,48.0,2023-05-10,Critical,High,Escalated
+2169,12236,Response Time,8,24.0,2024-04-23,Critical,Medium,Manager Notified
+2170,12238,Response Time,8,24.0,2023-02-28,Critical,High,Process Review
+2171,12250,Response Time,8,24.0,2023-09-03,Minor,Low,None
+2172,12256,Response Time,2,24.0,2024-11-04,Minor,Medium,Manager Notified
+2173,12262,Response Time,8,24.0,2024-04-25,Minor,Medium,None
+2174,12268,Response Time,2,24.0,2023-12-21,Minor,Low,Escalated
+2175,12271,Response Time,8,24.0,2024-03-04,Critical,Medium,Process Review
+2176,12274,Response Time,2,24.0,2024-09-22,Major,Medium,Escalated
+2177,12282,Response Time,8,48.0,2024-06-20,Critical,High,Process Review
+2178,12284,Response Time,8,24.0,2024-03-20,Major,Medium,None
+2179,12285,Response Time,8,24.0,2023-08-23,Major,High,Process Review
+2180,12288,Response Time,8,24.0,2024-06-07,Major,High,Process Review
+2181,12297,Response Time,2,48.0,2024-06-25,Minor,Low,None
+2182,12299,Response Time,2,24.0,2024-08-18,Critical,High,Manager Notified
+2183,12318,Response Time,8,24.0,2024-08-23,Minor,Medium,None
+2184,12320,Response Time,8,24.0,2024-10-19,Major,High,Manager Notified
+2185,12321,Response Time,2,24.0,2024-11-08,Major,Low,Manager Notified
+2186,12323,Response Time,2,24.0,2024-04-20,Major,Medium,Manager Notified
+2187,12337,Response Time,24,48.0,2023-06-19,Major,High,Escalated
+2188,12339,Response Time,2,24.0,2023-04-10,Minor,Low,Escalated
+2189,12346,Response Time,8,24.0,2023-04-17,Minor,Medium,None
+2190,12352,Response Time,2,24.0,2023-04-20,Major,High,Process Review
+2191,12361,Response Time,8,24.0,2023-03-07,Minor,Low,None
+2192,12368,Response Time,8,24.0,2023-04-30,Major,Medium,Manager Notified
+2193,12378,Response Time,2,48.0,2024-07-01,Critical,Medium,Escalated
+2194,12379,Response Time,8,24.0,2023-08-21,Major,Low,Escalated
+2195,12394,Response Time,8,24.0,2023-09-03,Major,High,None
+2196,12406,Response Time,8,24.0,2023-06-25,Minor,Low,None
+2197,12416,Response Time,2,24.0,2024-08-23,Critical,Medium,Process Review
+2198,12420,Response Time,2,24.0,2023-02-16,Major,Medium,Process Review
+2199,12425,Response Time,2,24.0,2024-04-01,Minor,Medium,Escalated
+2200,12435,Response Time,2,24.0,2023-04-15,Major,Medium,Escalated
+2201,12438,Response Time,2,24.0,2023-11-02,Minor,Low,None
+2202,12442,Response Time,2,24.0,2023-06-08,Critical,Low,Escalated
+2203,12443,Response Time,2,24.0,2024-04-23,Critical,Medium,None
+2204,12448,Response Time,2,24.0,2024-11-21,Major,Medium,Manager Notified
+2205,12473,Response Time,2,24.0,2024-10-07,Critical,High,Process Review
+2206,12474,Response Time,2,24.0,2023-03-11,Critical,High,Manager Notified
+2207,12478,Response Time,8,24.0,2024-12-04,Major,Low,Process Review
+2208,12481,Response Time,2,24.0,2024-12-21,Critical,High,Process Review
+2209,12493,Response Time,8,24.0,2023-10-09,Minor,Medium,None
+2210,12495,Response Time,2,24.0,2023-11-13,Critical,Low,Manager Notified
+2211,12498,Response Time,8,24.0,2023-06-30,Minor,Medium,None
+2212,12500,Response Time,2,24.0,2023-03-05,Minor,High,Manager Notified
+2213,12515,Response Time,8,48.0,2023-12-08,Critical,Medium,Manager Notified
+2214,12521,Response Time,8,24.0,2023-12-30,Critical,Medium,Escalated
+2215,12529,Response Time,2,24.0,2023-04-16,Major,Medium,Escalated
+2216,12534,Response Time,2,24.0,2024-05-02,Major,High,None
+2217,12541,Response Time,8,24.0,2023-11-22,Minor,High,Escalated
+2218,12545,Response Time,8,48.0,2024-02-08,Major,Low,Manager Notified
+2219,12561,Response Time,8,24.0,2024-07-09,Critical,High,None
+2220,12572,Response Time,8,24.0,2024-08-13,Minor,High,Escalated
+2221,12575,Response Time,2,24.0,2024-11-06,Major,Low,None
+2222,12580,Response Time,8,24.0,2023-10-10,Minor,Medium,Escalated
+2223,12584,Response Time,8,24.0,2024-10-21,Major,High,None
+2224,12587,Response Time,8,24.0,2024-02-24,Critical,Medium,Escalated
+2225,12591,Response Time,8,24.0,2024-12-15,Major,High,Manager Notified
+2226,12595,Response Time,2,24.0,2024-06-18,Critical,Low,Manager Notified
+2227,12604,Response Time,8,24.0,2023-09-21,Critical,Low,Manager Notified
+2228,12607,Response Time,2,24.0,2024-10-26,Minor,Low,Escalated
+2229,12612,Response Time,2,24.0,2024-02-28,Minor,Medium,None
+2230,12615,Response Time,8,24.0,2023-01-21,Minor,Low,Process Review
+2231,12618,Response Time,2,24.0,2023-05-31,Minor,High,Escalated
+2232,12628,Response Time,2,24.0,2024-06-13,Critical,Medium,None
+2233,12634,Response Time,8,24.0,2024-04-07,Major,Medium,None
+2234,12643,Response Time,8,24.0,2024-08-12,Major,Low,Process Review
+2235,12645,Response Time,2,24.0,2024-11-29,Minor,High,Escalated
+2236,12649,Response Time,2,24.0,2023-01-10,Critical,Low,Manager Notified
+2237,12654,Response Time,8,24.0,2023-12-29,Minor,Low,Process Review
+2238,12662,Response Time,8,24.0,2023-12-04,Critical,Low,Escalated
+2239,12671,Response Time,8,24.0,2023-10-18,Major,High,Manager Notified
+2240,12674,Response Time,8,48.0,2024-12-31,Minor,Medium,Manager Notified
+2241,12676,Response Time,2,24.0,2023-03-15,Critical,Low,Manager Notified
+2242,12679,Response Time,2,24.0,2024-01-16,Critical,Medium,Escalated
+2243,12680,Response Time,8,24.0,2024-07-18,Major,Low,Manager Notified
+2244,12681,Response Time,2,24.0,2023-05-11,Major,Medium,None
+2245,12682,Response Time,8,24.0,2024-09-25,Critical,Medium,None
+2246,12683,Response Time,2,24.0,2024-06-11,Minor,Low,Escalated
+2247,12697,Response Time,2,24.0,2024-12-06,Minor,Medium,Process Review
+2248,12701,Response Time,24,48.0,2024-08-10,Critical,High,Process Review
+2249,12702,Response Time,24,48.0,2023-08-02,Major,Low,Escalated
+2250,12706,Response Time,2,24.0,2024-06-29,Critical,Low,None
+2251,12707,Response Time,8,24.0,2024-08-04,Major,Medium,Manager Notified
+2252,12709,Response Time,24,48.0,2024-12-13,Minor,Low,None
+2253,12715,Response Time,8,24.0,2023-09-07,Major,High,None
+2254,12722,Response Time,2,24.0,2024-06-21,Minor,Low,None
+2255,12728,Response Time,2,24.0,2023-10-10,Major,High,Escalated
+2256,12730,Response Time,8,24.0,2024-09-30,Major,Medium,Escalated
+2257,12731,Response Time,8,24.0,2023-02-10,Major,Medium,None
+2258,12732,Response Time,2,24.0,2023-09-15,Major,High,None
+2259,12736,Response Time,2,24.0,2023-05-30,Minor,High,Process Review
+2260,12741,Response Time,8,24.0,2024-01-30,Minor,Low,Process Review
+2261,12755,Response Time,8,24.0,2024-01-30,Minor,Medium,None
+2262,12761,Response Time,2,24.0,2023-11-11,Minor,High,Escalated
+2263,12765,Response Time,8,24.0,2023-01-24,Critical,Medium,Escalated
+2264,12771,Response Time,2,48.0,2024-05-25,Critical,Medium,Escalated
+2265,12773,Response Time,2,24.0,2023-07-27,Minor,Medium,Manager Notified
+2266,12777,Response Time,8,24.0,2024-04-16,Minor,High,Escalated
+2267,12780,Response Time,8,24.0,2023-11-06,Critical,Medium,Escalated
+2268,12788,Response Time,2,24.0,2023-10-11,Minor,High,Escalated
+2269,12804,Response Time,8,24.0,2023-04-27,Major,High,None
+2270,12807,Response Time,8,24.0,2023-01-27,Minor,High,None
+2271,12811,Response Time,8,24.0,2023-04-17,Major,Medium,Manager Notified
+2272,12814,Response Time,2,24.0,2023-08-08,Critical,High,None
+2273,12817,Response Time,2,24.0,2023-06-06,Major,High,Escalated
+2274,12820,Response Time,8,24.0,2024-02-01,Critical,High,Escalated
+2275,12822,Response Time,2,24.0,2023-02-11,Minor,Medium,Escalated
+2276,12828,Response Time,8,24.0,2024-05-14,Critical,Medium,Process Review
+2277,12829,Response Time,2,24.0,2024-11-08,Major,High,Process Review
+2278,12832,Response Time,8,24.0,2024-07-24,Critical,Low,Process Review
+2279,12837,Response Time,2,24.0,2023-05-26,Major,Medium,Escalated
+2280,12838,Response Time,8,24.0,2024-07-30,Major,Low,Process Review
+2281,12848,Response Time,2,24.0,2024-03-12,Major,High,Process Review
+2282,12853,Response Time,2,48.0,2024-07-10,Major,Medium,Manager Notified
+2283,12856,Response Time,2,24.0,2023-12-20,Minor,Low,Manager Notified
+2284,12866,Response Time,2,24.0,2024-10-07,Critical,Medium,Escalated
+2285,12867,Response Time,8,24.0,2023-07-25,Major,High,Manager Notified
+2286,12869,Response Time,2,24.0,2024-06-05,Major,Low,Manager Notified
+2287,12872,Response Time,8,24.0,2023-04-27,Major,High,Manager Notified
+2288,12873,Response Time,2,24.0,2024-04-29,Minor,Medium,None
+2289,12885,Response Time,2,24.0,2024-11-19,Minor,High,None
+2290,12886,Response Time,8,24.0,2024-02-15,Minor,Medium,Process Review
+2291,12894,Response Time,2,24.0,2023-12-27,Minor,Medium,None
+2292,12895,Response Time,8,24.0,2024-09-06,Minor,Medium,Manager Notified
+2293,12907,Response Time,2,24.0,2023-11-20,Major,Medium,Manager Notified
+2294,12910,Response Time,2,24.0,2024-04-10,Critical,Medium,Process Review
+2295,12913,Response Time,2,24.0,2024-02-05,Critical,Medium,Process Review
+2296,12924,Response Time,2,24.0,2023-11-17,Minor,High,None
+2297,12927,Response Time,2,24.0,2024-10-22,Minor,Medium,None
+2298,12932,Response Time,2,24.0,2024-04-11,Major,Medium,None
+2299,12937,Response Time,2,24.0,2024-09-03,Critical,High,Process Review
+2300,12943,Response Time,2,48.0,2023-05-16,Minor,Medium,Manager Notified
+2301,12945,Response Time,8,24.0,2023-04-14,Critical,High,Escalated
+2302,12967,Response Time,8,24.0,2023-05-30,Major,High,None
+2303,12974,Response Time,2,24.0,2024-10-02,Major,Low,Manager Notified
+2304,12981,Response Time,8,24.0,2023-04-08,Major,High,Manager Notified
+2305,12987,Response Time,8,24.0,2024-07-24,Minor,High,None
+2306,12992,Response Time,2,24.0,2024-07-15,Critical,High,Process Review
+2307,13007,Response Time,8,24.0,2024-06-24,Major,Medium,Process Review
+2308,13015,Response Time,8,24.0,2023-02-23,Major,Medium,Manager Notified
+2309,13022,Response Time,2,24.0,2024-03-14,Critical,High,Process Review
+2310,13023,Response Time,8,24.0,2024-05-27,Minor,Low,Process Review
+2311,13033,Response Time,2,24.0,2023-11-02,Critical,Low,Manager Notified
+2312,13036,Response Time,8,24.0,2024-08-04,Minor,High,Process Review
+2313,13050,Response Time,24,48.0,2024-06-19,Major,Low,Manager Notified
+2314,13053,Response Time,8,24.0,2024-05-14,Major,Medium,None
+2315,13064,Response Time,8,24.0,2024-08-09,Critical,High,Escalated
+2316,13065,Response Time,8,24.0,2023-08-26,Major,Medium,None
+2317,13069,Response Time,8,24.0,2023-01-03,Minor,Medium,Escalated
+2318,13074,Response Time,8,24.0,2024-01-09,Minor,Low,Process Review
+2319,13079,Response Time,2,24.0,2023-11-01,Major,Medium,Process Review
+2320,13085,Response Time,2,24.0,2023-01-30,Critical,Medium,None
+2321,13102,Response Time,2,24.0,2023-06-05,Critical,Medium,Manager Notified
+2322,13116,Response Time,8,24.0,2023-07-12,Major,Low,Escalated
+2323,13119,Response Time,2,24.0,2024-05-25,Minor,Low,None
+2324,13121,Response Time,2,24.0,2023-05-02,Critical,High,Escalated
+2325,13123,Response Time,8,24.0,2024-07-08,Critical,Low,Manager Notified
+2326,13126,Response Time,2,24.0,2023-11-12,Critical,Low,Escalated
+2327,13131,Response Time,8,24.0,2024-03-26,Major,Low,Process Review
+2328,13145,Response Time,2,24.0,2024-02-26,Major,Medium,None
+2329,13166,Response Time,2,24.0,2023-03-23,Minor,Medium,Process Review
+2330,13170,Response Time,2,24.0,2024-01-08,Critical,High,Escalated
+2331,13172,Response Time,2,24.0,2024-06-03,Minor,Medium,Escalated
+2332,13179,Response Time,2,24.0,2023-05-12,Minor,Low,Manager Notified
+2333,13185,Response Time,8,48.0,2023-05-22,Critical,Low,Process Review
+2334,13196,Response Time,2,24.0,2023-06-24,Minor,High,Process Review
+2335,13199,Response Time,2,24.0,2023-01-12,Minor,Medium,Manager Notified
+2336,13200,Response Time,8,24.0,2024-01-19,Critical,Medium,Process Review
+2337,13225,Response Time,8,24.0,2023-08-23,Critical,Medium,Process Review
+2338,13254,Response Time,8,24.0,2024-08-11,Critical,Low,None
+2339,13261,Response Time,8,24.0,2023-12-07,Major,Medium,Manager Notified
+2340,13263,Response Time,2,24.0,2024-06-18,Major,High,Escalated
+2341,13264,Response Time,8,48.0,2024-06-05,Minor,Medium,Manager Notified
+2342,13265,Response Time,2,24.0,2024-10-15,Minor,Low,None
+2343,13268,Response Time,2,24.0,2024-03-28,Major,Low,Escalated
+2344,13280,Response Time,8,24.0,2023-02-04,Critical,Medium,Escalated
+2345,13300,Response Time,8,24.0,2023-12-15,Major,Low,Process Review
+2346,13301,Response Time,8,24.0,2023-07-25,Major,Low,Manager Notified
+2347,13305,Response Time,2,24.0,2023-09-08,Minor,Low,None
+2348,13308,Response Time,2,24.0,2024-04-13,Major,Low,Manager Notified
+2349,13312,Response Time,8,24.0,2023-01-07,Major,High,Manager Notified
+2350,13318,Response Time,2,24.0,2023-08-21,Minor,High,Manager Notified
+2351,13319,Response Time,2,24.0,2023-09-25,Critical,Low,Process Review
+2352,13320,Response Time,8,24.0,2024-07-20,Critical,High,None
+2353,13321,Response Time,2,24.0,2024-10-23,Critical,Medium,Process Review
+2354,13323,Response Time,8,24.0,2023-06-27,Major,Low,None
+2355,13339,Response Time,2,24.0,2024-11-01,Major,Low,Escalated
+2356,13371,Response Time,2,24.0,2024-07-07,Minor,Low,Process Review
+2357,13373,Response Time,8,24.0,2024-01-10,Major,High,Manager Notified
+2358,13383,Response Time,8,24.0,2023-08-30,Minor,Medium,Manager Notified
+2359,13385,Response Time,2,24.0,2023-11-07,Major,Low,None
+2360,13386,Response Time,24,48.0,2023-03-21,Critical,Low,None
+2361,13388,Response Time,2,24.0,2023-01-18,Critical,Low,Process Review
+2362,13393,Response Time,2,24.0,2024-10-26,Minor,Medium,Manager Notified
+2363,13394,Response Time,24,48.0,2024-06-11,Minor,Low,Escalated
+2364,13405,Response Time,8,48.0,2024-08-11,Major,Low,Manager Notified
+2365,13419,Response Time,2,24.0,2024-08-15,Major,Low,Escalated
+2366,13425,Response Time,2,24.0,2023-03-27,Critical,Low,Manager Notified
+2367,13435,Response Time,8,24.0,2023-06-01,Minor,Medium,Process Review
+2368,13439,Response Time,2,24.0,2023-12-31,Major,Low,Process Review
+2369,13448,Response Time,8,24.0,2024-10-18,Minor,High,Manager Notified
+2370,13464,Response Time,8,24.0,2023-02-02,Critical,Low,Process Review
+2371,13472,Response Time,8,24.0,2023-04-02,Critical,High,Process Review
+2372,13473,Response Time,8,24.0,2023-01-04,Major,Medium,Manager Notified
+2373,13476,Response Time,2,24.0,2023-10-25,Major,Medium,Escalated
+2374,13479,Response Time,2,24.0,2024-11-15,Major,Low,Escalated
+2375,13482,Response Time,8,24.0,2024-03-21,Critical,Medium,Process Review
+2376,13483,Response Time,2,24.0,2024-01-27,Major,Low,None
+2377,13486,Response Time,8,24.0,2024-02-03,Critical,High,Process Review
+2378,13489,Response Time,8,24.0,2024-02-01,Major,High,Manager Notified
+2379,13490,Response Time,8,24.0,2024-11-02,Major,Medium,Manager Notified
+2380,13503,Response Time,8,24.0,2024-02-28,Critical,Low,Manager Notified
+2381,13523,Response Time,2,24.0,2023-05-15,Major,Medium,Manager Notified
+2382,13524,Response Time,8,24.0,2023-01-15,Major,Low,Process Review
+2383,13526,Response Time,2,24.0,2024-05-30,Minor,Medium,None
+2384,13527,Response Time,2,24.0,2024-02-08,Minor,Medium,Escalated
+2385,13528,Response Time,2,24.0,2024-03-18,Major,Low,Escalated
+2386,13536,Response Time,8,24.0,2024-10-02,Critical,High,Process Review
+2387,13541,Response Time,2,24.0,2024-03-06,Critical,High,Manager Notified
+2388,13559,Response Time,2,24.0,2024-05-24,Minor,Low,Manager Notified
+2389,13561,Response Time,8,24.0,2024-04-08,Minor,Low,Process Review
+2390,13564,Response Time,8,24.0,2023-07-03,Major,Low,Escalated
+2391,13583,Response Time,2,24.0,2023-05-18,Major,High,None
+2392,13584,Response Time,8,24.0,2024-11-19,Minor,High,Process Review
+2393,13587,Response Time,8,24.0,2024-11-25,Minor,High,Manager Notified
+2394,13590,Response Time,8,24.0,2024-09-26,Major,Low,Manager Notified
+2395,13606,Response Time,2,24.0,2023-08-26,Major,High,Process Review
+2396,13610,Response Time,2,24.0,2024-09-05,Major,Low,Process Review
+2397,13614,Response Time,2,24.0,2024-07-27,Major,High,Manager Notified
+2398,13616,Response Time,2,24.0,2024-02-19,Major,Medium,Process Review
+2399,13618,Response Time,2,24.0,2024-09-30,Critical,Medium,Escalated
+2400,13629,Response Time,2,24.0,2024-03-23,Critical,Medium,None
+2401,13631,Response Time,2,24.0,2024-06-12,Major,High,Process Review
+2402,13633,Response Time,8,24.0,2024-01-05,Critical,Medium,Manager Notified
+2403,13635,Response Time,8,24.0,2024-10-04,Critical,Low,Escalated
+2404,13647,Response Time,8,24.0,2024-12-05,Critical,Medium,Manager Notified
+2405,13650,Response Time,2,24.0,2024-10-16,Critical,High,Escalated
+2406,13657,Response Time,2,24.0,2024-02-12,Minor,Low,None
+2407,13664,Response Time,2,24.0,2023-05-25,Critical,Medium,Escalated
+2408,13667,Response Time,2,24.0,2024-11-15,Major,Medium,Process Review
+2409,13668,Response Time,8,24.0,2024-01-16,Major,Medium,None
+2410,13686,Response Time,8,24.0,2023-05-26,Major,Low,Manager Notified
+2411,13697,Response Time,8,24.0,2023-12-27,Minor,Medium,Manager Notified
+2412,13700,Response Time,8,24.0,2023-11-21,Critical,High,Manager Notified
+2413,13707,Response Time,2,24.0,2024-10-24,Critical,High,None
+2414,13709,Response Time,2,24.0,2023-11-21,Critical,High,Escalated
+2415,13711,Response Time,8,24.0,2024-11-18,Minor,High,None
+2416,13712,Response Time,8,24.0,2023-05-11,Major,High,None
+2417,13722,Response Time,8,24.0,2023-11-15,Minor,Medium,None
+2418,13729,Response Time,2,24.0,2024-12-06,Critical,Low,Escalated
+2419,13745,Response Time,8,24.0,2024-02-28,Critical,High,None
+2420,13755,Response Time,8,24.0,2024-06-01,Minor,Low,Manager Notified
+2421,13771,Response Time,24,48.0,2023-03-11,Major,Low,Process Review
+2422,13772,Response Time,8,24.0,2023-05-26,Major,Medium,None
+2423,13776,Response Time,8,24.0,2023-08-03,Minor,Low,None
+2424,13795,Response Time,24,48.0,2023-12-28,Critical,Low,None
+2425,13798,Response Time,2,24.0,2023-09-12,Critical,High,Escalated
+2426,13804,Response Time,8,24.0,2024-02-02,Minor,High,None
+2427,13807,Response Time,2,24.0,2023-10-03,Major,Low,Manager Notified
+2428,13811,Response Time,2,24.0,2023-10-31,Critical,High,Escalated
+2429,13820,Response Time,2,24.0,2023-01-06,Critical,High,Process Review
+2430,13830,Response Time,2,24.0,2024-11-27,Major,Low,None
+2431,13831,Response Time,2,24.0,2024-03-29,Major,Medium,None
+2432,13836,Response Time,8,24.0,2023-08-09,Major,High,None
+2433,13850,Response Time,8,24.0,2023-02-27,Minor,Medium,Manager Notified
+2434,13851,Response Time,8,24.0,2024-03-27,Minor,Low,None
+2435,13855,Response Time,8,24.0,2024-05-01,Major,High,None
+2436,13858,Response Time,2,24.0,2023-02-06,Critical,Medium,Manager Notified
+2437,13862,Response Time,8,24.0,2023-06-03,Critical,High,None
+2438,13866,Response Time,2,24.0,2023-02-20,Critical,High,Manager Notified
+2439,13867,Response Time,8,24.0,2023-07-02,Minor,Low,Process Review
+2440,13868,Response Time,8,24.0,2024-06-10,Minor,High,None
+2441,13870,Response Time,24,48.0,2023-02-08,Minor,Low,None
+2442,13876,Response Time,8,24.0,2024-12-19,Critical,Low,Process Review
+2443,13879,Response Time,8,24.0,2024-10-12,Critical,Low,Manager Notified
+2444,13884,Response Time,2,24.0,2023-04-22,Minor,High,Escalated
+2445,13885,Response Time,2,24.0,2023-03-16,Major,High,Process Review
+2446,13890,Response Time,2,24.0,2023-11-25,Major,High,None
+2447,13891,Response Time,8,24.0,2023-10-15,Critical,High,None
+2448,13897,Response Time,8,48.0,2024-10-02,Minor,Medium,None
+2449,13903,Response Time,8,24.0,2024-05-14,Critical,Medium,Process Review
+2450,13915,Response Time,8,24.0,2024-04-02,Minor,Medium,Process Review
+2451,13925,Response Time,2,24.0,2023-05-22,Minor,Low,Process Review
+2452,13936,Response Time,2,48.0,2024-07-03,Major,High,Process Review
+2453,13941,Response Time,8,24.0,2024-09-20,Minor,High,Escalated
+2454,13943,Response Time,8,24.0,2023-01-17,Critical,Low,Escalated
+2455,13944,Response Time,8,24.0,2024-02-29,Critical,Low,Manager Notified
+2456,13947,Response Time,2,24.0,2024-03-26,Critical,Low,Manager Notified
+2457,13948,Response Time,8,24.0,2024-03-22,Critical,High,Manager Notified
+2458,13949,Response Time,2,24.0,2024-03-24,Minor,Medium,None
+2459,13950,Response Time,24,48.0,2023-06-22,Minor,High,Process Review
+2460,13955,Response Time,2,24.0,2024-09-23,Major,Medium,Escalated
+2461,13956,Response Time,8,24.0,2024-11-25,Minor,Medium,None
+2462,13964,Response Time,2,24.0,2023-02-01,Minor,Medium,None
+2463,13967,Response Time,8,24.0,2024-08-29,Critical,Medium,None
+2464,13970,Response Time,2,24.0,2023-03-31,Major,Low,Process Review
+2465,13973,Response Time,8,48.0,2023-03-01,Minor,High,Escalated
+2466,13978,Response Time,8,24.0,2023-11-05,Major,Medium,None
+2467,13979,Response Time,8,24.0,2024-03-22,Critical,Low,Escalated
+2468,13984,Response Time,8,24.0,2024-07-29,Minor,High,Manager Notified
+2469,13997,Response Time,8,24.0,2024-10-02,Major,Medium,Manager Notified
+2470,14000,Response Time,2,24.0,2024-09-15,Minor,Low,Process Review
+2471,14009,Response Time,2,24.0,2024-02-20,Major,High,Process Review
+2472,14017,Response Time,2,24.0,2023-05-04,Major,High,Process Review
+2473,14028,Response Time,2,24.0,2023-05-23,Major,Medium,Escalated
+2474,14030,Response Time,2,24.0,2024-07-08,Minor,High,None
+2475,14031,Response Time,2,24.0,2024-06-17,Critical,Low,Process Review
+2476,14041,Response Time,2,24.0,2023-04-04,Major,High,Process Review
+2477,14043,Response Time,2,24.0,2024-07-06,Minor,Low,Manager Notified
+2478,14056,Response Time,2,24.0,2024-10-16,Major,High,Manager Notified
+2479,14063,Response Time,2,24.0,2024-08-09,Minor,High,None
+2480,14075,Response Time,2,24.0,2024-04-29,Major,Low,None
+2481,14086,Response Time,2,24.0,2024-09-28,Critical,Medium,Manager Notified
+2482,14088,Response Time,8,24.0,2023-08-17,Critical,Low,Process Review
+2483,14091,Response Time,2,24.0,2024-07-20,Major,High,Manager Notified
+2484,14092,Response Time,8,24.0,2024-05-28,Minor,Medium,Process Review
+2485,14109,Response Time,2,24.0,2024-03-18,Minor,Medium,Manager Notified
+2486,14110,Response Time,8,24.0,2024-01-13,Critical,High,Escalated
+2487,14112,Response Time,8,24.0,2023-03-27,Minor,Low,None
+2488,14117,Response Time,8,24.0,2024-03-20,Major,Medium,Process Review
+2489,14123,Response Time,8,24.0,2023-06-22,Critical,High,Process Review
+2490,14127,Response Time,2,24.0,2023-07-19,Minor,Low,Manager Notified
+2491,14135,Response Time,2,24.0,2024-09-13,Major,Low,Manager Notified
+2492,14140,Response Time,2,24.0,2024-01-02,Minor,High,Process Review
+2493,14149,Response Time,2,24.0,2024-01-23,Critical,Medium,Manager Notified
+2494,14163,Response Time,8,24.0,2023-05-10,Major,High,None
+2495,14180,Response Time,2,24.0,2023-12-29,Major,High,Escalated
+2496,14182,Response Time,8,24.0,2024-11-24,Minor,Low,Process Review
+2497,14185,Response Time,8,24.0,2023-03-05,Minor,High,None
+2498,14190,Response Time,2,24.0,2024-05-22,Major,Low,Manager Notified
+2499,14194,Response Time,8,24.0,2023-11-10,Critical,High,Escalated
+2500,14196,Response Time,2,24.0,2023-07-21,Critical,High,None
+2501,14197,Response Time,2,24.0,2023-10-07,Major,High,Process Review
+2502,14207,Response Time,2,24.0,2023-06-16,Critical,Medium,Escalated
+2503,14219,Response Time,8,24.0,2024-10-24,Critical,Low,Escalated
+2504,14225,Response Time,8,48.0,2024-12-11,Minor,Medium,None
+2505,14227,Response Time,2,24.0,2023-07-21,Critical,Low,Process Review
+2506,14230,Response Time,8,24.0,2023-02-20,Major,Low,None
+2507,14237,Response Time,2,24.0,2023-06-28,Major,Medium,Process Review
+2508,14239,Response Time,8,24.0,2023-05-16,Major,High,Escalated
+2509,14252,Response Time,2,24.0,2024-09-10,Major,Medium,Process Review
+2510,14255,Response Time,2,24.0,2024-01-27,Major,Medium,Process Review
+2511,14260,Response Time,8,24.0,2023-04-27,Minor,Low,Escalated
+2512,14269,Response Time,8,24.0,2024-07-07,Minor,High,Process Review
+2513,14276,Response Time,2,24.0,2023-09-30,Minor,Medium,None
+2514,14281,Response Time,2,24.0,2024-05-28,Minor,Medium,Escalated
+2515,14288,Response Time,2,24.0,2024-06-18,Critical,Medium,Manager Notified
+2516,14291,Response Time,8,24.0,2024-05-08,Minor,Low,Manager Notified
+2517,14293,Response Time,8,24.0,2024-08-31,Critical,Low,Escalated
+2518,14294,Response Time,8,24.0,2024-06-23,Critical,Medium,Escalated
+2519,14295,Response Time,8,24.0,2023-11-07,Critical,High,Manager Notified
+2520,14299,Response Time,2,24.0,2024-06-14,Major,High,Process Review
+2521,14302,Response Time,2,24.0,2024-07-09,Major,High,Manager Notified
+2522,14303,Response Time,2,24.0,2023-10-31,Minor,Low,Manager Notified
+2523,14308,Response Time,2,48.0,2024-06-07,Minor,Low,Escalated
+2524,14311,Response Time,8,24.0,2023-11-04,Minor,Medium,Process Review
+2525,14323,Response Time,2,24.0,2023-11-17,Minor,High,None
+2526,14330,Response Time,2,24.0,2024-09-01,Major,High,None
+2527,14337,Response Time,2,24.0,2024-05-12,Minor,High,Escalated
+2528,14341,Response Time,8,24.0,2024-03-06,Minor,Medium,Escalated
+2529,14355,Response Time,2,24.0,2023-07-28,Minor,Medium,Escalated
+2530,14361,Response Time,8,24.0,2024-05-09,Major,High,Process Review
+2531,14369,Response Time,2,24.0,2023-07-11,Critical,Medium,None
+2532,14370,Response Time,8,24.0,2024-01-18,Critical,High,Manager Notified
+2533,14371,Response Time,8,24.0,2024-12-12,Minor,High,Escalated
+2534,14374,Response Time,8,24.0,2024-06-12,Minor,High,Escalated
+2535,14377,Response Time,2,24.0,2024-03-14,Critical,Low,Process Review
+2536,14379,Response Time,2,24.0,2024-09-27,Major,Medium,Manager Notified
+2537,14380,Response Time,2,24.0,2024-09-02,Major,Medium,None
+2538,14381,Response Time,2,24.0,2023-06-16,Critical,High,Manager Notified
+2539,14386,Response Time,8,24.0,2024-02-14,Major,Low,None
+2540,14394,Response Time,8,24.0,2024-04-03,Major,Low,Escalated
+2541,14400,Response Time,8,24.0,2023-12-05,Major,Low,Manager Notified
+2542,14415,Response Time,2,24.0,2023-02-24,Minor,Medium,None
+2543,14420,Response Time,2,24.0,2024-10-19,Major,High,Manager Notified
+2544,14425,Response Time,8,24.0,2024-10-27,Minor,Low,None
+2545,14435,Response Time,8,24.0,2024-08-18,Critical,High,Process Review
+2546,14436,Response Time,8,24.0,2024-02-16,Critical,Medium,Escalated
+2547,14444,Response Time,8,24.0,2023-07-09,Critical,Low,Process Review
+2548,14447,Response Time,8,24.0,2024-05-25,Critical,Medium,Process Review
+2549,14453,Response Time,8,24.0,2024-03-04,Critical,Medium,Manager Notified
+2550,14456,Response Time,8,24.0,2024-09-12,Major,Medium,Manager Notified
+2551,14459,Response Time,2,24.0,2024-05-22,Minor,Low,Process Review
+2552,14467,Response Time,2,24.0,2023-04-26,Critical,Low,Manager Notified
+2553,14477,Response Time,8,24.0,2023-05-03,Minor,Low,Process Review
+2554,14482,Response Time,8,24.0,2024-10-04,Minor,Low,Escalated
+2555,14496,Response Time,8,24.0,2024-06-21,Minor,Medium,Escalated
+2556,14507,Response Time,8,24.0,2023-01-27,Minor,Medium,Manager Notified
+2557,14508,Response Time,2,24.0,2024-12-15,Minor,Low,Escalated
+2558,14509,Response Time,2,24.0,2024-12-29,Minor,High,Manager Notified
+2559,14513,Response Time,8,24.0,2023-11-14,Minor,Medium,Manager Notified
+2560,14515,Response Time,8,24.0,2023-04-21,Major,Medium,Escalated
+2561,14518,Response Time,8,24.0,2023-02-24,Major,High,Escalated
+2562,14522,Response Time,2,24.0,2024-08-13,Minor,High,Manager Notified
+2563,14523,Response Time,2,24.0,2024-04-08,Minor,High,Process Review
+2564,14532,Response Time,2,24.0,2024-04-27,Minor,Medium,Manager Notified
+2565,14536,Response Time,2,24.0,2023-08-20,Critical,Low,Manager Notified
+2566,14538,Response Time,8,24.0,2023-10-26,Major,High,None
+2567,14549,Response Time,8,24.0,2023-01-03,Major,High,Escalated
+2568,14554,Response Time,2,24.0,2023-09-08,Critical,Low,Process Review
+2569,14555,Response Time,8,24.0,2023-11-14,Minor,High,Process Review
+2570,14559,Response Time,8,48.0,2024-03-07,Critical,Low,Process Review
+2571,14564,Response Time,8,24.0,2024-09-16,Critical,Medium,Escalated
+2572,14565,Response Time,2,24.0,2023-10-19,Critical,Medium,None
+2573,14568,Response Time,8,24.0,2023-11-25,Critical,High,Escalated
+2574,14581,Response Time,2,24.0,2023-09-17,Major,Low,Escalated
+2575,14590,Response Time,8,24.0,2023-03-18,Minor,High,Process Review
+2576,14591,Response Time,8,24.0,2024-07-23,Major,High,Manager Notified
+2577,14592,Response Time,2,24.0,2023-12-26,Minor,High,None
+2578,14598,Response Time,8,24.0,2024-04-23,Major,Medium,None
+2579,14602,Response Time,2,24.0,2023-07-24,Minor,Low,Manager Notified
+2580,14606,Response Time,2,24.0,2023-03-30,Major,Low,None
+2581,14607,Response Time,2,48.0,2024-09-24,Critical,High,Escalated
+2582,14616,Response Time,2,24.0,2024-08-11,Minor,Medium,Process Review
+2583,14618,Response Time,8,24.0,2024-02-12,Critical,Medium,Escalated
+2584,14633,Response Time,2,24.0,2023-02-14,Critical,Medium,Escalated
+2585,14651,Response Time,2,24.0,2023-08-29,Major,Low,Manager Notified
+2586,14663,Response Time,8,24.0,2023-05-16,Critical,Medium,Manager Notified
+2587,14685,Response Time,8,24.0,2023-01-04,Minor,Medium,None
+2588,14690,Response Time,2,24.0,2023-12-03,Critical,High,Manager Notified
+2589,14692,Response Time,2,24.0,2023-07-05,Major,Low,Escalated
+2590,14699,Response Time,2,24.0,2023-11-11,Major,Low,Manager Notified
+2591,14702,Response Time,8,24.0,2023-04-17,Major,Low,Process Review
+2592,14715,Response Time,2,24.0,2024-12-24,Critical,High,Manager Notified
+2593,14729,Response Time,8,24.0,2024-09-18,Minor,Medium,Escalated
+2594,14730,Response Time,8,24.0,2023-09-04,Major,High,Manager Notified
+2595,14732,Response Time,2,24.0,2023-06-04,Minor,High,Process Review
+2596,14735,Response Time,8,24.0,2024-09-01,Minor,Low,Manager Notified
+2597,14755,Response Time,8,24.0,2023-06-29,Minor,Low,Manager Notified
+2598,14772,Response Time,2,24.0,2023-09-10,Critical,High,None
+2599,14788,Response Time,2,24.0,2023-08-18,Minor,High,Escalated
+2600,14789,Response Time,2,24.0,2024-10-27,Minor,Low,Process Review
+2601,14790,Response Time,8,24.0,2024-02-15,Critical,Low,Manager Notified
+2602,14791,Response Time,8,24.0,2024-03-25,Major,Low,None
+2603,14794,Response Time,8,24.0,2024-06-11,Critical,Low,Escalated
+2604,14809,Response Time,2,24.0,2024-04-28,Minor,Medium,Escalated
+2605,14816,Response Time,2,24.0,2024-06-11,Major,Medium,Process Review
+2606,14818,Response Time,2,24.0,2024-02-14,Major,High,Process Review
+2607,14832,Response Time,2,24.0,2023-02-27,Minor,Medium,Process Review
+2608,14833,Response Time,2,24.0,2024-01-20,Minor,Medium,Escalated
+2609,14834,Response Time,2,24.0,2024-04-05,Major,Low,None
+2610,14835,Response Time,2,24.0,2024-01-31,Minor,Medium,None
+2611,14837,Response Time,8,24.0,2024-03-04,Major,Medium,Escalated
+2612,14839,Response Time,8,24.0,2023-03-31,Major,High,Escalated
+2613,14844,Response Time,8,48.0,2024-09-24,Critical,Low,Process Review
+2614,14848,Response Time,8,24.0,2023-09-18,Critical,Medium,None
+2615,14850,Response Time,2,24.0,2023-04-24,Critical,High,Process Review
+2616,14852,Response Time,2,24.0,2024-05-07,Minor,Low,Manager Notified
+2617,14862,Response Time,8,24.0,2024-02-19,Critical,Low,Process Review
+2618,14866,Response Time,2,24.0,2023-10-17,Minor,Low,None
+2619,14872,Response Time,8,24.0,2023-12-03,Critical,Medium,Process Review
+2620,14873,Response Time,2,24.0,2024-12-06,Major,Low,None
+2621,14893,Response Time,8,24.0,2023-05-14,Critical,High,None
+2622,14895,Response Time,2,24.0,2024-03-15,Major,Medium,Process Review
+2623,14911,Response Time,2,24.0,2024-12-17,Major,Medium,Escalated
+2624,14922,Response Time,2,24.0,2024-02-13,Major,Medium,Process Review
+2625,14923,Response Time,2,24.0,2023-01-24,Critical,High,Escalated
+2626,14934,Response Time,2,24.0,2024-10-13,Critical,Medium,Escalated
+2627,14937,Response Time,8,24.0,2023-09-30,Critical,High,None
+2628,14941,Response Time,2,24.0,2024-05-26,Major,High,Escalated
+2629,14948,Response Time,8,24.0,2023-04-23,Major,High,Process Review
+2630,14949,Response Time,8,24.0,2024-04-23,Critical,Medium,Escalated
+2631,14951,Response Time,8,24.0,2023-04-21,Major,High,Escalated
+2632,14962,Response Time,8,24.0,2023-09-05,Major,High,Process Review
+2633,14967,Response Time,8,24.0,2024-11-08,Minor,High,Manager Notified
+2634,14969,Response Time,2,24.0,2023-08-30,Critical,High,Escalated
+2635,14972,Response Time,2,48.0,2023-09-04,Major,Low,Escalated
+2636,14986,Response Time,2,24.0,2024-12-24,Minor,High,Process Review
+2637,14992,Response Time,8,24.0,2024-01-08,Minor,High,None
+2638,14999,Response Time,8,24.0,2024-07-13,Major,High,Manager Notified

@@ -1,0 +1,11 @@
+product_id,product_name,category,version,is_active
+1,Enterprise CRM Suite,Software,v3.2.1,True
+2,Marketing Automation Platform,Software,v2.8.5,True
+3,Analytics Dashboard Pro,Software,v1.5.3,True
+4,Cloud Storage Enterprise,Service,v4.1.0,True
+5,Security Suite Advanced,Software,v2.3.7,True
+6,Mobile App iOS,Mobile App,v1.8.2,True
+7,Mobile App Android,Mobile App,v1.8.1,True
+8,API Gateway,API,v3.0.4,True
+9,Web Platform,Web Platform,v2.1.8,True
+10,Legacy System,Software,v1.0.0,False

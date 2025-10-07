@@ -1,0 +1,200 @@
+asset_id,campaign_id,asset_name,asset_type,file_size_mb,creation_date,status,creator,version,tags,description
+1,1,Video - Content Marketing Campaign 1,Blog Post,8.01,2024-04-15,Approved,David Grant,v4.9,"other, peace, simply",Late kind team wrong figure perform participant science.
+2,1,White Paper - Content Marketing Campaign 1,White Paper,13.6,2024-04-11,Review,Benjamin Smith,v4.9,"like, allow, explain",Reflect law reach under skin person product.
+3,1,White Paper - Content Marketing Campaign 1,Email,6.18,2024-04-12,Review,Samantha Jones,v2.4,"organization, station, TV",Buy read record wall matter management ball always it.
+4,1,Webinar - Content Marketing Campaign 1,Case Study,1.78,2024-04-12,Archived,Alicia Hubbard,v3.9,"American, series, like",Trouble consider one play man before girl four prove.
+5,1,Infographic - Content Marketing Campaign 1,Webinar,20.88,2024-04-13,Published,Krista Gibson,v3.4,"follow, wife, identify",Stay ability thank left approach million performance material kind appear.
+6,2,Landing Page - Webinars Campaign 2,Infographic,46.42,2024-05-24,Published,William Lynch,v2.2,"financial, add, impact",Yeah tree left brother strategy marriage respond.
+7,2,Landing Page - Webinars Campaign 2,Case Study,21.07,2024-06-03,Published,Juan Reyes,v5.8,"second, carry, attorney",Future skin environment able rise study oil process tend.
+8,2,Social Post - Webinars Campaign 2,Landing Page,24.47,2024-04-30,Archived,Timothy Kane,v2.9,"him, task, improve",Seat relate specific history professional star wonder manager.
+9,2,Blog Post - Webinars Campaign 2,Infographic,25.36,2024-06-28,Draft,Jessica Fox,v4.0,"reveal, improve, pressure",Avoid sit enter perhaps however bag.
+10,3,Landing Page - SEO Campaign 3,Email,47.73,2023-04-18,Published,Amanda Jones,v3.3,"section, its, better",Kitchen really tough animal someone.
+11,3,Case Study - SEO Campaign 3,Webinar,19.05,2023-03-18,Archived,Michael White,v2.1,"participant, him, raise",Tree central leave effect effort act source top quality.
+12,3,Infographic - SEO Campaign 3,Video,22.37,2023-03-31,Archived,Victor Vaughn,v4.4,"current, his, low",High grow fast recognize against stop how.
+13,3,Blog Post - SEO Campaign 3,Blog Post,45.58,2023-04-25,Approved,Crystal Pham,v2.3,"per, question, return",Pick tough position final kid often.
+14,4,Video - Social Media Campaign 4,Case Study,16.67,2024-10-15,Review,Joshua Mata,v5.8,"tree, store, either",Whose far that sound life away senior difficult put.
+15,4,Email - Social Media Campaign 4,Landing Page,18.61,2024-11-05,Draft,Caleb Richardson,v3.9,"herself, police, he",Likely people wall foreign particular positive play.
+16,4,Social Post - Social Media Campaign 4,Case Study,32.64,2024-09-27,Draft,Elizabeth Vasquez,v1.3,"thought, career, law",Industry score choice increase between majority impact week allow have.
+17,5,Social Post - Social Media Campaign 5,White Paper,42.84,2024-05-20,Approved,Vanessa Howard,v4.4,"couple, business, summer",Begin deep police wife anything four writer skin day.
+18,5,Landing Page - Social Media Campaign 5,White Paper,29.53,2024-09-18,Review,Charles Lester,v1.4,"teach, certain, candidate",Sometimes body term capital group small open.
+19,5,Blog Post - Social Media Campaign 5,Infographic,13.64,2024-05-25,Published,Nichole Alvarez,v3.8,"order, later, develop",Analysis situation term miss leader who article look husband rather make.
+20,5,Social Post - Social Media Campaign 5,Video,45.01,2024-06-27,Review,Donald Schultz,v5.5,"herself, our, far",Painting between reduce table prepare shoulder result Democrat later.
+21,5,White Paper - Social Media Campaign 5,Email,17.28,2024-07-19,Published,Emily Edwards,v3.5,"well, rather, listen",Story behavior benefit school speech.
+22,6,Blog Post - Email Campaign 6,Landing Page,28.3,2024-08-13,Published,Maurice Christensen,v1.4,"outside, goal, official",Choice lot suggest glass news boy.
+23,6,Case Study - Email Campaign 6,White Paper,40.46,2024-08-20,Archived,Maria Johnson,v3.0,"Congress, reflect, finally",Go consider century price attorney scientist will begin.
+24,6,Landing Page - Email Campaign 6,White Paper,19.12,2024-08-05,Review,Nathan Frank,v5.9,"be, apply, church",Anyone bank kitchen interest parent increase democratic mention generation book question.
+25,6,Social Post - Email Campaign 6,Landing Page,33.52,2024-07-21,Published,Mrs. Christine Dougherty,v2.4,"face, build, market",Compare herself region matter street south author technology amount.
+26,6,Blog Post - Email Campaign 6,Social Post,46.1,2024-08-20,Archived,Jared Bowman,v3.1,"if, whom, commercial",Least ready gun join black job hundred bad that second develop.
+27,6,Infographic - Email Campaign 6,Video,25.77,2024-07-24,Archived,Ricardo Bell,v2.3,"bill, eight, community",Set pretty concern significant management senior.
+28,7,Social Post - Direct Mail Campaign 7,Webinar,43.28,2024-07-04,Review,John Welch,v3.9,"argue, medical, financial",Also hard expert popular within bed order his oil.
+29,7,Blog Post - Direct Mail Campaign 7,Social Post,45.5,2024-06-20,Review,John Hernandez,v1.7,"billion, tonight, gas",Mean common easy just keep.
+30,7,Landing Page - Direct Mail Campaign 7,Infographic,18.51,2024-09-15,Published,George Harper,v3.1,"form, newspaper, hit",Rich prevent trade their four old center.
+31,7,Webinar - Direct Mail Campaign 7,Case Study,48.4,2024-07-22,Published,Michael Miller,v5.6,"poor, foreign, campaign",Behavior provide meet adult final week game she court yourself.
+32,7,Infographic - Direct Mail Campaign 7,Video,15.14,2024-08-13,Archived,Sandy Stephenson,v1.5,"then, peace, others",Class story side speak close join.
+33,7,Email - Direct Mail Campaign 7,Webinar,33.98,2024-03-28,Published,Nicole Bowers,v2.8,"dream, whole, six",Happy water worker left example high.
+34,8,Email - Direct Mail Campaign 8,Infographic,40.94,2023-11-25,Review,Amy Castillo,v3.8,"various, represent, middle",Expect several evening town challenge join.
+35,8,White Paper - Direct Mail Campaign 8,Social Post,44.29,2023-11-29,Published,Jonathan Young,v1.5,"different, five, between",Social case expert stop receive catch relationship large.
+36,8,Blog Post - Direct Mail Campaign 8,Video,1.44,2023-11-10,Review,Monica Rose,v1.4,"down, business, draw",Lead book toward others administration middle drop century investment pass drive.
+37,8,Email - Direct Mail Campaign 8,Infographic,33.39,2023-11-07,Approved,Joseph Romero,v5.8,"after, them, analysis",Wonder effect administration small general run pick sign.
+38,8,Webinar - Direct Mail Campaign 8,Infographic,2.69,2023-11-19,Review,Melinda Pollard,v4.2,"specific, as, simply",Already cut social though firm financial huge spring list.
+39,8,Blog Post - Direct Mail Campaign 8,White Paper,14.66,2023-11-27,Draft,Evelyn Martinez,v3.6,"threat, sea, thus",Fund cost reality happen something entire bar interesting.
+40,9,Infographic - Content Marketing Campaign 9,Landing Page,15.04,2023-12-03,Approved,Elizabeth Morrison,v4.2,"ready, goal, amount",Past itself police social arm provide image message.
+41,9,Infographic - Content Marketing Campaign 9,Blog Post,7.57,2024-03-06,Published,Austin Osborne,v3.5,"him, note, painting",We head several off morning huge power economic box.
+42,9,Infographic - Content Marketing Campaign 9,Social Post,26.13,2024-05-02,Draft,David Griffin,v5.4,"really, your, customer",Table later together knowledge because radio.
+43,9,Webinar - Content Marketing Campaign 9,Webinar,35.62,2024-02-24,Approved,Sarah Joseph,v2.5,"meeting, building, cut",Door management guess occur level work.
+44,9,Infographic - Content Marketing Campaign 9,Video,3.75,2024-01-27,Published,Patricia Morrow,v1.2,"win, politics, last",General there sister policy consider whom item treat area buy.
+45,10,Case Study - Email Campaign 10,Infographic,8.52,2023-08-09,Review,Todd Jacobson,v1.4,"cultural, what, ever",Field move maybe collection walk child probably result painting successful nor.
+46,10,Blog Post - Email Campaign 10,Video,2.75,2023-06-01,Archived,Daniel Armstrong,v5.0,"marriage, phone, face",Lot source rate father authority art keep.
+47,10,Social Post - Email Campaign 10,Social Post,10.6,2023-05-24,Approved,Emma Travis,v3.6,"candidate, have, no",Drop business last cell anything war ten industry.
+48,11,Webinar - Paid Search Campaign 11,Webinar,9.9,2024-07-30,Archived,Shawn Jimenez,v1.6,"measure, whom, Democrat",Any example our successful pull experience account blue.
+49,11,Infographic - Paid Search Campaign 11,Case Study,36.51,2024-10-19,Approved,Anthony Hoffman,v3.8,"eye, hit, late",Evidence writer quite budget window hour some fund voice sense.
+50,11,White Paper - Paid Search Campaign 11,Landing Page,20.37,2024-07-14,Draft,Gary Wells,v4.2,"paper, middle, foreign",Five hotel pattern successful order medical meeting majority none little admit.
+51,12,Video - SEO Campaign 12,Email,29.39,2024-06-09,Draft,Deborah Rios,v5.9,"dinner, anything, lose",Pick people subject challenge quite all way body affect finish.
+52,12,Infographic - SEO Campaign 12,Email,34.68,2024-02-16,Archived,Shelley Fitzgerald,v1.2,"million, night, your",Moment finish community treatment garden great sign return poor.
+53,12,Case Study - SEO Campaign 12,Social Post,10.02,2023-12-30,Archived,Todd Hendrix,v3.3,"real, major, look",Value somebody event business quality here woman stand west source.
+54,12,Case Study - SEO Campaign 12,Blog Post,14.74,2024-05-15,Approved,Mary Burgess,v2.3,"still, even, no",Case past only drug prove most point.
+55,13,Video - Email Campaign 13,Email,16.85,2024-05-03,Review,Joshua Hickman,v4.7,"local, current, white",Experience arrive shoulder present discussion school sure also.
+56,13,Infographic - Email Campaign 13,Email,44.17,2024-04-15,Draft,Jennifer Simpson DVM,v3.0,"across, nothing, blue",Expect writer myself management voice surface life cover.
+57,14,Webinar - Social Media Campaign 14,Infographic,36.69,2024-03-22,Review,George Phillips,v2.2,"particularly, police, if",Middle beautiful protect continue cell food easy end dog.
+58,14,Case Study - Social Media Campaign 14,Webinar,15.45,2024-04-02,Draft,Ian Young,v1.7,"fill, if, maybe",Real police wait happen determine whatever long.
+59,15,Webinar - Events Campaign 15,Email,35.25,2023-10-03,Archived,Samantha Gill,v5.1,"moment, month, gun",Born stock total dark Mr clearly take kind quite response.
+60,15,Social Post - Events Campaign 15,Video,45.0,2023-08-16,Draft,Jose Bryant,v1.8,"left, southern, rich",Effort able design authority interest red must art.
+61,15,Video - Events Campaign 15,Social Post,2.07,2023-08-12,Review,Veronica Brewer,v4.5,"year, him, thank",Heart radio product much president girl condition Mr.
+62,15,Landing Page - Events Campaign 15,Infographic,36.53,2023-07-24,Draft,Veronica Ford,v5.6,"mother, statement, easy",Choice country themselves she allow produce past view.
+63,15,Blog Post - Events Campaign 15,White Paper,10.7,2023-07-11,Draft,Michael Brennan,v2.0,"I, doctor, describe",Cell year doctor trouble office.
+64,16,Webinar - Display Campaign 16,White Paper,15.44,2024-09-18,Archived,Eric Brown,v5.2,"personal, interview, many",Walk provide skill five indicate chance heavy senior.
+65,16,Social Post - Display Campaign 16,White Paper,42.54,2024-10-06,Review,Suzanne Hart,v4.8,"morning, home, effort",Position two suggest begin right couple environmental purpose.
+66,16,Blog Post - Display Campaign 16,Video,9.81,2024-11-29,Archived,Daniel Meadows,v3.0,"deep, couple, scientist",Trial receive region however dream focus executive letter possible.
+67,16,Case Study - Display Campaign 16,Case Study,18.3,2024-12-13,Published,William Harrison,v3.3,"have, including, none",Scientist administration network once result far cultural.
+68,16,White Paper - Display Campaign 16,Email,28.7,2024-09-30,Archived,Melinda Scott,v4.7,"leave, run, goal",Result major true my politics arrive.
+69,16,Blog Post - Display Campaign 16,Video,47.29,2024-11-18,Draft,Ryan Hall,v2.0,"despite, lay, art",Tree process administration mother in admit reveal movie expert maybe recently.
+70,17,Infographic - Webinars Campaign 17,Video,45.94,2024-02-03,Review,Joseph Ochoa,v3.6,"bad, where, learn",Wrong difficult range summer president teach service.
+71,17,Video - Webinars Campaign 17,Email,19.27,2024-02-13,Draft,Michele Miller,v4.5,"not, teach, believe",Try discover top realize note even under range exactly myself.
+72,17,Blog Post - Webinars Campaign 17,Infographic,46.47,2023-11-19,Review,Nicole Marquez,v4.1,"federal, nor, note",Quality music himself science so ready bad seat.
+73,17,Webinar - Webinars Campaign 17,Blog Post,5.34,2023-10-20,Draft,Randy Friedman,v4.5,"ahead, event, yeah",Direction need heart control one herself sign far east.
+74,17,Video - Webinars Campaign 17,Video,13.76,2023-12-12,Review,Emily Rodriguez,v1.4,"know, seven, bill",Cost large never impact ago.
+75,18,Landing Page - Email Campaign 18,Video,30.05,2024-11-26,Published,Jason Maxwell,v5.3,"occur, college, herself",Especially environmental certainly cold every feel.
+76,18,Video - Email Campaign 18,Webinar,12.96,2024-11-09,Published,Christina Rodriguez,v3.0,"we, forward, per",Key issue statement prepare organization feel owner receive.
+77,18,Social Post - Email Campaign 18,Webinar,9.29,2024-11-14,Approved,Michael Henry,v5.3,"for, exactly, skill",Box nor or nation race nearly well left.
+78,18,White Paper - Email Campaign 18,Social Post,39.99,2024-11-27,Draft,Rebecca Ortiz,v4.2,"plan, drug, probably",Smile available wrong look husband media turn reality myself.
+79,19,Landing Page - Direct Mail Campaign 19,Video,5.91,2024-04-23,Approved,Lonnie Hart,v4.5,"whole, involve, action",Develop section newspaper reach determine hear leg.
+80,19,Landing Page - Direct Mail Campaign 19,Infographic,17.58,2024-03-13,Draft,Thomas Miller,v2.5,"find, lay, deal",Give best reveal laugh attack and represent against gas.
+81,19,Video - Direct Mail Campaign 19,Infographic,46.53,2024-07-22,Archived,Christopher Castro,v4.3,"something, picture, control",How scene third last involve above Democrat everything region.
+82,19,Video - Direct Mail Campaign 19,Video,40.08,2024-06-15,Approved,Jim Baker,v4.8,"whole, finish, home",Only girl suddenly pay sport relationship father pass.
+83,20,Infographic - Events Campaign 20,Webinar,6.33,2024-07-05,Review,Charles Price,v5.2,"offer, institution, main",Really population yourself never majority cell fire late approach grow.
+84,20,Blog Post - Events Campaign 20,Social Post,7.26,2024-07-12,Archived,Kathleen Cohen,v4.7,"major, bar, air",Factor ever Mrs collection leader score she.
+85,21,Landing Page - Content Marketing Campaign 21,Video,28.85,2023-09-10,Archived,Holly Carson,v1.7,"national, wrong, bill",Fear yourself last give stage keep yes.
+86,21,White Paper - Content Marketing Campaign 21,White Paper,40.63,2024-02-21,Approved,Lisa Patterson,v5.2,"size, spend, south",Go exactly much food region eye environment teach world quickly.
+87,21,Video - Content Marketing Campaign 21,Infographic,48.16,2024-06-01,Draft,Sharon Martinez DVM,v2.2,"represent, stock, seven",Majority officer environmental increase later plant they behavior.
+88,21,Landing Page - Content Marketing Campaign 21,Case Study,34.89,2024-07-18,Published,Erin Smith,v1.7,"play, recently, sure",Huge why station manager follow exist natural candidate system small.
+89,21,Blog Post - Content Marketing Campaign 21,Blog Post,5.43,2024-05-31,Published,Timothy Moore,v4.0,"yeah, into, yet",Think few themselves theory behavior growth.
+90,21,Video - Content Marketing Campaign 21,Webinar,33.39,2024-03-23,Draft,Eric Lyons,v2.6,"pretty, region, ability",Back order mind knowledge account gas building team really.
+91,22,Video - SEO Campaign 22,White Paper,19.46,2024-03-08,Draft,Jacob Evans,v4.2,"political, quality, attention",Across practice key reveal physical character in rather team beautiful.
+92,22,Video - SEO Campaign 22,Infographic,37.75,2024-01-23,Published,Jeffrey Moody,v2.4,"popular, easy, over",Expect wait agree suggest then day parent country hot position.
+93,22,White Paper - SEO Campaign 22,Social Post,19.6,2023-10-03,Archived,Stephen Smith,v3.5,"car, team, nothing",National common likely would authority onto add democratic.
+94,22,Blog Post - SEO Campaign 22,Email,25.58,2024-02-04,Archived,Jessica Morales,v5.8,"pattern, everyone, finally",Tv window choice force only shake power poor financial join.
+95,22,White Paper - SEO Campaign 22,Blog Post,12.6,2024-05-09,Draft,Lee Parker,v2.1,"actually, case, activity",Well mission situation result cold camera sit environmental though.
+96,23,Webinar - Events Campaign 23,Email,13.96,2024-12-16,Archived,Kathleen Dixon,v1.7,"teacher, cold, church",Thus purpose boy scientist able.
+97,23,Blog Post - Events Campaign 23,White Paper,2.78,2024-12-16,Review,Tyler Johnson,v4.3,"focus, indicate, result",Step number budget pull apply development middle.
+98,24,Email - Email Campaign 24,Video,43.91,2024-09-09,Approved,Juan Smith,v2.4,"nor, fight, performance",Happy will young simply run national somebody character usually.
+99,24,Blog Post - Email Campaign 24,White Paper,27.31,2024-05-28,Draft,April Sandoval,v3.1,"day, work, information",Win central evidence analysis discuss.
+100,25,Email - Paid Search Campaign 25,Webinar,23.19,2024-12-03,Archived,Casey Wilkins,v1.9,"nothing, itself, who",Factor surface unit hotel story for laugh.
+101,25,White Paper - Paid Search Campaign 25,Video,47.21,2024-10-06,Archived,Brian Cole,v3.6,"building, group, show",Final enter build citizen rather step recent American structure.
+102,25,Webinar - Paid Search Campaign 25,Infographic,5.02,2024-10-16,Approved,Anthony Evans,v2.0,"weight, take, new",Economic left sound cause activity store work candidate statement head.
+103,25,Video - Paid Search Campaign 25,Case Study,45.91,2024-09-30,Draft,Matthew Lamb,v1.5,"business, walk, anything",Item right many him interview government traditional every land chance.
+104,25,White Paper - Paid Search Campaign 25,Case Study,25.2,2024-12-16,Published,Douglas Taylor,v2.8,"eat, yes, myself",Writer site grow name.
+105,25,Social Post - Paid Search Campaign 25,Webinar,45.68,2024-11-10,Published,Alexander Harper,v1.4,"around, yard, morning",Yourself wind beyond prevent entire staff true argue you detail.
+106,26,Webinar - Events Campaign 26,Infographic,9.22,2024-03-12,Approved,Alyssa Haynes,v5.9,"center, way, student",My compare also argue own after long forward pass.
+107,26,Infographic - Events Campaign 26,Webinar,35.99,2024-08-10,Approved,Charles Bush,v2.1,"suffer, team, whether",Relate product only from follow wish run join.
+108,26,Social Post - Events Campaign 26,Webinar,9.12,2024-09-02,Archived,Courtney Chapman,v2.6,"fill, read, camera",We we hot yes.
+109,26,Blog Post - Events Campaign 26,Infographic,30.32,2024-08-11,Archived,Keith Zuniga,v2.5,"seat, draw, word",Player white start prove role from.
+110,26,Blog Post - Events Campaign 26,Case Study,10.88,2024-04-27,Approved,Brian Smith,v4.7,"run, why, this",Think goal heart stock small official serve difficult later.
+111,27,Case Study - Webinars Campaign 27,Blog Post,16.28,2024-08-25,Draft,Stephen Martin,v1.8,"walk, within, full",Throw relate issue president parent its approach former window important never.
+112,27,Landing Page - Webinars Campaign 27,Case Study,33.2,2024-03-19,Draft,Kenneth Larsen,v2.0,"guess, into, far",Outside current agent color factor bank such final however major produce.
+113,28,Landing Page - Influencer Campaign 28,Email,9.65,2024-12-19,Approved,Andrew Gonzales,v3.3,"student, nor, character",Beat gas must wife operation.
+114,28,Landing Page - Influencer Campaign 28,Blog Post,42.12,2024-12-19,Published,Melissa Mayer,v5.3,"live, bad, total",Maybe too song quality per.
+115,29,Social Post - SEO Campaign 29,Infographic,47.48,2023-09-28,Review,Beth Henderson,v4.3,"young, physical, street",Floor road southern beautiful news need task.
+116,29,Landing Page - SEO Campaign 29,Social Post,45.9,2023-09-23,Archived,Rachael Rodriguez,v2.2,"note, old, who",Understand none big experience movie.
+117,30,Email - Paid Search Campaign 30,Case Study,19.46,2024-06-13,Archived,Christopher Powell,v5.9,"race, I, how",Real any little environmental head full soldier financial.
+118,30,Social Post - Paid Search Campaign 30,Video,48.64,2024-05-20,Approved,Jessica Petersen,v3.6,"painting, become, kid",Scientist service test start middle city find medical.
+119,30,Infographic - Paid Search Campaign 30,Landing Page,44.03,2024-05-02,Review,Christina Brown,v1.7,"anything, growth, current",Statement measure play buy air head order concern.
+120,30,Social Post - Paid Search Campaign 30,Landing Page,17.81,2024-05-15,Approved,Melissa Mitchell,v4.0,"clear, occur, who",Positive question especially important after sister should.
+121,31,Social Post - Events Campaign 31,Infographic,32.54,2024-01-10,Draft,Lee Hahn,v3.6,"time, surface, learn",Level quality station however bill memory.
+122,31,Webinar - Events Campaign 31,Landing Page,32.54,2024-01-10,Approved,Karen Rogers,v3.5,"technology, end, represent",Could military drive arm tax special identify.
+123,32,Infographic - Events Campaign 32,Blog Post,32.94,2023-07-10,Approved,Jennifer Doyle,v5.9,"staff, gas, require",Point little wait grow feel color price next family likely.
+124,32,Case Study - Events Campaign 32,Landing Page,38.26,2023-02-18,Approved,Courtney Walker,v3.6,"small, former, end",Less brother approach plant oil per line.
+125,32,White Paper - Events Campaign 32,Landing Page,6.43,2023-05-16,Archived,Anthony Dickerson,v2.3,"garden, would, throughout",Century television Congress ball forward would finish around later.
+126,32,White Paper - Events Campaign 32,Infographic,29.03,2023-02-14,Draft,Jeffrey Jordan,v4.7,"himself, also, current",Wear throughout series most adult above safe difficult.
+127,33,Case Study - Direct Mail Campaign 33,Infographic,5.58,2024-07-24,Approved,Rodney Evans,v3.7,"road, others, full",Garden top grow could way truth.
+128,33,Email - Direct Mail Campaign 33,Blog Post,11.81,2024-07-28,Review,Alex Wagner,v1.5,"represent, society, heart",Side perhaps order answer blue structure answer.
+129,33,Video - Direct Mail Campaign 33,Email,22.49,2024-07-18,Approved,Christian Neal,v1.4,"inside, big, minute",Paper case store bit responsibility brother box blood cup current enjoy.
+130,33,Landing Page - Direct Mail Campaign 33,White Paper,18.22,2024-07-22,Review,Jon Clark,v4.5,"doctor, actually, become",Structure protect chance bed memory.
+131,34,Case Study - SEO Campaign 34,White Paper,23.11,2024-07-27,Approved,Brett Thompson,v1.4,"growth, quality, international",Believe serve animal system professional.
+132,34,Infographic - SEO Campaign 34,Webinar,18.2,2024-04-15,Archived,Nicholas Watson,v3.2,"box, hundred, lead",Ready long instead though coach car risk word.
+133,35,Video - Webinars Campaign 35,Email,45.61,2024-09-20,Archived,Catherine James,v3.9,"agreement, range, stuff",Low maintain thought key as pressure.
+134,35,Blog Post - Webinars Campaign 35,Landing Page,38.49,2024-09-23,Archived,Tyler Marks,v5.8,"read, peace, item",Loss professional political chance step throughout party.
+135,35,Blog Post - Webinars Campaign 35,Infographic,25.53,2024-09-20,Published,Angela Vasquez,v2.5,"wife, anyone, development",Idea dog learn soon large task language budget.
+136,36,Blog Post - Social Media Campaign 36,Video,20.47,2024-05-26,Archived,Brandon Munoz,v5.4,"three, none, pressure",Wear guy approach development lawyer nice people list price.
+137,36,Social Post - Social Media Campaign 36,Video,5.32,2024-09-02,Draft,Ronald Brandt,v3.8,"miss, reduce, animal",Manage state score important effect cultural.
+138,36,Video - Social Media Campaign 36,Email,11.17,2024-09-28,Review,Ashley Perry,v5.1,"sign, late, probably",Care material morning any very stuff lot meet TV.
+139,36,Infographic - Social Media Campaign 36,Infographic,36.66,2024-06-10,Published,Lisa Morris,v4.6,"woman, trouble, several",Huge garden family source catch owner though.
+140,36,Landing Page - Social Media Campaign 36,Case Study,42.23,2024-08-15,Approved,Taylor Chen,v2.3,"person, fact, generation",Wonder practice when mean reason follow.
+141,37,Webinar - Direct Mail Campaign 37,Landing Page,24.28,2024-11-01,Published,Stephanie Ferguson,v4.0,"mission, agent, certainly",Customer seek claim expert economy.
+142,37,Blog Post - Direct Mail Campaign 37,Case Study,10.6,2024-10-30,Approved,Ashley Parrish,v5.3,"score, night, down",Realize another high indicate small rate whole.
+143,38,Blog Post - SEO Campaign 38,Case Study,10.55,2023-11-24,Published,Susan Bush,v3.9,"national, owner, simply",Family concern radio cost community message.
+144,38,Email - SEO Campaign 38,Blog Post,21.71,2023-11-21,Review,Ryan Smith,v4.2,"always, up, others",Past product make of group six fish detail contain attention measure.
+145,39,Landing Page - Email Campaign 39,Landing Page,20.47,2023-07-20,Review,Erin Carter,v5.8,"little, no, sell",Boy generation drive politics.
+146,39,White Paper - Email Campaign 39,Blog Post,34.29,2023-07-12,Draft,Joshua Campbell,v5.5,"method, meet, main",Together court message way cold what Mrs.
+147,39,Blog Post - Email Campaign 39,Video,10.93,2023-10-10,Review,Jessica Garcia,v5.6,"position, vote, section",Agency response also available concern edge.
+148,39,Video - Email Campaign 39,White Paper,45.59,2023-08-06,Published,Jessica Smith,v1.8,"accept, result, as",Animal summer group me face rate paper example unit high.
+149,39,Blog Post - Email Campaign 39,Social Post,8.24,2023-06-12,Published,Sarah Phillips,v2.4,"quality, trial, some",Whatever action themselves center among of hour natural.
+150,40,Case Study - Webinars Campaign 40,White Paper,37.54,2023-03-12,Approved,Taylor York,v2.2,"contain, pattern, education",Consider son system surface usually.
+151,40,Landing Page - Webinars Campaign 40,Social Post,32.41,2023-03-01,Draft,Craig Carpenter,v3.5,"campaign, pretty, beyond",Attorney cover magazine foreign process really charge note space when collection.
+152,41,White Paper - Display Campaign 41,White Paper,35.75,2024-07-29,Approved,Brandy Quinn,v4.7,"knowledge, simple, main",Compare parent success teach cause.
+153,41,Landing Page - Display Campaign 41,White Paper,13.53,2024-08-31,Draft,Stephanie Atkinson,v1.9,"often, shoulder, defense",Necessary myself your line simple.
+154,41,Webinar - Display Campaign 41,Email,11.55,2024-08-16,Approved,Jonathan Davis,v3.8,"action, draw, who",Range serious cell city not not the certainly rule voice American.
+155,41,Social Post - Display Campaign 41,White Paper,3.61,2024-06-22,Draft,Kelly Moody,v4.7,"truth, thing, always",Billion why plant event score official now heavy.
+156,42,Webinar - Direct Mail Campaign 42,Video,26.07,2024-06-09,Review,Heather Parrish,v4.7,"thought, according, think",Close baby poor deep cost gun response brother discover.
+157,42,Webinar - Direct Mail Campaign 42,Video,24.34,2024-07-08,Review,Maria Jenkins,v2.0,"campaign, or, care",Always occur argue election conference when out nor affect rest.
+158,42,Case Study - Direct Mail Campaign 42,Video,11.22,2024-08-13,Published,Carolyn Greer,v5.2,"some, star, consider",Enough right garden law opportunity discover history board dark teacher.
+159,42,Landing Page - Direct Mail Campaign 42,Email,41.41,2024-08-13,Review,Lucas Williams,v5.8,"sell, behavior, process",Much ability visit question issue inside themselves recently investment voice.
+160,42,Social Post - Direct Mail Campaign 42,Email,17.85,2024-10-08,Archived,Cesar Woods,v2.1,"exist, theory, impact",Accept season according mission mind heart.
+161,43,Webinar - SEO Campaign 43,Email,18.43,2023-10-12,Archived,Scott Henderson,v3.9,"every, quite, sense",Need newspaper condition next low write officer similar.
+162,43,Email - SEO Campaign 43,Infographic,42.82,2024-01-23,Review,Michael Martin,v2.8,"hundred, full, nearly",Claim who accept before certainly.
+163,43,Email - SEO Campaign 43,Video,3.67,2023-10-26,Draft,Misty Arias,v4.9,"prevent, expert, white",Watch star policy keep cut.
+164,44,Case Study - Content Marketing Campaign 44,White Paper,2.16,2024-05-13,Archived,Lisa Craig,v3.3,"pretty, wish, beautiful",Sister good house only military say attention.
+165,44,Video - Content Marketing Campaign 44,Landing Page,14.58,2024-07-22,Archived,Victor Hill,v5.3,"lawyer, identify, above",Imagine blood authority family water sort.
+166,44,Case Study - Content Marketing Campaign 44,Landing Page,40.75,2024-05-06,Published,Kristine Carrillo,v3.7,"race, to, television",Break attack plant yes quality discover firm western might.
+167,44,Blog Post - Content Marketing Campaign 44,Case Study,12.79,2023-12-12,Approved,Timothy Woods,v3.3,"thus, especially, water",Material current save their deal dark.
+168,44,White Paper - Content Marketing Campaign 44,Webinar,8.22,2023-12-16,Draft,Mary Austin,v5.0,"summer, he, firm",Than make worker trouble exactly develop office approach son long.
+169,44,Landing Page - Content Marketing Campaign 44,Blog Post,25.37,2024-03-12,Review,Bryan Holmes,v3.0,"activity, decision, ok",Gun technology cost enjoy especially when gas contain.
+170,45,White Paper - Influencer Campaign 45,Email,35.19,2023-10-01,Published,Christopher Anderson,v5.3,"sport, result, sound",It herself certainly where change south computer matter yet support.
+171,45,Landing Page - Influencer Campaign 45,Landing Page,36.17,2024-01-15,Approved,Scott Williams,v1.2,"art, sport, live",Benefit seat employee growth newspaper special general in go quickly paper.
+172,45,Landing Page - Influencer Campaign 45,Infographic,48.98,2023-09-08,Approved,Katherine Doyle,v1.6,"party, less, what",Political up instead partner if trade.
+173,45,Video - Influencer Campaign 45,Infographic,17.51,2023-09-16,Approved,Lisa Foster,v4.5,"security, minute, late",Contain age road product wait red.
+174,45,Video - Influencer Campaign 45,White Paper,8.76,2023-07-24,Draft,Kara Brown,v4.8,"share, bar, energy",Base use hope director scene kitchen.
+175,46,Infographic - Display Campaign 46,Landing Page,42.01,2023-07-21,Approved,Erika Alvarez,v5.4,"nature, career, way",Computer our piece player nor model police finally girl music.
+176,46,Video - Display Campaign 46,Social Post,15.74,2023-07-23,Review,Aaron Ochoa,v2.5,"expert, movement, reach",Water local across involve fall discuss account health in.
+177,46,Landing Page - Display Campaign 46,Email,20.04,2023-07-21,Published,Connie Miller,v2.8,"share, travel, space",Expect sea speak include table consumer face.
+178,47,Social Post - Content Marketing Campaign 47,Case Study,35.17,2023-12-21,Approved,Anthony Nichols,v2.1,"example, by, just",Do character management game.
+179,47,Case Study - Content Marketing Campaign 47,Social Post,49.9,2023-12-10,Draft,Ryan Lynn,v1.4,"simply, author, like",Time economic high actually window research.
+180,47,Email - Content Marketing Campaign 47,Social Post,12.73,2024-07-05,Review,Ray Boyd,v2.7,"home, which, view",Pick among visit minute education police.
+181,47,White Paper - Content Marketing Campaign 47,Webinar,44.43,2024-05-15,Review,Cynthia Hamilton,v1.2,"some, once, how",Across among situation little other he become.
+182,47,Infographic - Content Marketing Campaign 47,Social Post,5.02,2024-02-09,Draft,Matthew Miles,v1.2,"maintain, first, next",South just cover ready group care together magazine.
+183,48,Landing Page - SEO Campaign 48,Case Study,27.37,2024-01-02,Archived,Gregory Oconnor,v3.9,"trial, never, attention",Last standard must law simply media.
+184,48,Infographic - SEO Campaign 48,Blog Post,31.18,2023-11-12,Archived,Nathan Barrett,v5.6,"couple, raise, she",Party follow political book model at.
+185,48,Infographic - SEO Campaign 48,Infographic,43.74,2023-09-07,Published,Andres May,v4.7,"moment, red, eight",Determine responsibility actually TV pretty up story life.
+186,48,Blog Post - SEO Campaign 48,Webinar,28.12,2024-07-01,Published,Rebecca Brown,v5.4,"more, same, strong",War whether best rise mother.
+187,48,White Paper - SEO Campaign 48,White Paper,26.55,2023-09-26,Review,Kristin Reese,v5.5,"purpose, reflect, interview",Coach Congress husband front citizen.
+188,49,Social Post - Content Marketing Campaign 49,Webinar,45.17,2024-12-22,Approved,Jennifer Schultz,v3.9,"drive, nation, heart",Unit effect which language however risk work other military year.
+189,49,Case Study - Content Marketing Campaign 49,Blog Post,15.37,2024-12-18,Approved,Rodney Norris,v3.8,"memory, number, occur",Also green catch happen old.
+190,49,White Paper - Content Marketing Campaign 49,Case Study,40.65,2024-12-17,Published,Claudia Jones,v3.7,"common, stay, ready",Standard believe politics also space high sister two free they.
+191,49,Email - Content Marketing Campaign 49,Email,46.55,2024-12-17,Review,Sarah Mcfarland,v4.0,"fight, American, music",Force recently check purpose young wife.
+192,49,Landing Page - Content Marketing Campaign 49,Video,11.49,2024-12-19,Published,George Alvarez,v1.8,"human, be, maybe",Seven lose cup house number night.
+193,49,Landing Page - Content Marketing Campaign 49,White Paper,12.49,2024-12-19,Published,Thomas Davis,v4.6,"half, couple, general",Show college glass start sort.
+194,50,Infographic - Email Campaign 50,Social Post,2.72,2024-11-02,Review,Brittney Chandler,v1.1,"science, drug, per",Than star add really born late.
+195,50,Blog Post - Email Campaign 50,Webinar,10.85,2024-10-20,Review,Nicole Dunn,v5.2,"reason, property, heavy",Analysis color exist smile peace apply pressure across home even.
+196,50,Webinar - Email Campaign 50,Video,1.44,2024-11-04,Published,James Bray,v1.5,"machine, others, because",May leader unit again easy morning.
+197,50,Webinar - Email Campaign 50,Social Post,19.97,2024-10-02,Approved,Heather Turner,v5.4,"speech, personal, these",Want we difficult game hotel.
+198,50,Infographic - Email Campaign 50,Video,36.63,2024-10-19,Archived,Melissa Butler,v5.2,"interview, fine, painting",My deal catch must son television finally relate model.
+199,50,Infographic - Email Campaign 50,Email,49.79,2024-11-09,Review,Krystal Moore,v1.8,"mouth, rest, contain",Risk she they increase in kitchen.

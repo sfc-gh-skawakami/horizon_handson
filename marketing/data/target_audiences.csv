@@ -1,0 +1,8 @@
+audience_id,audience_name,segment,size_estimate,avg_lifetime_value
+1,Enterprise Decision Makers,Enterprise,50000,25000
+2,SMB Owners,SMB,200000,8000
+3,Tech Startups,Startup,100000,3000
+4,Individual Professionals,Individual,500000,1500
+5,Government Agencies,Government,25000,50000
+6,Non-Profit Organizations,Non-Profit,75000,2000
+7,Educational Institutions,Education,100000,12000
