@@ -60,13 +60,13 @@ CREATE OR REPLACE TABLE customers (
     company_name VARCHAR(200) NOT NULL,
     contact_name VARCHAR(100) NOT NULL,
     email VARCHAR(100) NOT NULL,
-    phone VARCHAR(20) NOT NULL,
+    phone VARCHAR(25) NOT NULL,
     industry VARCHAR(50) NOT NULL,
     company_size NUMBER NOT NULL,
     customer_tier VARCHAR(20) NOT NULL,
     signup_date DATE NOT NULL,
     last_interaction DATE NOT NULL,
-    country VARCHAR(50) NOT NULL,
+    country VARCHAR(100) NOT NULL,
     state VARCHAR(50) NOT NULL,
     city VARCHAR(50) NOT NULL,
     annual_revenue NUMBER NOT NULL,
@@ -275,54 +275,86 @@ CREATE OR REPLACE GIT REPOSITORY support_performance_analytics.public.GIT_INTEGR
   ORIGIN = 'https://github.com/sfc-gh-skawakami/horizon_handson.git';
 
 -- ==============================================
--- Copy data fro git stage to tables
+-- Copy Files from git stage to stage
 -- ==============================================
 CREATE OR REPLACE FILE FORMAT support_performance_analytics.public.csv_ff 
-type = 'csv';
+type = 'csv'
+FIELD_DELIMITER = ','
+PARSE_HEADER = TRUE
+FIELD_OPTIONALLY_ENCLOSED_BY='"'
+TRIM_SPACE=TRUE
+;
 
-COPY INTO customer_satisfaction FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/customer_satisfaction.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+CREATE OR REPLACE stage public.raw_data
+    FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+    DIRECTORY = ( ENABLE = TRUE);
 
-COPY INTO customers FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/customers.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+-- ==============================================
+-- Copy data fro git stage to tables
+-- ==============================================
+COPY FILES INTO @public.raw_data FROM @public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/
+PATTERN = '.*.csv';
 
-COPY INTO escalations FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/escalations.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO customer_satisfaction FROM @public.raw_data/customer_satisfaction.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO knowledge_base FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/knowledge_base.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO customers FROM @public.raw_data/customers.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO products FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/products.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO escalations FROM @public.raw_data/escalations.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO resolution_times FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/resolution_times.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO knowledge_base FROM @public.raw_data/knowledge_base.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO sla_violations FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/sla_violations.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO products FROM @public.raw_data/products.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO support_agents FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/support_agents.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO resolution_times FROM @public.raw_data/resolution_times.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO support_metrics FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/support_metrics.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO sla_violations FROM @public.raw_data/sla_violations.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO support_teams FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/support_teams.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO support_agents FROM @public.raw_data/support_agents.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO ticket_attachments FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_attachments.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO support_metrics FROM @public.raw_data/support_metrics.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO ticket_categories FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_categories.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO support_teams FROM @public.raw_data/support_teams.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO ticket_priorities FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_priorities.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO ticket_attachments FROM @public.raw_data/ticket_attachments.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO ticket_responses FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_responses.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO ticket_statuses FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_statuses.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO ticket_categories FROM @public.raw_data/ticket_categories.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 
-COPY INTO tickets FROM @support_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/support/data/ticket_statuses.csv
-FILE_FORMAT = (FORMAT_NAME = 'support_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO ticket_priorities FROM @public.raw_data/ticket_priorities.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+COPY INTO ticket_responses FROM @public.raw_data/ticket_responses.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+COPY INTO ticket_statuses FROM @public.raw_data/ticket_statuses.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+COPY INTO tickets FROM @public.raw_data/tickets.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;

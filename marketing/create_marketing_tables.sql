@@ -283,37 +283,66 @@ CREATE OR REPLACE GIT REPOSITORY marketing_performance_analytics.public.GIT_INTE
   ORIGIN = 'https://github.com/sfc-gh-skawakami/horizon_handson.git';
 
 -- ==============================================
+-- Copy Files from git stage to stage
+-- ==============================================
+CREATE OR REPLACE FILE FORMAT public.csv_ff 
+type = 'csv'
+FIELD_DELIMITER = ','
+PARSE_HEADER = TRUE
+FIELD_OPTIONALLY_ENCLOSED_BY='"'
+TRIM_SPACE=TRUE
+;
+
+CREATE OR REPLACE stage public.raw_data
+    FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+    DIRECTORY = ( ENABLE = TRUE);
+
+-- ==============================================
 -- Copy data fro git stage to tables
 -- ==============================================
-CREATE OR REPLACE FILE FORMAT marketing_performance_analytics.public.csv_ff 
-type = 'csv';
+COPY FILES INTO @public.raw_data FROM @public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/
+PATTERN = '.*.csv';
 
-COPY INTO attribution FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/attribution.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
 
-COPY INTO budget_allocation FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/budget_allocation.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO campaigns FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/campaigns.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO campaign_assets FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/campaign_assets.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO content_performance FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/content_performance.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO customer_journey FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/customer_journey.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO leads FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/leads.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO marketing_activities FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/marketing_activities.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO marketing_channels FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/marketing_channels.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO marketing_metrics FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/marketing_metrics.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO marketing_teams FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/marketing_teams.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO target_audiences FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/target_audiences.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1); 
-COPY INTO conversions FROM @marketing_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/marketing/data/conversions.csv
-FILE_FORMAT = (FORMAT_NAME = 'marketing_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO attribution FROM @public.raw_data/attribution.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+COPY INTO budget_allocation FROM @public.raw_data/budget_allocation.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO campaigns FROM @public.raw_data/campaigns.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO campaign_assets FROM @public.raw_data/campaign_assets.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO content_performance FROM @public.raw_data/content_performance.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO customer_journey FROM @public.raw_data/customer_journey.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO leads FROM @public.raw_data/leads.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO marketing_activities FROM @public.raw_data/marketing_activities.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO marketing_channels FROM @public.raw_data/marketing_channels.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO marketing_metrics FROM @public.raw_data/marketing_metrics.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO marketing_teams FROM @public.raw_data/marketing_teams.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO target_audiences FROM @public.raw_data/target_audiences.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO conversions FROM @public.raw_data/conversions.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 -- ==============================================
 -- End of Marketing Performance Analytics Schema

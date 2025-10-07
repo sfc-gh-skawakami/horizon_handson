@@ -270,36 +270,66 @@ CREATE OR REPLACE GIT REPOSITORY sales_performance_analytics.public.GIT_INTEGRAT
   ORIGIN = 'https://github.com/sfc-gh-skawakami/horizon_handson.git';
 
 -- ==============================================
+-- Copy Files from git stage to stage
+-- ==============================================
+CREATE OR REPLACE FILE FORMAT public.csv_ff 
+type = 'csv'
+FIELD_DELIMITER = ','
+PARSE_HEADER = TRUE
+FIELD_OPTIONALLY_ENCLOSED_BY='"'
+TRIM_SPACE=TRUE
+;
+
+CREATE OR REPLACE stage public.raw_data
+    FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+    DIRECTORY = ( ENABLE = TRUE);
+
+-- ==============================================
 -- Copy data fro git stage to tables
 -- ==============================================
-CREATE OR REPLACE FILE FORMAT sales_performance_analytics.public.csv_ff 
-type = 'csv';
+COPY FILES INTO @public.raw_data FROM @public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/
+PATTERN = '.*.csv';
 
-COPY INTO activities FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/activities.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
 
-COPY INTO campaigns FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/campaigns.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO commissions FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/commissions.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO customer_segments FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/customer_segments.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO customers FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/customers.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO deals FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/deals.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO leads FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/leads.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO opportunities FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/opportunities.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO products FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/products.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO sales_metrics FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/sales_metrics.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO sales_representatives FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/sales_representatives.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO sales_teams FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/sales_teams.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
-COPY INTO territories FROM @sales_performance_analytics.public.GIT_INTEGRATION_FOR_HANDSON/branches/main/sales/data/territories.csv
-FILE_FORMAT = (FORMAT_NAME = 'sales_performance_analytics.public.csv_ff' SKIP_HEADER = 1);
+COPY INTO activities FROM @public.raw_data/activities.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+COPY INTO campaigns FROM @public.raw_data/campaigns.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO commissions FROM @public.raw_data/commissions.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO customer_segments FROM @public.raw_data/customer_segments.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO customers FROM @public.raw_data/customers.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO deals FROM @public.raw_data/deals.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO leads FROM @public.raw_data/leads.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO opportunities FROM @public.raw_data/opportunities.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO products FROM @public.raw_data/products.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO sales_metrics FROM @public.raw_data/sales_metrics.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO sales_representatives FROM @public.raw_data/sales_representatives.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO sales_teams FROM @public.raw_data/sales_teams.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+COPY INTO territories FROM @public.raw_data/territories.csv
+FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
 -- ==============================================
