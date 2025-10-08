@@ -344,5 +344,21 @@ MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 COPY INTO conversions FROM @public.raw_data/conversions.csv
 FILE_FORMAT = (FORMAT_NAME = 'public.csv_ff')
 MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
--- ==============================================
--- End of Marketing Performance Analytics Schema
+
+------------------------------------------------------------
+-- ハンズオン用ノートブックの作成
+------------------------------------------------------------
+-- Notebookの作成
+CREATE OR REPLACE NOTEBOOK public.horizon_handson
+    FROM @public.GIT_INTEGRATION_FOR_HANDSON/branches/main/
+    MAIN_FILE = 'Horizon Catalog Handson.ipynb'
+    QUERY_WAREHOUSE = COMPUTE_WH
+    WAREHOUSE = SYSTEM$STREAMLIT_NOTEBOOK_WH;
+
+CREATE OR REPLACE NOTEBOOK public.qucik_start_example
+    FROM @public.GIT_INTEGRATION_FOR_HANDSON/branches/main/
+    MAIN_FILE = 'QUICK_STARTZ_EXAMPLE.ipynb'
+    QUERY_WAREHOUSE = COMPUTE_WH
+    WAREHOUSE = SYSTEM$STREAMLIT_NOTEBOOK_WH;
+
+SELECT 'SETUP COMPLETED' as result;
